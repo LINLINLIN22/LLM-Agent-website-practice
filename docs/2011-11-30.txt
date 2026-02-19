@@ -1,0 +1,12 @@
+標題: 行動錢包戰場　Google亮眼Apple新秀
+原文: https://www.ectimes.org.tw/2011/11/%e8%a1%8c%e5%8b%95%e9%8c%a2%e5%8c%85%e6%88%b0%e5%a0%b4%e3%80%80google%e4%ba%ae%e7%9c%bcapple%e6%96%b0%e7%a7%80/
+記者／陳舒珊根據市場研究機構ABI Research上週報告指出，因Google Wallet服務啟用，以及Apple公司預計明年發表行動錢包產品，該市場將於2012年至2016年間進行洗牌，屆時勢必與目前市場領導者Verizon Wireless、AT&T、Vodafone等行動營運商進行市占率的爭奪。Google Wallet是Google與Mastercard、花旗銀行及Sprint所合作開發的行動支付系統，目前全球已建置30萬個可使用該系統付費的PayPass據點；另外藉由Google Offers的推出，折價券將可傳送至行動裝置中，方便消費者於付款時直接計算折扣。而Apple則預計於2012年，發表行動支付產品。ABI Research指出，未來支援Google Wallet的行動裝置將成為熱門趨勢，行動營運商可選擇與Google合作以尋求獲利；且與Apple合作的營運商，也將為iPhone用戶提供行動支付系統。據研究顯示，2012年營運商將擁有NFC行動錢包75%的市占率，但受到Google與Apple品牌優勢所影響，預計2016年市占率將下降至63%。另外，由美國三大行動營運商AT&T、Verizon及T-Mobile結盟建立的行動付款網路Isis，將在明年發表。ABI Research預估，2016年採用NFC技術的行動錢包使用者將達5.94億人，各平台供應商也準備推出各式支援NFC的裝置與營運商競爭行動錢包市場。
+
+記者／陳舒珊
+
+根據市場研究機構ABI Research上週報告指出，因Google Wallet服務啟用，以及Apple公司預計明年發表行動錢包產品，該市場將於2012年至2016年間進行洗牌，屆時勢必與目前市場領導者Verizon Wireless、AT&T、Vodafone等行動營運商進行市占率的爭奪。
+
+Google Wallet是Google與Mastercard、花旗銀行及Sprint所合作開發的行動支付系統，目前全球已建置30萬個可使用該系統付費的PayPass據點；另外藉由Google Offers的推出，折價券將可傳送至行動裝置中，方便消費者於付款時直接計算折扣。而Apple則預計於2012年，發表行動支付產品。
+
+ABI Research指出，未來支援Google Wallet的行動裝置將成為熱門趨勢，行動營運商可選擇與Google合作以尋求獲利；且與Apple合作的營運商，也將為iPhone用戶提供行動支付系統。據研究顯示，2012年營運商將擁有NFC行動錢包75%的市占率，但受到Google與Apple品牌優勢所影響，預計2016年市占率將下降至63%。
+

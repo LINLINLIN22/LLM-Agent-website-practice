@@ -1,0 +1,14 @@
+標題: 三星找幫手　正面迎擊Google Chrome
+原文: https://www.ectimes.org.tw/2013/04/%e4%b8%89%e6%98%9f%e6%89%be%e5%b9%ab%e6%89%8b%e3%80%80%e6%ad%a3%e9%9d%a2%e8%bf%8e%e6%93%8agoogle-chrome/
+記者／吳宇翔Samsung與知名瀏覽器公司Mozilla日前共同宣布，將計畫合作推出一款全新的行動瀏覽器Servo。Mozilla的技術總監Brendan Eich表示，「Servo將打破一般人對於傳統瀏覽器運作的迷思」。讀者們是否會好奇，與Google關係密切的Samsung為何會選擇與Mozilla合作，推出瀏覽器和Google Chrome「打對臺」呢？事實上，合作計畫對於Samsung與Mozilla皆有所助益。首先，在Apple以及Google所推出的行動裝置中都分別內建自家的Safari與Chrome瀏覽器，導致Mozilla在推廣行動版Firefox過程中可以說是困難重重。另外，儘管Samsung在去年第四季佔43%Android手機的銷售量，行動瀏覽器仍受限於Google。Servo若能成功，有助於Mozilla打進行動瀏覽器市場，打破兩強獨霸的局面；Samsung則能脫離Google的控制。合作不僅造成雙贏局面，同時也展現Samsung對於平台端的野心。投資銀行Sterne Agee的分析師Shaw Wu指出，Samsung逐漸水平整合旗下軟、硬體、以及服務，以便提升其競爭力和Apple、Google、Microsoft、Amazon等龍頭一較高下。然而，與Android密不可分的關係也許影響Samsung推出自家平台的計畫，Samsung勢必得逐漸減少對於Android系統的依賴。外界普遍認為Samsung選擇與Mozilla合作是一個聰明的決定，若將來Samsung將Servo內建至其推出的手機，則勢必對Google造成相當大的衝擊；另外一方面，對Google而言，面對長期合作夥伴的「背叛」，是否會採取任何應對措施，則值得觀察。
+
+記者／吳宇翔
+
+Samsung與知名瀏覽器公司Mozilla日前共同宣布，將計畫合作推出一款全新的行動瀏覽器Servo。Mozilla的技術總監Brendan Eich表示，「Servo將打破一般人對於傳統瀏覽器運作的迷思」。讀者們是否會好奇，與Google關係密切的Samsung為何會選擇與Mozilla合作，推出瀏覽器和Google Chrome「打對臺」呢？
+
+事實上，合作計畫對於Samsung與Mozilla皆有所助益。首先，在Apple以及Google所推出的行動裝置中都分別內建自家的Safari與Chrome瀏覽器，導致Mozilla在推廣行動版Firefox過程中可以說是困難重重。另外，儘管Samsung在去年第四季佔43%Android手機的銷售量，行動瀏覽器仍受限於Google。Servo若能成功，有助於Mozilla打進行動瀏覽器市場，打破兩強獨霸的局面；Samsung則能脫離Google的控制。
+
+合作不僅造成雙贏局面，同時也展現Samsung對於平台端的野心。投資銀行Sterne Agee的分析師Shaw Wu指出，Samsung逐漸水平整合旗下軟、硬體、以及服務，以便提升其競爭力和Apple、Google、Microsoft、Amazon等龍頭一較高下。然而，與Android密不可分的關係也許影響Samsung推出自家平台的計畫，Samsung勢必得逐漸減少對於Android系統的依賴。
+
+外界普遍認為Samsung選擇與Mozilla合作是一個聰明的決定，若將來Samsung將Servo內建至其推出的手機，則勢必對Google造成相當大的衝擊；另外一方面，對Google而言，面對長期合作夥伴的「背叛」，是否會採取任何應對措施，則值得觀察。
+

@@ -1,0 +1,14 @@
+標題: Android超越Symbian　稱霸智慧手機系統
+原文: https://www.ectimes.org.tw/2011/02/android%e8%b6%85%e8%b6%8asymbian%e3%80%80%e7%a8%b1%e9%9c%b8%e6%99%ba%e6%85%a7%e6%89%8b%e6%a9%9f%e7%b3%bb%e7%b5%b1/
+記者／黃惟伶根據市場研究公司Canalys的最新統計數據，Google的Android系統在2010年的第4季度首度超越Nokia的Symbian系統，顯現全球手機智能平台不再由Symbian系統一支獨秀。Canalys指出，起初未被看好的Android系統展現出勢如破竹的氣勢，目前使用Android系統的智慧手機在2010年第4季達到了3,330萬支的出貨量，相較於2009年同期的470萬支成長超過6倍。而Nokia雖仍以28％的市占率維持全球最大智慧手機生產商的地位，但已面臨嚴重挑戰。Google在蘋果（Apple）於2007年進入智慧手機市場之後也推出了Android系統，去年第4季Android系統的全球市佔率達到33％，高於Symbian系統的31％和蘋果iOS系統的16％。業界認為，由於Google Android以免費的方式提供手機製造商採用，此次調查顯現Google確實比蘋果更快速的搶佔智慧手機市場。由於Google和蘋果逐漸改革了智慧手機市場，不僅使Nokia面臨困境，更有營運商擔心智慧手機作業系統被Google和蘋果壟斷，希望Nokia提出因應方案。對此，Nokia也在研發新系統MeeGo，執行長Stephen Elop上周表示，Nokia可能出現「劇烈改變」，預料將在11日宣布最新策略。
+
+記者／黃惟伶
+
+根據市場研究公司Canalys的最新統計數據，Google的Android系統在2010年的第4季度首度超越Nokia的Symbian系統，顯現全球手機智能平台不再由Symbian系統一支獨秀。
+
+Canalys指出，起初未被看好的Android系統展現出勢如破竹的氣勢，目前使用Android系統的智慧手機在2010年第4季達到了3,330萬支的出貨量，相較於2009年同期的470萬支成長超過6倍。而Nokia雖仍以28％的市占率維持全球最大智慧手機生產商的地位，但已面臨嚴重挑戰。
+
+Google在蘋果（Apple）於2007年進入智慧手機市場之後也推出了Android系統，去年第4季Android系統的全球市佔率達到33％，高於Symbian系統的31％和蘋果iOS系統的16％。業界認為，由於Google Android以免費的方式提供手機製造商採用，此次調查顯現Google確實比蘋果更快速的搶佔智慧手機市場。
+
+由於Google和蘋果逐漸改革了智慧手機市場，不僅使Nokia面臨困境，更有營運商擔心智慧手機作業系統被Google和蘋果壟斷，希望Nokia提出因應方案。對此，Nokia也在研發新系統MeeGo，執行長Stephen Elop上周表示，Nokia可能出現「劇烈改變」，預料將在11日宣布最新策略。
+

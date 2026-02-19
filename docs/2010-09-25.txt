@@ -1,0 +1,14 @@
+標題: Google Docs來助陣　iPad文書處理更方便
+原文: https://www.ectimes.org.tw/2010/09/google-docs%e4%be%86%e5%8a%a9%e9%99%a3%e3%80%80ipad%e6%96%87%e6%9b%b8%e8%99%95%e7%90%86%e6%9b%b4%e6%96%b9%e4%be%bf/
+記者／林欣平Google週一在巴黎舉行的Google Atmosphere活動中宣布，即將針對蘋果﹝Apple﹞的iPad和自家的Android平台推出Google Docs行動編輯服務，Google Docs可用來製作和分享文件、試算表、簡報文件和圖表等，使用者可以透過此編輯文件內容，同時與他人協同作業或分享檔案。Google Apps在之前早已支援iPhone、Android、Windows Mobile等行動平台，但是因為手機螢幕過小，並不適合處理文件，因此雖然Goolge Docs提供此項服務，但是並未受到使用者的青睞。這次Google針對螢幕較大的平板電腦推出Goolge Docs線上編輯等新功能，而此舉也將改變蘋果對iPad的定位，從娛樂功能向外擴展到文書處理應用。另外，Google表示，目前已有超過300萬個企業使用Google服務，因此將針對雲端服務推出更新帳號認證機制，使用者在原有的密碼認證以外，仍須輸入行動電話的認證序號，進行雙重認證，以避免網路釣魚及密碼重複使用的資訊安全威脅。不過初期只支援Premier、教育及政府版，必須過幾個月後，才會適用於標準版。Google企業總裁Dave Girouard在會上示範文件相關編輯，並表示，未來可能會將此Goolge Docs新功能對應到更多的平板裝置，提供使用者更多行動處理的便利性。
+
+記者／林欣平
+
+Google週一在巴黎舉行的Google Atmosphere活動中宣布，即將針對蘋果﹝Apple﹞的iPad和自家的Android平台推出Google Docs行動編輯服務，Google Docs可用來製作和分享文件、試算表、簡報文件和圖表等，使用者可以透過此編輯文件內容，同時與他人協同作業或分享檔案。
+
+Google Apps在之前早已支援iPhone、Android、Windows Mobile等行動平台，但是因為手機螢幕過小，並不適合處理文件，因此雖然Goolge Docs提供此項服務，但是並未受到使用者的青睞。這次Google針對螢幕較大的平板電腦推出Goolge Docs線上編輯等新功能，而此舉也將改變蘋果對iPad的定位，從娛樂功能向外擴展到文書處理應用。
+
+另外，Google表示，目前已有超過300萬個企業使用Google服務，因此將針對雲端服務推出更新帳號認證機制，使用者在原有的密碼認證以外，仍須輸入行動電話的認證序號，進行雙重認證，以避免網路釣魚及密碼重複使用的資訊安全威脅。不過初期只支援Premier、教育及政府版，必須過幾個月後，才會適用於標準版。
+
+Google企業總裁Dave Girouard在會上示範文件相關編輯，並表示，未來可能會將此Goolge Docs新功能對應到更多的平板裝置，提供使用者更多行動處理的便利性。
+

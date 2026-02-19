@@ -1,0 +1,14 @@
+標題: 蘋果挫咧等　Google將奪下App龍頭寶座
+原文: https://www.ectimes.org.tw/2013/06/%e8%98%8b%e6%9e%9c%e6%8c%ab%e5%92%a7%e7%ad%89%e3%80%80google%e5%b0%87%e5%a5%aa%e4%b8%8bapp%e9%be%8d%e9%a0%ad%e5%af%b6%e5%ba%a7/
+記者／李婕瑜根據英國金融時報，蘋果的App Store將不再是最受歡迎的App下載平台，幾個月後可能將App龍頭寶座讓給Google。蘋果在上個月宣布其App下載量達500億里程碑，在此同時，Google的AndroidApp也突破480億次，讓分析師紛紛預言在Google在未來幾個月的App下載量將超越蘋果。蘋果始終以多元豐富的App保持競爭優勢，其App Store的選擇高達85萬種，但Android近年已逐漸贏得許多開發商的青睞，不斷開創新穎的App創造更多選擇。研究調查機構Asymco和Enders Analysis指出，Android App每月下載次數多達25億次，高於蘋果的20億次，若能持續穩定成長，將能躍居最大的App下載平台。Google日前宣布已突破9億台Android裝置，從去年的4億台到今年的9億台，幾乎成長了兩倍多。在硬體成長速度爆衝的同時，Google也針對Android平台開發商推出Android Studio與Google Play開發者主控台服務，幫助他們在開發App時能即編即看，並且能針對App內容進行介面翻譯、成效追蹤等服務，為開發商帶來不少便利性。雖然不少專家看好Android App的前景，但別忘了蘋果裝置的啟動數量較 Android 要少，目前蘋果賣出6億台iOS裝置，而Android裝置則賣出9億台。不過單從利潤角度來看，App Store 的前 200 熱門App每天可為蘋果帶來 510 萬美元收入，相當於 Google Play 的四倍，顯示下載量並非利潤高低的指標。
+
+記者／李婕瑜
+
+根據英國金融時報，蘋果的App Store將不再是最受歡迎的App下載平台，幾個月後可能將App龍頭寶座讓給Google。蘋果在上個月宣布其App下載量達500億里程碑，在此同時，Google的AndroidApp也突破480億次，讓分析師紛紛預言在Google在未來幾個月的App下載量將超越蘋果。
+
+蘋果始終以多元豐富的App保持競爭優勢，其App Store的選擇高達85萬種，但Android近年已逐漸贏得許多開發商的青睞，不斷開創新穎的App創造更多選擇。研究調查機構Asymco和Enders Analysis指出，Android App每月下載次數多達25億次，高於蘋果的20億次，若能持續穩定成長，將能躍居最大的App下載平台。
+
+Google日前宣布已突破9億台Android裝置，從去年的4億台到今年的9億台，幾乎成長了兩倍多。在硬體成長速度爆衝的同時，Google也針對Android平台開發商推出Android Studio與Google Play開發者主控台服務，幫助他們在開發App時能即編即看，並且能針對App內容進行介面翻譯、成效追蹤等服務，為開發商帶來不少便利性。
+
+雖然不少專家看好Android App的前景，但別忘了蘋果裝置的啟動數量較 Android 要少，目前蘋果賣出6億台iOS裝置，而Android裝置則賣出9億台。不過單從利潤角度來看，App Store 的前 200 熱門App每天可為蘋果帶來 510 萬美元收入，相當於 Google Play 的四倍，顯示下載量並非利潤高低的指標。
+

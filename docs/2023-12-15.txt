@@ -1,0 +1,22 @@
+標題: ChatGPT Plus回來了！　三大亮點一次整理
+原文: https://www.ectimes.org.tw/2023/12/chatgpt-plus%e5%9b%9e%e4%be%86%e4%ba%86%ef%bc%81%e3%80%80%e4%b8%89%e5%a4%a7%e4%ba%ae%e9%bb%9e%e4%b8%80%e6%ac%a1%e6%95%b4%e7%90%86/
+11月初OpenAI舉行 DevDay 2023 開發者大會公布了ChatGPT Plus的新功能，同時預告未來會推出類似 App Store 的 GPT Store，讓開發者能用 AI 應用程式賺錢，但消息公布後註冊人數急增，超越系統負載量，OpenAI 為了維持品質決定暫停新帳號註冊，直至昨（14）日執行長奧特曼（Sam Altman）在X平台宣布，已重新開放ChatGPT Plus訂閱。
+
+根據開發者大會所發表的訊息，ChatGPT Plus相較一般版本的ChatGPT多出了以下三大功能：
+
+一、更強大的GPT-4 Turbo模型。
+
+GPT-4 Turbo將資料庫擴充到2023年4月，終於能夠與最新資訊接軌，且在單一提示詞下可以容納高達300頁的文字，相當於一次能寫一本書的容量 。
+
+二、任何人都能打造客製化GPT，GPT版App商店即將問世
+
+可以依照開發者的需求與目標，可以自由打造各種功能與特色的聊天機器人，且整個過程完全不用編寫程式 。且在GPT商店，經過驗證的開發者可以上架自己的GPT作品 ，並能依照GPT使用人數獲得金錢回饋
+
+三、AI助理（Assistants API）
+
+OpenAI希望透過這項工具，讓任何開發者都能在App當中，打造類似Copilot般的智慧助理，並提供了3種新工具支援打造AI助理的需求，包含程式碼直譯器（Code interpreter）、檢索（Retrieval）和函式呼叫（Function calling）的工具。
+
+￭ChatGPT Plus目前已重新開放註冊。(Photo byChatGPT Plus)
+
+OpenAI的技術一直領先各家公司，但若是希望能持續引領AI產業，就必須協同開發者的力量，讓GPT技術深入每個角落。OpenAI的大金主，微軟執行長薩蒂亞．納德拉（Satya Nadella）也在出席活動站台時表示，「我們的使命是賦能每個人及每間組織，幫助他們取得更多成果。對我來說，AI唯有能夠真正賦能時，才能發揮其價值所在。」。
+

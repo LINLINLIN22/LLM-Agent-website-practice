@@ -1,0 +1,10 @@
+標題: Ericsson與iAnywhere開發行動銀行方案
+原文: https://www.ectimes.org.tw/2000/08/ericsson%e8%88%87ianywhere%e9%96%8b%e7%99%bc%e8%a1%8c%e5%8b%95%e9%8a%80%e8%a1%8c%e6%96%b9%e6%a1%88/
+記者／周湘雯
+
+Ericsson與賽貝斯(Sybase)子公司iAnywhereSolution近日對外宣佈全球策略聯盟，合作中將結合Ericsson行動式網際網路的專業技術，以及Sybase於行動運算上的領導優勢，提供給業界一個「隨時可得」(alwaysavailable)的行動銀行解決方案。
+
+此項行動銀行解決方案，乃是針對目前銀行以個人化訴求做為服務主軸的精神所發展出來，而Ericsson與iAnywhereSolution公司所推出的行動銀行應用程式，能夠輔助金融機構更彈性並具效率的對其客戶做個人化加值服務，使用者除了能與銀行帳戶作連結外，還能取得與銀行間交易金額以及獲得財經新聞等服務。預估兩家公司的聯盟將提升金融服務取得高水準的WAP應用程式，並確保智慧型電話的地位。
+
+目前Ericsson與iAnywhere Solution公司除了開發此項行動銀行應用程式外，還積極研發行動使用者與無線網路連線及離線工作的功能，打破從前需保持連線才能存取個人資料的限制。
+

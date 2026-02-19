@@ -1,0 +1,12 @@
+標題: 歐盟調查 TikTok Lite　相關風險報告皆未提交
+原文: https://www.ectimes.org.tw/2024/04/%e6%ad%90%e7%9b%9f%e8%aa%bf%e6%9f%a5-tiktok-lite%e3%80%80%e7%9b%b8%e9%97%9c%e9%a2%a8%e9%9a%aa%e5%a0%b1%e5%91%8a%e7%9a%86%e6%9c%aa%e6%8f%90%e4%ba%a4/
+歐盟執行委員會（英語：European Commission；簡稱：歐盟執委會）於 4 月 22 日宣布，將調查TikTok Lite是否違反《數位服務法》(Digital Services Act，DSA)，這已是今年歐洲執委會針對中國字節跳動 (Byte Dance)公司旗下應用程式 TikTok 展開的第二次正式調查。TikTok Lite 近期推出的「任務及獎勵計畫」 (Task and Reward Program) 疑似未遵守《數位服務法》規範，須於期限內繳交分析報告至歐盟執委會，但 TikTok 均未依期限提交。
+
+￭歐盟執委會正調查TikTok Lite是否違反《數位服務法》。（圖片來源 /Solen FeyissaonUnsplash）
+
+今年 3 月，TikTok Lite 於法國及西班牙上市，並提出新功能「任務及獎勵計畫」，使用者完成指定任務（瀏覽影片、按讚、追蹤、邀請好友）蒐集積分，便可兌換Amazon優惠券或 APP 虛擬貨幣等實質報酬。此功能可能導致兒童社群成癮、危害使用者心理健康風險等。
+
+事實上，在該 APP 上市前，TikTok Lite 就應該依法提交相關風險評估給歐盟，但 TikTok 並未提交。歐盟執委會已要求 TikTok 於 18 日前提供相關報告，TikTok 仍然未依期限繳交。因此，歐盟執委會下最後通牒，最晚在 23 日提出風險評估報告、5 月 3 日提供要求的相關資料，否則可依《數位服務法》處以全球營收 1% 罰款。
+
+歐盟《數位服務法》自 2023 年 8 月起，適用於「非常大型網路平臺」 (Very Large Online Platforms) 及「非常大型搜尋引擎」 (Very Large Online Search Engines)，認定標準為歐盟境內，每月活躍月戶逾 4,500 萬；自 2024 年 2 月 17 日起，所有平臺皆適用該法，必須負起責任，共同防範有害兒少、不實資訊、仇恨言論、強迫推銷等網路內容。
+

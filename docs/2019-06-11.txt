@@ -1,0 +1,12 @@
+標題: Google Stadia 遊戲串流服務　將於11月上線
+原文: https://www.ectimes.org.tw/2019/06/google-stadia-%e9%81%8a%e6%88%b2%e4%b8%b2%e6%b5%81%e6%9c%8d%e5%8b%99%e3%80%80%e5%b0%87%e6%96%bc11%e6%9c%88%e4%b8%8a%e7%b7%9a/
+E3遊戲展(Electronic Entertainment Expo) 將於美國時間6月11日至13日 (台灣時間6月12日凌晨兩點至14日早上九點) 在美國洛杉磯會議中心舉辦。而搶在遊戲產業盛事之前，Google搶先在6月7日的YouTube直播發表會中透露了遊戲串流服務Google Stadia的相關細節，並正式宣布Google Stadia將於今年 11月推出。
+
+■Google Stadia將於11月在14個國家推出。（截圖自／Stadia官網）
+
+Stadia的訂閱服務為「Stadia Pro」，提供玩家4K、5.1聲道及60FPS的遊戲體驗，玩家可以使用Chrome瀏覽器遊玩，也可以透過Chromecast Ultra在電視螢幕上、或是透過Pixel 3/3a邊走邊玩，未來支援的範圍也有機會擴大到其他手機上。而除了Stadia Pro之外，Google也提供玩家另一種試水溫的選擇，就是單獨購買遊戲的Stadia Base服務。該單款遊戲將享有Stadia的串流服務功能，玩家可以隨處隨地進行遊玩，但畫質被限定在1080p，音質也僅有雙聲道，因此只適合想要初步體驗的玩家。第一波享有服務的14個國家都聚集在歐美，包含美國、加拿大、英國、法國、荷蘭、丹麥等。
+
+Google Stadia可以說是首個正式推出的遊戲串流服務，但與同樣採串流服務形式的知名影音平台Netflix相比，Stadia並沒有提供遊戲玩到飽的服務，而是免去玩遊戲的許多硬體限制與步驟。Stadia提供免家用主機、免下載、不用更新、不用安裝，「想玩就玩」的服務。因此要進行遊戲串流的玩家，網路速度自然會有所要求，Stadia團隊建議，玩家網速至少需有35Mbps，才能享有更良好的遊戲體驗。
+
+而為了迎戰Google Stadia，微軟於E3展前記者會釋出全新主機資訊，進一步公開Project xCloud遊戲串流服務的上線時間，將於10月與Google正面對決。與Google Stadia最大的差別在於，xCloud建立於Xbox服務本身之上，支援所有Xbox One的遊戲，玩家能無縫使用已經購買的遊戲作品，或是訂閱Xbox Game Pass服務，遊玩官方提供的免費遊戲，反觀Stadia則似乎得從零開始。
+

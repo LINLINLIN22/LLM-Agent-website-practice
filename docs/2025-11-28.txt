@@ -1,0 +1,16 @@
+標題: 印度各大電商平台 宣布消除暗黑模式
+原文: https://www.ectimes.org.tw/2025/11/%e5%8d%b0%e5%ba%a6%e5%90%84%e5%a4%a7%e9%9b%bb%e5%95%86%e5%b9%b3%e5%8f%b0-%e5%ae%a3%e5%b8%83%e6%b6%88%e9%99%a4%e6%9a%97%e9%bb%91%e6%a8%a1%e5%bc%8f/
+繼筆者9月撰寫關注過美國FTC與亞馬遜的誘導訂閱訴訟、其網站或介面設計具有暗黑模式(dark patterns)的相關政府或平台作為，在印度的電商環境也出現了具體應對。
+
+依據印度主管機關 Central Consumer Protection Authority(CCPA)於2023年發布的指導原則(Guidelines for Prevention and Regulation of Dark Patterns, 2023)，電商平台需要進行自我審核或第三方進行稽核，確保平台中移除所有可能導致消費者被誤導、誘導購買商品或做出非預期決定(例：訂閱進階服務)的介面設計。
+
+根據這份指引的規定，印度的26家主要電商與線上服務平台已向政府提交自願聲明(self-declaration)，宣告自身的網站和應用程式介面不含有任何暗黑模式。
+
+而所謂暗黑模式，於指引當中印度政府明文列出13種具體手法，包括但不限於以下：
+
+1. 虛假緊迫感／倒數計時 (False Urgency)2. 未經許可把商品附加費加入購物車 (Basket Sneaking)3. 設計讓消費者因拒絕而感到羞愧 (Confirm Shaming)4. 強制執行某些行為 (Forced Action)5. 預設／誘導訂閱服務 (Subscription Trap)6. 介面取消流程複雜或難以辨識 (Interface Interference)7. 誘導與轉換策略 (Bait & Switch)8. 先顯示低價、最後階段加費 (Drip Pricing)9. 偽裝成內容／功能的廣告 (Disguised Advertisements)10. 反覆打擾、促使決策 (Nagging)11. 雙重否定／混淆用語 (Trick Wording)12. 訂閱軟體費用設計的隱藏或誤導 (SaaS Billing)13. 惡意軟體或不當插件 (Rogue Malwares)
+
+而提交自願聲明的電商服務平台包括 Zepto, Zomato, Swiggy, JioMart, BigBasket等26家大型公司，服務和產品包含食品、雜貨、旅遊、醫療保健等品牌與服務。
+
+目前全世界對於暗黑模式的監管都有各自不同的進程和做法，像是歐盟已有立法草案來規範這些暗黑作為，美國也有相關訴訟對暗黑模式採取執法行動。對消費者而言，如未來相關的暗黑模式在電商平台中可以逐步減少，更安全的線上消費流程也意味著更長久、更活絡的電商環境。
+

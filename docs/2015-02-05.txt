@@ -1,0 +1,14 @@
+標題: APP行銷新趨勢　Liftoff分析使用者行為
+原文: https://www.ectimes.org.tw/2015/02/app%e8%a1%8c%e9%8a%b7%e6%96%b0%e8%b6%a8%e5%8b%a2%e3%80%80liftoff%e5%88%86%e6%9e%90%e4%bd%bf%e7%94%a8%e8%80%85%e8%a1%8c%e7%82%ba/
+記者／江彥廷
+
+要如何影響消費者去下載、安裝新開發出來的APP，一直以來都是行銷人員的重要課題。在近期Liftoff投入500萬美元的資金，發展一項新的業務。Liftoff的目標是幫助APP開發公司去找出有可能下載APP的使用者。Liftoff的服務的範圍包含所有APP開發商、科技公司，像是Uber、Lifelock與Open Table等等。
+
+￭Liftoff官網。（圖／Liftoff）
+
+Liftoff在合作的APP之中鑲嵌入一個特殊的軟體，這些初期合作的APP可能是免費或付費的，當用戶下載這些APP之後，Liftoff則蒐集用戶的使用資訊，進一步分析。Liftoff執行長指出，他們蒐集到的資訊具有很高的價值，因為是從使用者處在的環境、所使用的系統，如iOS或Andriod來辨識。
+
+APP開發商在規劃行銷方案時，Liftoff的數據就可以派上用場，開發商告訴Liftoff預期的目標客戶具有那些特性，Liftoff則提供哪些客戶是最值得投資的、哪些客戶願意訂閱，甚至是找出最願意在社群媒體分享資訊的人，直接與Facebook或Twitter合作傳遞廣告訊息給使用者。這個模式省了很多行銷費用，且目標精準。
+
+然而Liftoff必須面對隱私權的問題，因為使用者與Appstore或Google Play有簽訂隱私條款。雖然Liftoff的做法有侵害隱私的疑慮，但也可說是對使用者行為分析再利用而已。Liftoff的數據是否有效幫助APP行銷，成為值得發展的行銷趨勢，值得進一步觀察。
+

@@ -1,0 +1,14 @@
+標題: iPhone看不了Flash影音？　Skyfire突破封鎖
+原文: https://www.ectimes.org.tw/2010/11/iphone%e7%9c%8b%e4%b8%8d%e4%ba%86flash%e5%bd%b1%e9%9f%b3%ef%bc%9f%e3%80%80skyfire%e7%aa%81%e7%a0%b4%e5%b0%81%e9%8e%96/
+記者／許芷浩你常常因為iPhone不支援Flash多媒體影音而感到困擾嗎？蘋果公司雖然仍禁止iPhone等行動產品支援Flash，但是新推出的Skyfire瀏覽器以巧妙方式成為連結Flash影音的橋樑，並獲得蘋果官方核准，於4日正式在App Store上架販售，立即成為備受注目的熱門軟體。由於蘋果明確表示旗下的行動商務產品不支援Flash，使得持有iPhone、iPad等產品的消費者常無法正常讀取包含Flash影音的網頁。Skyfire瀏覽器抓住這一點，在不違反蘋果的規定下，開發讓使用者能透過瀏覽器觀看Flash網頁資訊的功能，並無障礙的使用Facebook、Twitter等服務。當使用者利用Skyfire連接上包含Flash的網頁時，Skyfire的伺服器會自動將Flash轉譯為HTML5語法，讓使用者以串流方式在iPhone、iPad上觀看相關影音內容，這種採取「繞路」手法的方式並非直接執行Flash，因此並不違反蘋果的開發規定，巧妙的突破蘋果的封鎖令。不過，這種作法導致觀賞Flash影音要多等一分鐘以上的時間，另外也無法轉譯影音檔以外的Flash遊戲或其他內容。此外，目前超過半數的線上影音網站同時提供HTML5編碼格式，即使不支援Flash也可以觀看，使得Skyfire瀏覽器對iPhone、iPad使用者的影響程度仍有待觀察。
+
+記者／許芷浩
+
+你常常因為iPhone不支援Flash多媒體影音而感到困擾嗎？蘋果公司雖然仍禁止iPhone等行動產品支援Flash，但是新推出的Skyfire瀏覽器以巧妙方式成為連結Flash影音的橋樑，並獲得蘋果官方核准，於4日正式在App Store上架販售，立即成為備受注目的熱門軟體。
+
+由於蘋果明確表示旗下的行動商務產品不支援Flash，使得持有iPhone、iPad等產品的消費者常無法正常讀取包含Flash影音的網頁。Skyfire瀏覽器抓住這一點，在不違反蘋果的規定下，開發讓使用者能透過瀏覽器觀看Flash網頁資訊的功能，並無障礙的使用Facebook、Twitter等服務。
+
+當使用者利用Skyfire連接上包含Flash的網頁時，Skyfire的伺服器會自動將Flash轉譯為HTML5語法，讓使用者以串流方式在iPhone、iPad上觀看相關影音內容，這種採取「繞路」手法的方式並非直接執行Flash，因此並不違反蘋果的開發規定，巧妙的突破蘋果的封鎖令。
+
+不過，這種作法導致觀賞Flash影音要多等一分鐘以上的時間，另外也無法轉譯影音檔以外的Flash遊戲或其他內容。此外，目前超過半數的線上影音網站同時提供HTML5編碼格式，即使不支援Flash也可以觀看，使得Skyfire瀏覽器對iPhone、iPad使用者的影響程度仍有待觀察。
+

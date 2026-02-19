@@ -1,0 +1,8 @@
+標題: Bitwalking　讓你走路也能賺錢
+原文: https://www.ectimes.org.tw/2015/11/bitwalking%e3%80%80%e8%ae%93%e4%bd%a0%e8%b5%b0%e8%b7%af%e4%b9%9f%e8%83%bd%e8%b3%ba%e9%8c%a2/
+記者／楊晴
+
+Bitwalking 的app會依據GPS定位及Wi-Fi連線，計算使用者的步行距離與步數，兌換成BW$幣。使用者可將BW$幣，作為現金使用，或是用於購買Bitwalking所設立的線上商店，以及與其他Bitwalking合作的第三方進行交易。而最初Bitwalking的設計理念，是提供額外的賺錢管道，讓發展中國家的人民，有生活有改善的機會。未來Bitwalking也希望能讓使用者能將BW$，兌換成具有實質幫物的物質，例如乾淨的水。
+
+Bitwalking的營運資金主要來自民間企業的投資，所以不管是下載或是使用Bitwalking，皆不需支付其他費用。而在每日的獲取額度，Bitwalking限制一人最多取得3個BW$。目前，Bitwalking也正與日本的電子製造商Murata合作，開發穿戴式的手環，以取代手機計步及顯示累積的BW$功能。另外，也有製鞋廠商對Bitwalking計畫有極高的投入意願。
+

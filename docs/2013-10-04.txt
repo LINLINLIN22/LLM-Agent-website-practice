@@ -1,0 +1,12 @@
+標題: Facebook結盟思科　打卡換免費Wi-Fi
+原文: https://www.ectimes.org.tw/2013/10/facebook%e7%b5%90%e7%9b%9f%e6%80%9d%e7%a7%91%e3%80%80%e6%89%93%e5%8d%a1%e6%8f%9b%e5%85%8d%e8%b2%bbwi-fi/
+記者／龍楚妍
+
+Facebook打卡除了能得到優惠外，竟然也能換取Wi-Fi使用！網路設備商思科（Cisco）和社交網路巨頭Facebook於2日宣佈，將攜手向酒店或零售店等公共場所的消費者，提供免費Wi-Fi網路服務，消費者只要藉由Facebook打卡就可以免費取得該服務。
+
+思科與Facebook將聯合在美國推出免費Wi-Fi網路服務，消費者在合作的零售商、餐廳、旅館等公共區域內，可用電腦或智慧型手機通過Cisco Connected Mobile Experience （CMX） for Facebook Wi-Fi方案連上網路。消費者不必擁有特定的帳號密碼，只要以自己的Facebook帳號登錄，並在該商戶的Facebook頁面上打卡，便可直接使用免費的Wi-Fi服務。
+
+思科首席執行長John Chambers於紐約Interop科技大會中表示，當消費者到達零售店並透過Facebook打卡簽到時，此系統能為零售商帶來益處，推出量身定做的廣告服務。而在思科致力於銷售更多網路設備的同時，Facebook則努力收集有關消費者購物和上網習慣的資料，藉以提升公司的廣告業務營收。
+
+無獨有偶，今年年初Google也宣佈與美國約7000家星巴克咖啡店合作，提供免費且快速的Wi-Fi服務，Google Access總經理Kevin Lo認為，Wi-Fi能使工作、旅行，或空閒時間更有生產力或更有趣，而這也是雙方合作的主要原因。在市場競爭日益激烈的大環境下，強強結盟的合作模式已是大勢所趨。
+

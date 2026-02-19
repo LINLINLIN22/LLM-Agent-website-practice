@@ -1,0 +1,14 @@
+標題: Android新添生力軍　手機軟體市場三強鼎立
+原文: https://www.ectimes.org.tw/2008/12/android%e6%96%b0%e6%b7%bb%e7%94%9f%e5%8a%9b%e8%bb%8d%e3%80%80%e6%89%8b%e6%a9%9f%e8%bb%9f%e9%ab%94%e5%b8%82%e5%a0%b4%e4%b8%89%e5%bc%b7%e9%bc%8e%e7%ab%8b/
+記者／張金安Google與高科技業者和手機製造商共同合作發展的Android手機平台裝置策略聯盟Open Handset Alliance，在本周二(9日)新增了14家業者的加入，會員數擴增到47家廠商。這則消息對Google在手機產業的發展而言，著實是一劑強心針。另外，此策略聯盟的成立，也給予了智慧型手機軟體市場投入了一顆震撼彈。Open Handset Alliance會員的組成涵蓋了電信業者、手機製造商、晶片系統製造商以及軟體業者。其中多為世界知名的公司，像是日本電信業者NTT DoCoMo、Intel、eBay以及這次新加入的Sony Ericsson和Vodafone。這當中亦不乏台灣的知名手機製造商華碩及宏達電。其與高科技業者和手機製造商策略聯盟的目的為共同打造一個可支援開放性軟體Android的平台裝置以及服務。此外，由Nokia與智慧型手機軟體製造商Symbian共同資助成立的非營利組織Symbian Foundation，也同時與Open Handset Alliance以及Microsoft的Windows Mobil在手機軟體服務市場上競爭。且距今，已有約59家業者計畫加入Symbian Foundation，因為其提供會員可免費使用Symbian開發的手機軟體，其中亦包含日本第三大的電信商Softbank（軟銀）。儘管目前市場上有多個聯盟同時在競爭手機軟體業務這塊大餅，不過也有許多分析師表示，較之於另兩套軟體，Android的軟體可供手機業者依其需求修改的特性仍然較占優勢。另外依照目前的趨勢研判，在不久的將來勢必將有愈來愈多的科技公司以及電信業者投入手機軟體的策略聯盟。分享此新聞：
+
+記者／張金安
+
+Google與高科技業者和手機製造商共同合作發展的Android手機平台裝置策略聯盟Open Handset Alliance，在本周二(9日)新增了14家業者的加入，會員數擴增到47家廠商。這則消息對Google在手機產業的發展而言，著實是一劑強心針。另外，此策略聯盟的成立，也給予了智慧型手機軟體市場投入了一顆震撼彈。
+
+Open Handset Alliance會員的組成涵蓋了電信業者、手機製造商、晶片系統製造商以及軟體業者。其中多為世界知名的公司，像是日本電信業者NTT DoCoMo、Intel、eBay以及這次新加入的Sony Ericsson和Vodafone。這當中亦不乏台灣的知名手機製造商華碩及宏達電。其與高科技業者和手機製造商策略聯盟的目的為共同打造一個可支援開放性軟體Android的平台裝置以及服務。
+
+此外，由Nokia與智慧型手機軟體製造商Symbian共同資助成立的非營利組織Symbian Foundation，也同時與Open Handset Alliance以及Microsoft的Windows Mobil在手機軟體服務市場上競爭。且距今，已有約59家業者計畫加入Symbian Foundation，因為其提供會員可免費使用Symbian開發的手機軟體，其中亦包含日本第三大的電信商Softbank（軟銀）。
+
+儘管目前市場上有多個聯盟同時在競爭手機軟體業務這塊大餅，不過也有許多分析師表示，較之於另兩套軟體，Android的軟體可供手機業者依其需求修改的特性仍然較占優勢。另外依照目前的趨勢研判，在不久的將來勢必將有愈來愈多的科技公司以及電信業者投入手機軟體的策略聯盟。
+

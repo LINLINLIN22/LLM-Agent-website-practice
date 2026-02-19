@@ -1,0 +1,12 @@
+標題: RSS的奧秘  幾個觀念告訴您
+原文: https://www.ectimes.org.tw/2007/08/rss%e7%9a%84%e5%a5%a7%e7%a7%98-%e5%b9%be%e5%80%8b%e8%a7%80%e5%bf%b5%e5%91%8a%e8%a8%b4%e6%82%a8/
+記者／賴秉均
+
+您聽過RSS嗎？您用過RSS？在Web 2.0的網路時代來臨時，RSS已經成為一股不可抵擋的趨勢，從部落格(Blog)、網路瀏覽器(IE)、iPod、甚至是BitTorrent等，都能與RSS完美的結合與應用，讓網路使用者可以輕而易舉的取得其所想要的資訊與訊息，除此之外，若網路使用者意欲分享獨特的新知或新奇的事物，RSS更是不可或缺的最佳選擇，然而，RSS究竟是什麼？為何具有讓網路使用者著迷的魅力？以及RSS主要的使用目的為何？就讓以下的文章來為各位讀者揭開RSS的神秘面紗。
+
+所謂RSS(Really Simple Syndication)是一種用來分發和匯集網頁內容的XML格式，RSS的早期發展用途為用以新知通報，主要是配合部落格的訊息發送，其發明者為UserLand公司旗下員工Dave Winer於1997年以XML為基礎所設計的規格；然而，隨著歷史發展、架構規格與版本宣言的演化，RSS至今擁有三種不同的版本，其分別為RDF Site Summary(Resource Description Framework)、RSS(Rich Site Summary)、與RSS(Really Simple Syndication)，RDF Site Summary主要用途為網站摘要，其是由網景(Netscape)所主導設計，而Rich Site Summary則是強調提供豐富的網站摘要，最後是為人所熟知的RSS(Really Simple Syndication)，意即非常簡易的聚合；藉由RSS的傳送技術，也就是所謂的RSS feed，網路使用者得以節省大半時間瀏覽網站的新增訊息或文章，RSS的出現，不可不說是網路使用者的一大福音。
+
+除了RSS的種類與傳送技術以外，閱讀RSS相關文章或瀏覽網站的RSS Reader更是扮演了重要的角色，所謂RSS Reader便是一種剖析與接收RSS Feed檔案的軟體，其包含各種形式，如專屬閱讀器、Web Base閱讀器、EMail軟體外掛閱讀器、RSS藉由E-Mail傳送、RSS藉由即時傳訊(Instant Messaging)軟體傳送與線上直接閱讀等方式，此外，RSS Reader亦支援多種作業平台，如Windows、Linux、Mac OS、以及PDA等，網路使用者僅需於RSS Reader的URL輸入RSS Feed檔案的網址，並執行訂閱動作，便可定期收看此網址的新增資訊；另一種常耳聞的專有名詞為RSS Aggregator，其可視為一種將RSS Feed收集在同一介面，藉由分類、更新且過濾標題，進而成為訂閱與搜尋RSS Feed來源的軟體，目前許多網站皆提供訂閱者公開的服務應用，藉以分析RSS Feed的點選率及連結數。
+
+由於RSS的相關應用與服務逐漸普及，網路使用者可以輕易的從部落格(Blog)、部落格聯播、Web網站、以及新聞網站等蒐集所需資訊，使用者僅需將RSS Feed網址輸入至RSS Reader網址列之中，再按下訂閱(Subscribe)選項，則每當訂閱者開啟RSS Reader，便能輕鬆地瀏覽新資訊，藉由簡易方便的訂閱方式，RSS迅速擄獲網路使用者的心，目前知名網路瀏覽器FireFox亦已內建RSS的閱讀器，其顯示RSS未來的成長可看性，或許在不久的將來，RSS的重要性將會超越HTML成為極具重要性的網路應用服務。
+

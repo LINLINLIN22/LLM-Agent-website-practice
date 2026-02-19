@@ -1,0 +1,14 @@
+標題: Presenter上市　「商務新夥伴」替簡報加分
+原文: https://www.ectimes.org.tw/2012/01/presenter%e4%b8%8a%e5%b8%82%e3%80%80%e3%80%8c%e5%95%86%e5%8b%99%e6%96%b0%e5%a4%a5%e4%bc%b4%e3%80%8d%e6%9b%bf%e7%b0%a1%e5%a0%b1%e5%8a%a0%e5%88%86/
+記者／李婉鈴繼推出iPhone、iPad應用軟體Splashtop Remote後，Splashtop16 日發表應用程式Presenter，可讓iPad搖身一變成為簡報遙控器。透過Wi-Fi連接PC或 Mac，在簡報時能直接在螢幕上標記重點、寫字或繪圖，不但加強簡報的效果，更能增進與觀眾的互動。在使用者的iPad上，Presenter呈現浮動工具列，使用者可透過不同顏色、尺寸的筆批註投影片、播放影片或與觀眾互動，觀眾可在原位置將答案寫在iPad 上，並直接投影至螢幕而不需移動。因此，演說將不再受講台和電腦架設位置所限制。Presenter 的「虛擬鍵盤」與可模擬滑鼠的「觸控手勢」可將工具列設定為顯示或隱藏，也可在PDF簡報或PowerPoint切換或瀏覽頁面。除此之外，Presenter 也包括其他特殊工具，如「聚光燈」可透過移動和放大讓觀眾聚焦在重點上，「可完整編輯的多重翻頁掛圖」則可建立不同背景的顯示內容，非常適用商業應用程式。Splashtop前身為美商達維飛碼公司，曾獲得美國消費性電子展2011 Laptop最佳應用軟體類獎項，此次推出的Presenter更是商務專門人士不可或缺的新夥伴。Presenter 支援 iPad 和 iPad 2，需要在執行 Windows 7、Vista、XP的電腦上安裝 Splashtop Streamer。
+
+記者／李婉鈴
+
+繼推出iPhone、iPad應用軟體Splashtop Remote後，Splashtop16 日發表應用程式Presenter，可讓iPad搖身一變成為簡報遙控器。透過Wi-Fi連接PC或 Mac，在簡報時能直接在螢幕上標記重點、寫字或繪圖，不但加強簡報的效果，更能增進與觀眾的互動。
+
+在使用者的iPad上，Presenter呈現浮動工具列，使用者可透過不同顏色、尺寸的筆批註投影片、播放影片或與觀眾互動，觀眾可在原位置將答案寫在iPad 上，並直接投影至螢幕而不需移動。因此，演說將不再受講台和電腦架設位置所限制。
+
+Presenter 的「虛擬鍵盤」與可模擬滑鼠的「觸控手勢」可將工具列設定為顯示或隱藏，也可在PDF簡報或PowerPoint切換或瀏覽頁面。除此之外，Presenter 也包括其他特殊工具，如「聚光燈」可透過移動和放大讓觀眾聚焦在重點上，「可完整編輯的多重翻頁掛圖」則可建立不同背景的顯示內容，非常適用商業應用程式。
+
+Splashtop前身為美商達維飛碼公司，曾獲得美國消費性電子展2011 Laptop最佳應用軟體類獎項，此次推出的Presenter更是商務專門人士不可或缺的新夥伴。Presenter 支援 iPad 和 iPad 2，需要在執行 Windows 7、Vista、XP的電腦上安裝 Splashtop Streamer。
+

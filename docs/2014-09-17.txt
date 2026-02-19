@@ -1,0 +1,14 @@
+標題: 行動支付新浪潮　Apple Pay強勢來襲
+原文: https://www.ectimes.org.tw/2014/09/%e8%a1%8c%e5%8b%95%e6%94%af%e4%bb%98%e6%96%b0%e6%b5%aa%e6%bd%ae%e3%80%80apple-pay%e5%bc%b7%e5%8b%a2%e4%be%86%e8%a5%b2/
+記者／林姿岑
+
+Apple上週（10日）發表會中，除推出全球果粉引頸期盼的iPhone6、iPhone6 Plus與Apple Watch外，更標榜Apple用戶只需透過Apple行動裝置，即能利用Apple Pay電子支付服務功能進行購物消費，Apple此舉無疑是掀起另一波行動支付熱潮，為無現金時代展開嶄新一頁。
+
+■Apple Pay強勢來襲。( 圖／PunNode)
+
+據悉，Apple Pay之用戶只需將信用卡或金融卡的資料，儲存至iTunes Store帳戶中，即能啟用這功能。每次消費，金融服務商會以單次認證載具(token)向用戶進行確認，且卡片號碼也非存於行動裝置或Apple伺服器上，而是分配至Device Account Number，加密儲存於行動裝置中的Secure Element晶片上，為消費者安全與隱私把關。
+
+Apple表示，目前Apple Pay已確認支援Visa卡、萬事達卡與美國運通卡，且憑藉著Apple無可撼動的品牌地位與雄厚的8億多用戶基本盤，以及指紋辨識晶片之高科技隱私保障，已吸引Mc’Donald、梅西百貨、Walgreens藥妝店等16家宣布支持Apple Pay。
+
+雖然過去Google和Amazon都比Apple更早於美國推出行動支付服務，但直至現在，規模都僅停留於小眾市場。儘管，Forrester預測，行動付款市場規模將在2017年大幅成長至900億美元，但未來Apple Pay之普及率，仍取決於商家是否願意更新相關硬體設備，Apple Pay能否如願開啟另一波行動支付浪潮，讓我們拭目以待。
+

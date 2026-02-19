@@ -1,0 +1,16 @@
+標題: 與你心電感應　 MindMeld正式推出
+原文: https://www.ectimes.org.tw/2013/12/%e8%88%87%e4%bd%a0%e5%bf%83%e9%9b%bb%e6%84%9f%e6%87%89%e3%80%80-mindmeld%e6%ad%a3%e5%bc%8f%e6%8e%a8%e5%87%ba/
+記者／林姿岑
+
+美國舊金山研發公司Expect Labs日前正式推出語音應用程式MindMeld。共同創辦人Timothy Tuttle表示，MindMeld是iPad首款語音與影像通話應用程式，它可以了解你在說什麼，並尋找相關資訊，利用指尖就可取得所需資訊，未來將成為每通電話或即時通訊程式的基本功能。
+
+￭ MindMeld正式推出。（圖／Expect Labs官網）
+
+MindMeld設計概念源自經典科幻影集Star Trek，劇中角色Spock擁有穿透對方心靈的特殊能力，App以此命名即是期望能透析使用者需求。此外，Timothy Tuttle預測，未來運算工具（Computing Devices）將由筆電、平板和智慧型手機轉移至日常生活用品上，如Google Glass，順應電腦無所不在的趨勢，MindMeld因而誕生。
+
+MindMeld採用新興預期計算技術（Anticipatory Computing），透過此App撥號，系統會辨認對話內容，解析語音通話中的關鍵訊息，顯示於左側欄位，並即時搜尋相關資訊，回應使用者需求。如使用者和對方談論去哪間餐廳，MindMeld會搜尋菜單、評價和地圖等資訊，透過前10分鐘的對話，預測接下來的10秒使用者將需要什麼。
+
+與類似功能的Easilydo相比，二者皆由社交數據中抓取關鍵信息，提供資訊，不過MondMeld的對話偵聽和解析功能必須手動開啟，且能自行刪除所有數據，較能降低使用者隱私疑慮。目前，MindMeld只支援iPad用戶，未來Expect Labs將推出iPhone、Android和Web版本應用程式。
+
+2013「年度十大新聞暨關鍵字」票選活動，熱烈進行中！[票選頁面]
+

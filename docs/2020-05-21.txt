@@ -1,0 +1,12 @@
+標題: 微軟2020線上開發者大會　雲端與 AI 科技新亮點
+原文: https://www.ectimes.org.tw/2020/05/%e5%be%ae%e8%bb%9f2020%e7%b7%9a%e4%b8%8a%e9%96%8b%e7%99%bc%e8%80%85%e5%a4%a7%e6%9c%83%e3%80%80%e9%9b%b2%e7%ab%af%e8%88%87-ai-%e7%a7%91%e6%8a%80%e6%96%b0%e4%ba%ae%e9%bb%9e/
+Microsoft（微軟）20 日凌晨舉辦Microsoft Build 2020開發者大會，因應疫情，今年以全線上的方式進行活動，並且連續 48 小時不間斷，針對Microsoft Azure、Microsoft Teams等最新人工智慧和雲端工具進行介紹，更趁勢發表與OpenAI攜手打造的全球前五強超級電腦。透過網路，串聯全球各地的開發者進行視訊互動。Microsoft 執行長Satya Nadella表示：「在這不確定的時刻，開發者們站在第一線扮演重要角色，透過科技加速復原我們的生活」。
+
+￭Microsoft舉辦線上Microsoft Build 2020開發者大會。（截圖自 /“>Microsoft Youtube）
+
+Satya Nadella 分享各產業中如何滿足不同的開發者需求，以及協助企業適應最新的遠距工作型態。另外，Microsoft 重要事業部門首長們，包含合作夥伴計畫經理 Scott Hanselman、雲端與人工智慧事業群執行副總裁 Scott Guthrie、體驗與設備事業群執行副總裁 Rajesh Jha、技術長 Kevin Scott，以及業務應用總裁 James Phillips 皆線上分享市場的最新趨勢與狀況。
+
+此次 Microsoft Build 2020 有七種亮點，分別為即時分析與整合巨量數據的 Azure Synapse Link、強化 Microsoft Teams 應用體驗、升級Fluid Framework、公開Responsible AI機器學習工具、發表 Project Reunion、攜手 OpenAI 打造的超級電腦以及推出針對特定產業的雲端解決方案Microsoft Cloud for Healthcare。
+
+Satya Nadella 也自豪的表示，財富世界 500 大（Fortune Global 500）中有 95 ％ 都是 Azure 客戶，並在全球手握有 61 個資料中心區域，比任何雲端服務對手都多。隨著工作環境的改變，Microsoft 將持續在協作和生產力解決方案上進行相關投資，協助開發者解決當今和未來的挑戰。
+

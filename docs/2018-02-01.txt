@@ -1,0 +1,14 @@
+標題: 不同於Facebook　LINE進軍虛擬貨幣市場
+原文: https://www.ectimes.org.tw/2018/02/%e4%b8%8d%e5%90%8c%e6%96%bcfacebook%e3%80%80line%e9%80%b2%e8%bb%8d%e8%99%9b%e6%93%ac%e8%b2%a8%e5%b9%a3%e5%b8%82%e5%a0%b4/
+記者／林怡君
+
+LINE為延續LINE Pay所拓展的數位金融版圖，於昨（31）日宣布在日本成立金融公司LINE Financial Corporation，預計將在LINE應用程式中提供加密貨幣交易、保險、貸款等金融服務，同時將積極研發區塊鍊等新科技，致力於提供更安全且便利的金融服務。
+
+■延續LINE Pay成功經營，LINE跨足虛擬貨幣市場。（截圖自／LINE官網）
+
+LINE官網指出，LINE Pay去年成長顯著，全球年度成交金額超過4500億日圓（將近新台幣1218億元），LINE Pay的成長在台灣也看得見，根據資策會調查顯示，LINE Pay在台認知度高達79%，且行動支付比例明顯提升。LINE也宣布將在日本投資網路券商FOLIO，把其服務整合至LINE平台上，致力數位金融的佈局。
+
+相較於另一社群媒體Facebook則於1月30日宣布未來有關加密貨幣、首次代幣發行 (ICO) 、二元期權 (binary options) 的廣告將不得刊登在Facebook上，為了避免詐騙及廣告誤導消費者案件再次出現，連同合法登記經營的廠商亦不可刊登相關訊息之廣告；但此舉卻矛盾於執行長馬克·佐克伯 (Mark Zuckerberg) 在年初的新年願望中，談到將研究如何把加密貨幣與Facebook進行整合。
+
+2018年為台灣行動支付相當熱門的一年，從年初即有各式行動支付登台；而日本視本年為QR Code行動支付元年，目前行動支付主要分為兩種付款方式，為NFC感應與QR Code掃描，常見NFC感應的平台包含Apple Pay、Android Pay及Samsung Pay；而LINE Pay則是以QR Code掃描來進行交易。
+

@@ -1,0 +1,20 @@
+標題: RootkitInternalsWorkShop技術研討會  12/16.17
+原文: https://www.ectimes.org.tw/2006/12/rootkitinternalsworkshop%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83-12-16-17/
+記者／林姿吟
+
+由Malware-Test Lab的資安專家為您介紹及講解Rootkit的技術，讓您瞭解到Rootkit的行為及危害程度，並告訴您如何辨識，清除及防護您的系統，不受到Rootkit的干擾。
+
+主辦單位：Malware-Test Lab活動對象：IT/Is管理人員以及資安專業人員活動時間：2006.12.16 台北場；2006.12.17  09:30~16:30活動地點：台北場－龐畢度國際會議中心；新竹場－新竹科學園區科技生活館202會議室活動費用：限時特價3000元活動網址：http://www.pcuser.com.tw/download/news/edm061120/分享此新聞：
+
+主辦單位：Malware-Test Lab
+
+活動對象：IT/Is管理人員以及資安專業人員
+
+活動時間：2006.12.16 台北場；2006.12.17  09:30~16:30
+
+活動地點：台北場－龐畢度國際會議中心；新竹場－新竹科學園區科技生活館202會議室
+
+活動費用：限時特價3000元
+
+活動網址：http://www.pcuser.com.tw/download/news/edm061120/
+

@@ -1,0 +1,12 @@
+標題: Google新「薑餅」　本周曝光？
+原文: https://www.ectimes.org.tw/2010/11/google%e6%96%b0%e3%80%8c%e8%96%91%e9%a4%85%e3%80%8d%e3%80%80%e6%9c%ac%e5%91%a8%e6%9b%9d%e5%85%89%ef%bc%9f/
+記者／馬千惠負責協助Android系統開發的聯盟（OHA）成員Alvaro Fuentes Vasquez，本周在Twitter撰文透露，Google將於近日發表開發代號為薑餅（Gingerbread）的新版Android系統。美國專門報導手機相關訊息的網站IntoMobile則引述可靠消息報導，薑餅的確切發表時間會在明日（11日）。薑餅原本是Android 3.0的版本別，但傳聞Google可能計劃以新開發代號蜂窩（Honeycomb）取代薑餅成為3.0的版本，薑餅則變成Android 2.3。Android 3.0版本預計2011年完成，聯想（Lenovo）曾表示，lePad平板電腦的上市時間會依據Android 3.0釋出日期而決定，三星電子（Samsung）也曾表示繼Galaxy Tab的下一代平板電腦也會採用3.0版本。由於薑餅版本可支援更大的螢幕及更高的解析度，也支援Google的WebM開放影片格式、視訊通話、Google TV和3D遊戲等，讓使用者介面更加友善，使外界對於薑餅版本的期待相當高，認為其可能是最適合平板電腦的新Android平台。Android的開發代號通常是由各種不同的甜點名稱表示，例如杯子蛋糕（Cupcake）是1.5版、甜甜圈（Donut）是1.6版、法式甜點Éclair是2.0版等，在對外發表每一個新版本之前，Google會在總部草坪上放置甜點造型的雕像，透露正在開發新版本系統，薑餅雕像已經在10月份時出現。
+
+記者／馬千惠
+
+負責協助Android系統開發的聯盟（OHA）成員Alvaro Fuentes Vasquez，本周在Twitter撰文透露，Google將於近日發表開發代號為薑餅（Gingerbread）的新版Android系統。美國專門報導手機相關訊息的網站IntoMobile則引述可靠消息報導，薑餅的確切發表時間會在明日（11日）。
+
+薑餅原本是Android 3.0的版本別，但傳聞Google可能計劃以新開發代號蜂窩（Honeycomb）取代薑餅成為3.0的版本，薑餅則變成Android 2.3。Android 3.0版本預計2011年完成，聯想（Lenovo）曾表示，lePad平板電腦的上市時間會依據Android 3.0釋出日期而決定，三星電子（Samsung）也曾表示繼Galaxy Tab的下一代平板電腦也會採用3.0版本。
+
+由於薑餅版本可支援更大的螢幕及更高的解析度，也支援Google的WebM開放影片格式、視訊通話、Google TV和3D遊戲等，讓使用者介面更加友善，使外界對於薑餅版本的期待相當高，認為其可能是最適合平板電腦的新Android平台。
+

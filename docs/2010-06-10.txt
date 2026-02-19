@@ -1,0 +1,14 @@
+標題: 通通不用錢　網路版Office正式上線
+原文: https://www.ectimes.org.tw/2010/06/%e9%80%9a%e9%80%9a%e4%b8%8d%e7%94%a8%e9%8c%a2%e3%80%80%e7%b6%b2%e8%b7%af%e7%89%88office%e6%ad%a3%e5%bc%8f%e4%b8%8a%e7%b7%9a/
+記者／林倩如
+
+微軟繼5月底推出Office 2010商用版後，近日又發表了網路版Office，涵蓋文書處理軟體Word、簡報軟體PowerPoint等，讓過去動輒數萬台幣的微軟正版Office系統，讓你不花一毛錢立即取得！而微軟這個舉動也被外界視為正式向Google宣戰。Office Web Apps是微軟新開發的線上版Office，根據最新推出的Office 2010提供網路簡易版Word、Excel及OneNote等功能。目前這套網路版Office軟體支援電腦與手機平台，微軟公司宣稱使用方式與介面顯示都如同電腦版Office一般，唯獨使用網路版Office，需要具備穩定的網路連線。微軟設計師表示網路版Office文件亦有一般Office系統中頁碼與圖片顯示功能，不論是蘋果Mac、Windows PC或Linux電腦，搭配Firefox、IE或Safari，都可使用微軟網路版軟體。從去年開始便有部分業界人士試用這套網路軟體，在免費的消費者版本頁面中有廣告，微軟表示會持續顯示相關訊息，以鼓勵民眾購買正式版Office軟體。微軟也將Office Web Apps整合在SkyDrive中，提供用戶線上文件儲存、音樂或照片的免費置放空間。雖然目前網路版Office主要針對美國、英國、加拿大等歐美市場，但是台灣用戶運用瀏覽器登入到office.live.com後，亦有中文版可選擇。
+
+微軟繼5月底推出Office 2010商用版後，近日又發表了網路版Office，涵蓋文書處理軟體Word、簡報軟體PowerPoint等，讓過去動輒數萬台幣的微軟正版Office系統，讓你不花一毛錢立即取得！而微軟這個舉動也被外界視為正式向Google宣戰。
+
+Office Web Apps是微軟新開發的線上版Office，根據最新推出的Office 2010提供網路簡易版Word、Excel及OneNote等功能。目前這套網路版Office軟體支援電腦與手機平台，微軟公司宣稱使用方式與介面顯示都如同電腦版Office一般，唯獨使用網路版Office，需要具備穩定的網路連線。
+
+微軟設計師表示網路版Office文件亦有一般Office系統中頁碼與圖片顯示功能，不論是蘋果Mac、Windows PC或Linux電腦，搭配Firefox、IE或Safari，都可使用微軟網路版軟體。從去年開始便有部分業界人士試用這套網路軟體，在免費的消費者版本頁面中有廣告，微軟表示會持續顯示相關訊息，以鼓勵民眾購買正式版Office軟體。
+
+微軟也將Office Web Apps整合在SkyDrive中，提供用戶線上文件儲存、音樂或照片的免費置放空間。雖然目前網路版Office主要針對美國、英國、加拿大等歐美市場，但是台灣用戶運用瀏覽器登入到office.live.com後，亦有中文版可選擇。
+

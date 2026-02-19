@@ -1,0 +1,12 @@
+標題: 不懼Google+ Circles！　Circle Hack嶄露頭角
+原文: https://www.ectimes.org.tw/2011/07/%e4%b8%8d%e6%87%bcgoogle-circles%ef%bc%81%e3%80%80circle-hack%e5%b6%84%e9%9c%b2%e9%a0%ad%e8%a7%92/
+記者／張家豪Facebook於日前（5日）推出「Circle Hack」的功能，其功能的研發是由Facebook的四名外部開發者所開發而得。Circle Hack在屬性及功能上，和Google+所開發出的「Circles」群組分類小圈圈功能雷同，Circle Hack更能方便用戶以點擊的方式在Facebook中新增並編輯小圈圈。開發者表示，Circle Hack對於已經試用過Google+ Circles的用戶來說，將更容易進階地使用。當使用者在初次使用Circle Hack時，用戶必須先輸入列表的名稱而後點擊確認按鈕，即可簡單地創建好友列表，並且好友列表的數量目前是不受限制的。而透過滑鼠的點選，使用者可以將好友列表，逐一分類成各個小圈圈，並能簡易地新增或刪除朋友。綜觀Google+ Circles與Facebook Circle Hack的相異之處，在於Circles可以更簡單地透過滑鼠拖曳朋友，加入用戶所新增的Circles群組名稱，讓使用者迅速地分類朋友。因此，在建立及編輯朋友清單上，Circles功能上比Circle Hack更符合用戶的使用習性。並且，當使用者要調整Circle Hack的隱私權，仍需回到Facebook的個人首頁再加以設置相關權限，此為Circle Hack的一大使用缺點。截至目前為止，Google+ Circles與Facebook Circle Hack兩者皆在開發中的階段，目前只釋放出一些特定功能讓使用者可以率先試用。未來，朋友關係鍊的有效連結，將是各社群媒體工程師的開發主軸，而其它附屬功能的研發，更是指日可待。
+
+記者／張家豪
+
+Facebook於日前（5日）推出「Circle Hack」的功能，其功能的研發是由Facebook的四名外部開發者所開發而得。Circle Hack在屬性及功能上，和Google+所開發出的「Circles」群組分類小圈圈功能雷同，Circle Hack更能方便用戶以點擊的方式在Facebook中新增並編輯小圈圈。開發者表示，Circle Hack對於已經試用過Google+ Circles的用戶來說，將更容易進階地使用。
+
+當使用者在初次使用Circle Hack時，用戶必須先輸入列表的名稱而後點擊確認按鈕，即可簡單地創建好友列表，並且好友列表的數量目前是不受限制的。而透過滑鼠的點選，使用者可以將好友列表，逐一分類成各個小圈圈，並能簡易地新增或刪除朋友。
+
+綜觀Google+ Circles與Facebook Circle Hack的相異之處，在於Circles可以更簡單地透過滑鼠拖曳朋友，加入用戶所新增的Circles群組名稱，讓使用者迅速地分類朋友。因此，在建立及編輯朋友清單上，Circles功能上比Circle Hack更符合用戶的使用習性。並且，當使用者要調整Circle Hack的隱私權，仍需回到Facebook的個人首頁再加以設置相關權限，此為Circle Hack的一大使用缺點。
+

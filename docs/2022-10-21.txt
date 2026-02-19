@@ -1,0 +1,12 @@
+標題: 功能測試中，在 Instagram 官方 App 排程發文指日可待
+原文: https://www.ectimes.org.tw/2022/10/instagram-is-testing-an-in-app-post-scheduling-tool/
+在 Instagram 上的社群媒體經營者們，長期以來一直仰賴第三方工具來安排 Instagram的發文時間，但據了解目前 Instagram 正在進行內建工具的測試，讓使用者未來能規劃貼文或連續短片的發佈時間。
+
+Instagram 已經證實了相關功能的發展可能性，Meta 的發言人在一份聲明中表示：「我們正在對社群媒體的一部分內容排程功能進行測試」 但仍未透漏更多細節。對此，Twitter 的使用者 @WFBrother發佈了數張截圖來分享排程功能將會如何呈現，這項功能可以讓使用者在發文前，透過進階設定(Advanced Settings) 選擇發佈的日期及時間。
+
+早在 2018 年 Instagram 就開始為部分公司開放 API，讓 Hootsuite、Socialflow 等第三方應用可以藉此提供排程服務，但靠外部軟體支援仍有其不便性；所幸 Instagram 似乎有正視到使用者的需求，軟體研究者亞歷山卓 (Alessandro Paluzzi) 指出，官方早在今年 7 月就開始開發排程管理這項功能；雖然比大多數的社群媒體服務都晚了些，但作為最熱門的社群軟體之一，這項測試的進行勢必能造福許多一般使用者及眾媒體經營人。
+
+參考來源：Instagram is testing an in app post scheduling tool
+
+參考來源：Instagram Launches Live Test of Native Post Scheduling in the App
+

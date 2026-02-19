@@ -1,0 +1,10 @@
+標題: 亞馬遜攜Google 推多雲端服務
+原文: https://www.ectimes.org.tw/2025/12/%e4%ba%9e%e9%a6%ac%e9%81%9c%e6%94%9cgoogle-%e6%8e%a8%e5%a4%9a%e9%9b%b2%e7%ab%af%e6%9c%8d%e5%8b%99/
+亞馬遜與Google為了避免雲端服務中斷造成企業用戶損失，在11月30日共同推出多雲端網路服務，以滿足對可靠連線日益增長的需求。這項合作能讓雲端用戶在數分鐘內於兩家公司的運算平台之間建立私有且高速的連線，與過去需耗數周時間相比大幅縮短。
+
+據亞馬遜與Google公告，這項新服務結合亞馬遜雲端事業AWS的Interconnect－multicloud服務，以及Google Cloud的Cross-Cloud Interconnect服務，以提升網路互通性。AWS網路服務副總裁甘迺迪（Robert Kennedy）表示：「這次AWS與Google Cloud合作，象徵多雲連線方式的根本性轉變。」
+
+Google Cloud雲端網路副總裁暨總經理恩斯（Rob Enns）也表示，這項共同建構的網路讓客戶更容易在不同雲端間移動資料與應用程式。Google Cloud透露，軟體服務商Salesforce已成為這套多雲端服務的早期用戶。亞馬遜AWS專門為企業、政府與個人用戶提供運算能力、資料存儲以及其他數位服務，是全球最大雲端服務供應商。市占排名第二的是微軟Azure，再來才是Google Cloud。亞馬遜AWS在第三季保持強勁成長，創造330億美元營收，比Google Cloud的151.6億美元營收高出1倍以上。亞馬遜與Google推多雲端服務時間點，恰巧距離10月20日AWS服務中斷一個多月，不免令外界聯想亞馬遜是為避免類似事故再度發生才決定與Google合作。
+
+該次事故導致全球數千個網站受影響，包含Snapchat、Reddit等熱門應用程式全面離線。根據分析公司Parametrix的估算，10月20日AWS服務中斷害美國企業蒙受5億至6.5億美元的損失。
+

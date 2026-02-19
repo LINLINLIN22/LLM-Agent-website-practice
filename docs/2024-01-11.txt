@@ -1,0 +1,18 @@
+標題: 三星於CES 2024宣佈與Tesla聯手 達成SmartThings Energy服務整合
+原文: https://www.ectimes.org.tw/2024/01/%e4%b8%89%e6%98%9f%e6%96%bcces-2024%e5%ae%a3%e4%bd%88%e8%88%87tesla%e8%81%af%e6%89%8b-%e9%81%94%e6%88%90smartthings-energy%e6%9c%8d%e5%8b%99%e6%95%b4%e5%90%88/
+三星電子宣佈與Tesla建立服務整合，並將於CES®2024揭示相關應用，未來SmartThings Energy將可串聯Powerwall、Solar Inverter、壁掛式充電座（Wall Connector）充電解決方案、電動汽車（EV）等Tesla產品。透過Tesla的開放API（註一），此合作將進一步延伸SmartThings Energy串聯範圍，助力三星實現終極目標－為消費者提供更便利、無縫的智慧生活體驗。
+
+三星電子執行副總裁暨裝置平台中心IoT開發團隊負責人Chanwoo Park表示：「除了Tesla應用程式，Tesla Energy的用戶可透過SmartThings Energy與三星裝置，管理和監測自家的用電情況，提升數據存取性及互聯性。此合作案為三星將解決方案的應用範疇拓展至家電以外的重要里程碑。」
+
+三星攜手Tesla為消費者創造最大利益，將SmartThings Energy串聯Tesla Powerwall、Solar Inverter、壁掛式充電座與電動車，顯示用戶的能源生成、儲能、使用資訊。
+
+此外，借助SmartThings Energy與Tesla應用程式Powerwall「Storm Watch」的同步功能，消費者可為電力中斷及停電做好準備。這意味著，當發生颱風、大雪等極端天氣事件時，用戶除了使用Tesla應用程式外，亦能透過與三星智慧顯示器、手機互聯的SmartThings，向用戶發出警示。更重要的是，用戶可在停電前、停電期間啟用AI Energy Mode，延長Tesla Powerwall備援時間。
+
+模擬圖：附有SmartThings應用程式的手機圖示，用於提醒Tesla Powerwall狀態、啟用 AI Energy Mode（圖片取自三星官網）
+
+三星透過Tesla API，持續推動淨零耗能住宅「Net Zero Home」，並強化SmartThings用戶跨裝置體驗。
+
+來自Tesla的Drew Baglino表示：「能賦予Tesla產品與用戶家中其他智慧裝置、軟體的互聯能力，我們感到興奮無比。我們於日前釋出FleetAPI，除了Tesla汽車，開發者亦能與Powerwall、Solar及壁掛式充電座互動。憑藉三星在消費者智慧居家技術的領先實力，我們很高興其選擇成為早期開發者。消費者將能於多種裝置查看其電網串聯狀況，並在離網時，智慧調節住家負載，延長Powerwall的備援持續時間。」
+
+三星將於CES® 2024展位上首次展示串聯Tesla Powerwall的SmartThings Energy。實際服務目前正處於開發階段，預計於2024年第二季正式上線（註二）。請注意，上述功能可能會有所異動。
+

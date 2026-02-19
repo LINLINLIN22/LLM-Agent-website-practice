@@ -1,0 +1,12 @@
+標題: 雲端連鎖店　列印使命FedEx Office必達
+原文: https://www.ectimes.org.tw/2012/04/%e9%9b%b2%e7%ab%af%e9%80%a3%e9%8e%96%e5%ba%97%e3%80%80%e5%88%97%e5%8d%b0%e4%bd%bf%e5%91%bdfedex-office%e5%bf%85%e9%81%94/
+記者／陳舒珊Google與FedEx Office於上周宣布結盟，將在全美1800個據點提供雲端列印服務，使FedEx Office成為首家支援Google雲端列印的連鎖商店，使用者可傳送欲輸出的文件電子檔至雲端，並透過服務將檔案送達FedEx Office據點，再利用系統提供的代碼列印文件。雲端列印是Google於2010年所推出的服務，支援Google通訊協定，以及具雲端感知（cloud-aware）的印表機，使用者可將Google帳戶與印表機進行連接，並透過行動裝置上的應用程式，傳送檔案進行遠端列印，服務推出以來，已支援Canon、Epson、柯達及HP等印表機。FedEx Office為聯邦快遞旗下的商業服務中心，提供包裝、快遞、電腦租賃等服務，Google為拓展雲端列印的服務選項，選擇與FedEx Office結盟，未來用戶可透過個人電腦或行動裝置上的應用程式，傳送文件到FedEx Office服務據點，並鍵入系統提供的使用者復原碼將文件印出。此外，雲端列印服務也為Android 4.0裝置增加新的功能，當使用者以Chrome for Android登入Google帳戶時，此裝置將可成為接收雲端列印文件的終端，並自動將檔案轉換成PDF文件，支援Chrome for Android瀏覽器瀏覽，使裝置成為使用者的行動資料夾。
+
+記者／陳舒珊
+
+Google與FedEx Office於上周宣布結盟，將在全美1800個據點提供雲端列印服務，使FedEx Office成為首家支援Google雲端列印的連鎖商店，使用者可傳送欲輸出的文件電子檔至雲端，並透過服務將檔案送達FedEx Office據點，再利用系統提供的代碼列印文件。
+
+雲端列印是Google於2010年所推出的服務，支援Google通訊協定，以及具雲端感知（cloud-aware）的印表機，使用者可將Google帳戶與印表機進行連接，並透過行動裝置上的應用程式，傳送檔案進行遠端列印，服務推出以來，已支援Canon、Epson、柯達及HP等印表機。
+
+FedEx Office為聯邦快遞旗下的商業服務中心，提供包裝、快遞、電腦租賃等服務，Google為拓展雲端列印的服務選項，選擇與FedEx Office結盟，未來用戶可透過個人電腦或行動裝置上的應用程式，傳送文件到FedEx Office服務據點，並鍵入系統提供的使用者復原碼將文件印出。
+

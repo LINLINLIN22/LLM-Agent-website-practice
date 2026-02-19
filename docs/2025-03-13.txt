@@ -1,0 +1,14 @@
+標題: Google推出專為「機器人」設計的AI模型 開發門檻降低
+原文: https://www.ectimes.org.tw/2025/03/google%e6%8e%a8%e5%87%ba%e5%b0%88%e7%82%ba%e3%80%8c%e6%a9%9f%e5%99%a8%e4%ba%ba%e3%80%8d%e8%a8%ad%e8%a8%88%e7%9a%84ai%e6%a8%a1%e5%9e%8b-%e9%96%8b%e7%99%bc%e9%96%80%e6%aa%bb%e9%99%8d%e4%bd%8e/
+記者／LinusGoogle近日推出兩款基於 Gemini 2.0 的全新 AI 模型，專為機器人應用設計，旨在提升機器人的視覺、語言理解及動作能力。
+
+Google母公司 Alphabet 近日宣布，推出兩款全新 AI 模型——Gemini Robotics和Gemini Robotics-ER，旨在為機器人賦能，使其具備更強的環境理解與決策能力。
+
+透過這些 AI 技術，開發機器人的門檻將進一步降低。圖片取自於：istockphoto
+
+Gemini Robotics是一款集成視覺、語言和動作輸出的 AI 模型，能夠讓機器人根據物理環境進行智能回應。而Gemini Robotics-ER則進一步提升了機器人對空間的感知能力，使開發者能夠利用 Gemini 2.0 的推理能力，創建更加智能的機器人應用。
+
+透過這些 AI 技術，開發機器人的門檻將進一步降低。資金有限的新創企業可以利用這些模型來減少開發成本，並加速產品上市進程。例如，Google已利用雙臂機器人ALOHA 2的數據來測試 Gemini Robotics，並計劃將其應用於Apptronik旗下的Apollo 機器人。
+
+Google早在2013 年就曾收購機器人先驅波士頓動力公司，四年後轉售軟銀。而如今隨 AI 技術成熟，谷歌加大機器人佈局，Gemini 2.0 推出或將重塑工業自動化、物流與家庭機器人發展。
+

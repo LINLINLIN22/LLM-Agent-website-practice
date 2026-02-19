@@ -1,0 +1,12 @@
+標題: Android下載超越iOS　APP應用程式達50萬個
+原文: https://www.ectimes.org.tw/2011/10/android%e4%b8%8b%e8%bc%89%e8%b6%85%e8%b6%8aios%e3%80%80app%e6%87%89%e7%94%a8%e7%a8%8b%e5%bc%8f%e9%81%9450%e8%90%ac%e5%80%8b/
+記者／葉欣華隨著全球智慧手機的出貨成長，市場研究機構ABI表示，2011年Q2的App下載數量，Android首度以44%的市佔率，超越iOS的31%。研究行動市場的research2guidance公司也公布另一項報告，指出曾經登上Android Market的應用程式已經超過50萬，只略輸蘋果App Store的60萬。九月份Android Market上發布的應用程式數量超過50萬個，而競爭對手蘋果App Store發布的應用程式則超過60萬，但Android Market所移除的程式比例高於App Store，Android Market總計刪除了37%的應用程式，而App Store的下架率則只有 24%。另外，微軟的Windows Phone 7 Marketplace的程式僅被移除了13%。針對下架率，research2guidance在報告中指出，是因為蘋果會定期清理App Store的應用程式，而Google一直到去年底才大動作整理Android Market，且Android Market採用較寬鬆的上架策略，相較於蘋果訂出嚴格的程式上架規定，所以其上架後被淘汰的程式較多。以整體市場來說，全球歷年的APP下載量，預計到2011年底將達到290億次，去年結束時累計共達90億次，這些都要歸功於智慧型手機的銷售成長快速。ABI也表示iPhone的出貨量成長由上季的15％掉到9%，同時間的Android手機則是由20％變為36%。
+
+記者／葉欣華
+
+隨著全球智慧手機的出貨成長，市場研究機構ABI表示，2011年Q2的App下載數量，Android首度以44%的市佔率，超越iOS的31%。研究行動市場的research2guidance公司也公布另一項報告，指出曾經登上Android Market的應用程式已經超過50萬，只略輸蘋果App Store的60萬。
+
+九月份Android Market上發布的應用程式數量超過50萬個，而競爭對手蘋果App Store發布的應用程式則超過60萬，但Android Market所移除的程式比例高於App Store，Android Market總計刪除了37%的應用程式，而App Store的下架率則只有 24%。另外，微軟的Windows Phone 7 Marketplace的程式僅被移除了13%。
+
+針對下架率，research2guidance在報告中指出，是因為蘋果會定期清理App Store的應用程式，而Google一直到去年底才大動作整理Android Market，且Android Market採用較寬鬆的上架策略，相較於蘋果訂出嚴格的程式上架規定，所以其上架後被淘汰的程式較多。
+

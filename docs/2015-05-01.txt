@@ -1,0 +1,12 @@
+標題: 微軟新瀏覽器　正式命名為Edge
+原文: https://www.ectimes.org.tw/2015/05/%e5%be%ae%e8%bb%9f%e6%96%b0%e7%80%8f%e8%a6%bd%e5%99%a8%e3%80%80%e6%ad%a3%e5%bc%8f%e5%91%bd%e5%90%8d%e7%82%baedge/
+記者／何螢玲
+
+美國微軟公司（Microsoft），在美國時間4月29日舉辦發表會上，正式公佈新的網路瀏覽器「Microsoft Edge」來取代IE（Internet Explorer），Microsoft Edge瀏覽器的交互界面相似於Google Chorme瀏覽器，比起IE來說，使用介面更簡潔且快速。
+
+Microsoft Edge瀏覽器成為Windows 10 作業系統的內建服務，結合語音功能的個人助手Cortana、閱讀目錄、網頁筆記等功能，新的瀏覽器會加入會根據對網路與使用者的了解，適時地提供使用者協助，貼近消費者的使用習慣，又具有其創新性。
+
+除此之外，Microsoft Edge也支援了Firefox和 Chrome 瀏覽器的擴充元件，這項功能也成為Microsoft Edge的最大特色，不再將Firefox 和 Chrome是為其競爭者，而是加入了與這兩大瀏覽器的支持，對於偏保守的微軟來說，可以說是Microsoft Edge的一大突破。
+
+Microsoft Edge的發表，是否也說明的IE的告一段落？雖然IE在近期來，一直飽受批評，甚至有最差瀏覽器之稱，不過，IE的市佔率仍然是難以撼動的第一，因此，雖然微軟因應了時代的變化與使用者的反應，推出了新的瀏覽器Microsoft Edge，但要在一時之間取代IE，還是有待觀察。
+

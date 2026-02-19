@@ -1,0 +1,12 @@
+標題: 戴口罩也能解鎖iPhone？Apple推新iOS這樣滿足用戶
+原文: https://www.ectimes.org.tw/2021/02/%e6%88%b4%e5%8f%a3%e7%bd%a9%e4%b9%9f%e6%83%b3%e8%a7%a3%e9%8e%96iphone%ef%bc%9fapple%e6%8e%a8%e6%96%b0ios%e9%80%99%e6%a8%a3%e6%bb%bf%e8%b6%b3%e7%94%a8%e6%88%b6/
+Face ID自2017年隨著iPhone X推出，已經是許多iOS用戶習以為常的手機解鎖模式，但在COVID-19爆發，戴口罩成為出入的必備條件後，掃臉解鎖卻成為麻煩的事。Apple在此際終於宣佈推出iOS 14.5，達成用戶不必脫下口罩也能解鎖iPhone的願望，前提條件是用戶必需擁有一支Apple Watch。
+
+Apple在2月2日釋出iOS 14.5 Beta與watchOS 7.4版本，用戶在更新後可以新增設定以Apple Watch解鎖iPhone，在之後每次想掃臉解鎖手機，卻被口罩阻撓時，只要有配戴也在解鎖情況的Apple Watch，就能自動轉為以其解鎖iPhone，成功後Apple Watch也會震動以示提醒。
+
+￭距iOS 14.4正式推出一週時間，Apple再釋出iOS 14.5 Beta版本。（截圖自／Apple官網）
+
+除了免脫口罩解鎖的配套措施，iOS 14.5即將推出的其他重要更新還包含支援5G全球雙卡雙持功能，也開始支援最新的PlayStation®和XBox遊戲控制器，新增控制Siri電洽與傳送簡訊給緊急聯絡人的語音指令，強制開啟反追蹤廣告設置，以及調整並優化Podcast與提醒事項等應用程式的介面及功能設計。
+
+戴著口罩也能解鎖可能還是大多數用戶更關心的新功能，但值得注意的是，即使用戶也符合了具備Apple Watch的條件，該解鎖服務仍並非萬用，它僅僅只適用於解鎖手機本身，如果用戶需要進行Apple Pay支付，仍要乖乖脫下口罩進行Face ID解鎖。正式版本的推出預計將在下月正式上線。
+

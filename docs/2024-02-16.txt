@@ -1,0 +1,18 @@
+標題: OpenAI公布新的AI模型   「Sora」可自動生成短影片
+原文: https://www.ectimes.org.tw/2024/02/openai%e5%85%ac%e5%b8%83%e6%96%b0%e7%9a%84ai%e6%a8%a1%e5%9e%8b-%e3%80%8csora%e3%80%8d%e5%8f%af%e8%87%aa%e5%8b%95%e7%94%9f%e6%88%90%e7%9f%ad%e5%bd%b1%e7%89%87/
+就在今日( 16 日)，人工智慧研究公司「OpenAI」宣布他們正在研發一款名為「Sora」新 AI 模型，該模型可以根據文字提示來生成短影片。儘管目前 Sora 還沒有開放給大眾使用，但在網路上已經引起不小迴響，甚至一度衝上社群媒體平台 X 流行趨勢，大家都在猜想 Sora 會在未來徹底改變短影片領域的市場與創作思路。
+
+OpenAI 官方 X 帳號在今（16）日發布了一則貼文，簡單介紹了 Sora AI 模型功能，該模型可以根據使用者提供的文字提示自動生成影片，影片內容可以包含多名角色，搭配特定的動態場景。不過 OpenAI 官方 也強調說 Sora 目前是未完成的產品，可能無法理解複雜的物理或空間細節，導致生成不合邏輯的短影片。
+
+官方展示的案例是以「白雪、東京市、櫻花、攤販、行人」等關鍵字進行短影片生成，而這些短影片的長度最高可達 60 秒。同時還能展示複雜的攝影機運動。除了根據文字提升生成影片外，Sora還能夠根據靜態圖片來製作動畫，功能可以說是十分強大。
+
+Introducing Sora, our text-to-video model.
+
+Sora can create videos of up to 60 seconds featuring highly detailed scenes, complex camera motion, and multiple characters with vibrant emotions.https://t.co/7j2JN27M3W
+
+Prompt: “Beautiful, snowy…pic.twitter.com/ruTEWn87vf
+
+— OpenAI (@OpenAI)February 15, 2024
+
+與此同時，OpenAI 官方也特別提到，近年來 AI 工具迅速發展，導致 AI 相關產品與生成內容受到不小爭議，針對這些爭議還有未來 Sora 正式公開給一般民眾時可能會遭遇到的問題與風險，OpenAI 官方強調他們目前正在開發工具來檢測短影片是否是由 Sora 生成，相信這能更快幫助一般民眾分辨所見內容是否為 AI 創作。
+

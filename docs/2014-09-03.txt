@@ -1,0 +1,12 @@
+標題: Sex Tape真實上映　Apple認iCloud漏洞
+原文: https://www.ectimes.org.tw/2014/09/sex-tape%e7%9c%9f%e5%af%a6%e4%b8%8a%e6%98%a0%e3%80%80apple%e8%aa%8dicloud%e6%bc%8f%e6%b4%9e/
+記者／林姿岑
+
+Cameron Diaz新片《Sex Tape》內容竟真實上演！日前影像分享網站4Chan，發佈一批宣稱是由iCloud帳戶中取得的影像，其中包含眾多好萊塢知名明星如Jennifer Lawrence、Victoria Justice與Kirsten Caroline Dunst等之私密照，內容已在Twitter、Reddit等社群網站上瘋傳，多位明星亦證實照片的真實性。而Apple日前業已承認疏失，並承諾改善。
+
+■  iCloud照片串流雖然便利，但隱私危機四伏。據悉，該名駭客是利用Apple iCloud儲存平台的技術性漏洞「iBrute」，成功入侵名人的雲端備份，竊取帳戶中的私密內容，目的是為了與網友換取虛擬貨幣「Bitcoin」圖利。事件發生之後，Twitter雖緊急撤銷散佈照片之帳號，但終究為時已晚，該名駭客更揚言未來將有更多名人私密照會曝光，各家明星人人自危。
+
+而此一「iBrute」技術性漏洞，存在於Find My iPhone之登錄頁面，基本上，大多手機都有登入限制，若以窮舉密碼之方式破解，將會被攔截於外，但安全研究員Alexey Troshichev卻發現，Find My iPhone之API竟能允許用戶嘗試多組密碼，此一漏洞給予駭客們可乘之機，能不費大把功夫即能入侵iCloud帳戶。
+
+Apple發言人Natalie Kerris表示，Apple十分注重用戶隱私，將積極介入調查此事，目前也已修復Find My iPhone軟件中的重要漏洞。FBI亦宣布將針對該事件展開調查，但並未說明會採取哪些具體行動。而資安研究及顧問公司Securosis執行長Rich Mogull認為並非Apple iCloud系統整體被駭，應僅只入侵某些特定之帳戶，希冀iPhone用戶們別過度恐慌。
+

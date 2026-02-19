@@ -1,0 +1,12 @@
+標題: Google將整併Google Meet和Google Duo　降低服務的重複性
+原文: https://www.ectimes.org.tw/2022/06/google%e5%b0%87%e6%95%b4%e4%bd%b5meet%e5%92%8cduo%e3%80%80%e9%99%8d%e4%bd%8e%e9%87%8d%e8%a4%87%e6%80%a7%e8%b3%aa%e6%9c%8d%e5%8b%99/
+在疫情的影響下，人們的工作型態已發生重大的改變，WFH (Work From Home) 的工作形態越來越常見，而視訊會議也成為企業主要的溝通方式，各式各樣的線上視訊工具也開始流行。 大多數人都使用過Google的視訊工具Google Duo和Google Meet，不過近期Google決定將這兩個視訊工具整併，以減少其服務的重複性。
+
+￭Google宣布將Duo服務整併到Meet中，提供單一語音和視訊對話平台。（圖片取自／Google）
+
+Google在6月1日宣布，將整合旗下兩款視訊通話應用程式，將個人用戶為主的Google Duo合併到企業使用的Google Meet中，之後將會進一步將名稱調整為Google Meet，未來用戶只要使用一個程式，就能滿足各種通話需求。
+
+「我們認為，透過一個通用、簡單，且容易使用的平台，Google能夠服務整個視訊市場，從個人用戶到和商業用途。」Google的總經理兼副總裁Javier Soltero表示。Soltero也表示，這個整併的計畫已經醞釀了很長一段時間，早在2020年，Google就將Google Duo和Google Meet的團隊聚集在一起，討論合併這兩項產品相關的計畫。
+
+Google Duo和Google Meet的產品管理總監Dave Citron也指出，隨著疫情的爆發，Google Duo和Google Meet的使用量突然迅速地增加，這使得開發團隊需要推出更好的消費者使用體驗，也就是將兩款產品的優勢相互融合。除此之外，對於Google Duo的用戶來說，他們不需要再下載新的應用程式，用戶只需要確保他們安裝了最新版本的Google Duo，該版本將會自動更新為Google Meet，且會整合和保存所有對話紀錄、聯絡人和訊息。
+

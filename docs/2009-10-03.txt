@@ -1,0 +1,14 @@
+標題: 微軟持續疲軟　IE、Bing市占率雙雙下跌
+原文: https://www.ectimes.org.tw/2009/10/%e5%be%ae%e8%bb%9f%e6%8c%81%e7%ba%8c%e7%96%b2%e8%bb%9f%e3%80%80ie%e3%80%81bing%e5%b8%82%e5%8d%a0%e7%8e%87%e9%9b%99%e9%9b%99%e4%b8%8b%e8%b7%8c/
+記者／林資傑微軟（Microsoft）面臨市場考驗？根據網路調查機構Net Applications及StatCounter9月份所公布的調查顯示，微軟的Internet Explorer（IE）瀏覽器及Bing搜尋引擎全球市占率雙雙下跌，其中IE瀏覽器的市占率更寫下歷來新低紀錄。不論是Net Applications還是StatCounter所公布的數據，IE的市占率都呈現不斷下滑情況，一年來市占率已下跌8.6％，僅僅過去3個月便達2.6％的衰退。而火狐（FireFox）、Safari及Chrome則持續爭奪瀏覽器市場大餅，其中剛推出3.5新版的FireFox以23.75％的市占率坐穩亞軍位置，成為威脅IE王位的頭號勁敵。而微軟強打的Bing搜尋引擎，不但在全球市占率出現衰退現象，StatCounter同時指出Bing在美國的市占率自9.64％降至8.51％，反觀Google及Yahoo!仍穩居前二大搜尋引擎之列，Google尤以77.83％攀升至80.08％的全美市占率繼續保有龍頭地位。StatCounter執行長Aodhan Cullen表示，Bing市占率自8月中開始下跌，在全球和美國市場皆為首次出現衰退，令人為微軟感到憂慮。不過微軟則認為，22日上市的Windows 7作業系統，可望藉由良好評價與市場期待度，為瀏覽器及搜尋引擎領域帶來起色。
+
+記者／林資傑
+
+微軟（Microsoft）面臨市場考驗？根據網路調查機構Net Applications及StatCounter9月份所公布的調查顯示，微軟的Internet Explorer（IE）瀏覽器及Bing搜尋引擎全球市占率雙雙下跌，其中IE瀏覽器的市占率更寫下歷來新低紀錄。
+
+不論是Net Applications還是StatCounter所公布的數據，IE的市占率都呈現不斷下滑情況，一年來市占率已下跌8.6％，僅僅過去3個月便達2.6％的衰退。而火狐（FireFox）、Safari及Chrome則持續爭奪瀏覽器市場大餅，其中剛推出3.5新版的FireFox以23.75％的市占率坐穩亞軍位置，成為威脅IE王位的頭號勁敵。
+
+而微軟強打的Bing搜尋引擎，不但在全球市占率出現衰退現象，StatCounter同時指出Bing在美國的市占率自9.64％降至8.51％，反觀Google及Yahoo!仍穩居前二大搜尋引擎之列，Google尤以77.83％攀升至80.08％的全美市占率繼續保有龍頭地位。
+
+StatCounter執行長Aodhan Cullen表示，Bing市占率自8月中開始下跌，在全球和美國市場皆為首次出現衰退，令人為微軟感到憂慮。不過微軟則認為，22日上市的Windows 7作業系統，可望藉由良好評價與市場期待度，為瀏覽器及搜尋引擎領域帶來起色。
+

@@ -1,0 +1,20 @@
+標題: 成為你的眼　微軟推出Seeing AI 手機app
+原文: https://www.ectimes.org.tw/2017/07/%e6%88%90%e7%82%ba%e4%bd%a0%e7%9a%84%e7%9c%bc%e3%80%80%e5%be%ae%e8%bb%9f%e6%8e%a8%e5%87%baseeing-ai-%e6%89%8b%e6%a9%9fapp/
+記者／朱顗如
+
+人工智慧（ArtificialIntelligence, AI）已被廣泛運用在許多領域，包含Apple Siri、以及戰勝許多圍棋高手的Google DeepMind AlphaGo，而微軟在12日推出的免費手機app–Seeing AI，將成為視障者看世界的好幫手。
+
+￭ Seeing AI能以語音方式為使用者辨識多樣資訊。（取自／Seeing AI官網）
+
+Seeing AI的開發者Saqib Shaikh 是一位視障者，在Microsoft Research的影片中他為我們示範這款app包括辨識朋友臉部特徵、大約的年齡及表情、透過條碼辨識商品及閱讀實體及app中的文字內容等多項功能，將視覺世界的事物轉換為語音體驗，讓視障者的生活更便利。而Seeing AI是透過光學字元識別（Optical Character Recognition, OCR）的技術，辨別條碼及掃描文字，除此之外，還會以聲音提示的方式，幫助使用者可以將辨識的目標物放入辨識區中。與其他功能類似的app更貼心的地方在於，Seeing AI臉部辨識及大多基本功能都直接在手機上操作，省去連上網路的步驟，讓辨別速度更快，但場景辨識及文件辨別的功能仍須連接網路。目前此款app只提供美國地區的iOS用戶免費下載，其他國家及Android用戶仍需等待開放，讓更多視障者的生活更便利。
+
+Seeing AI的開發者Saqib Shaikh 是一位視障者，在Microsoft Research的影片中他為我們示範這款app包括辨識朋友臉部特徵、大約的年齡及表情、透過條碼辨識商品及閱讀實體及app中的文字內容等多項功能，將視覺世界的事物轉換為語音體驗，讓視障者的生活更便利。
+
+而Seeing AI是透過光學字元識別（Optical Character Recognition, OCR）的技術，辨別條碼及掃描文字，除此之外，還會以聲音提示的方式，幫助使用者可以將辨識的目標物放入辨識區中。與其他功能類似的app更貼心的地方在於，Seeing AI臉部辨識及大多基本功能都直接在手機上操作，省去連上網路的步驟，讓辨別速度更快，但場景辨識及文件辨別的功能仍須連接網路。目前此款app只提供美國地區的iOS用戶免費下載，其他國家及Android用戶仍需等待開放，讓更多視障者的生活更便利。
+
+而Seeing AI是透過光學字元識別
+
+（Optical Character Recognition, OCR）的技術，辨別條碼及掃描文字，除此之外，還會以聲音提示的方式，幫助使用者可以將辨識的目標物放入辨識區中。與其他功能類似的app更貼心的地方在於，Seeing AI臉部辨識及大多基本功能都直接在手機上操作，省去連上網路的步驟，讓辨別速度更快，但場景辨識及文件辨別的功能仍須連接網路。
+
+目前此款app只提供美國地區的iOS用戶免費下載，其他國家及Android用戶仍需等待開放，讓更多視障者的生活更便利。
+

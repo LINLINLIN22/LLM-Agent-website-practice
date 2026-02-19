@@ -1,0 +1,14 @@
+標題: 停止多項個人服務　Google轉戰企業市場
+原文: https://www.ectimes.org.tw/2009/01/%e5%81%9c%e6%ad%a2%e5%a4%9a%e9%a0%85%e5%80%8b%e4%ba%ba%e6%9c%8d%e5%8b%99%e3%80%80google%e8%bd%89%e6%88%b0%e4%bc%81%e6%a5%ad%e5%b8%82%e5%a0%b4/
+記者／朱晏瑱Google於日前宣布將陸續停止或限制存取不受個人用戶青睞的網路服務，包括Google影音上傳、目錄搜尋（Google Catalog Search）、Google記事本、移動社交服務的Dodgeball和微型部落格網站Jaiku等六項服務，另一方面發表Google Apps經銷商授權計劃，集中資源優先耕耘企業用戶市場。Google Video隨著Google購併Youtube之後使用價值降低，使得未來Google將砍掉讓使用者上傳的功能，只保留影音搜尋的部份。而微型部落格Jaiku與移動社交服務的Dodgeball，因功能與Twitter相似而逐漸被取代乏人問津，其它個人用戶的網路相關服務，也因Google App Engine內第三方軟體程式供應興起而遭到淘汰，可見Google於個人用戶網路服務已轉移至依賴Google App Engine的力量。因而有更多力量集中於耕耘企業用戶市場，在Google付費辦公軟體服務（Google Apps Premier Edition）內的帳戶，每年使用的價格為50美金，而Google公司為吸引全球更多的IT服務供應商為此服務共同合作，於日前發表Google Apps的經銷商授權計劃，宣佈將提供20%的折扣，除了讓經銷商能將Google Apps整合在其商業應用平台，讓經銷商直接面對企業客戶進行收費外，Google也將提供有關此服務相關的網路行銷工具與技術支援，以教育訓練的方式，吸引更多經銷商參與。雖然Google擁有眾多個人用戶完善的網路服務，但其依賴Google App Engine第三方軟體程式供應所產生的利潤，集結起來有限。而Google Apps Premier Edition吸引到企業用戶所創造出的金流，能帶給Google更高的成長獲利，因此吸引更多軟體服務商和經銷商參與，成為未來Google轉向耕耘企業用戶市場所需面對的課題。分享此新聞：
+
+記者／朱晏瑱
+
+Google於日前宣布將陸續停止或限制存取不受個人用戶青睞的網路服務，包括Google影音上傳、目錄搜尋（Google Catalog Search）、Google記事本、移動社交服務的Dodgeball和微型部落格網站Jaiku等六項服務，另一方面發表Google Apps經銷商授權計劃，集中資源優先耕耘企業用戶市場。
+
+Google Video隨著Google購併Youtube之後使用價值降低，使得未來Google將砍掉讓使用者上傳的功能，只保留影音搜尋的部份。而微型部落格Jaiku與移動社交服務的Dodgeball，因功能與Twitter相似而逐漸被取代乏人問津，其它個人用戶的網路相關服務，也因Google App Engine內第三方軟體程式供應興起而遭到淘汰，可見Google於個人用戶網路服務已轉移至依賴Google App Engine的力量。
+
+因而有更多力量集中於耕耘企業用戶市場，在Google付費辦公軟體服務（Google Apps Premier Edition）內的帳戶，每年使用的價格為50美金，而Google公司為吸引全球更多的IT服務供應商為此服務共同合作，於日前發表Google Apps的經銷商授權計劃，宣佈將提供20%的折扣，除了讓經銷商能將Google Apps整合在其商業應用平台，讓經銷商直接面對企業客戶進行收費外，Google也將提供有關此服務相關的網路行銷工具與技術支援，以教育訓練的方式，吸引更多經銷商參與。
+
+雖然Google擁有眾多個人用戶完善的網路服務，但其依賴Google App Engine第三方軟體程式供應所產生的利潤，集結起來有限。而Google Apps Premier Edition吸引到企業用戶所創造出的金流，能帶給Google更高的成長獲利，因此吸引更多軟體服務商和經銷商參與，成為未來Google轉向耕耘企業用戶市場所需面對的課題。
+

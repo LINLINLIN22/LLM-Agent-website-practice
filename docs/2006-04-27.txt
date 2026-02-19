@@ -1,0 +1,14 @@
+標題: 微軟將推Windows Live  網路服務更厲害
+原文: https://www.ectimes.org.tw/2006/04/%e5%be%ae%e8%bb%9f%e5%b0%87%e6%8e%a8windows-live-%e7%b6%b2%e8%b7%af%e6%9c%8d%e5%8b%99%e6%9b%b4%e5%8e%b2%e5%ae%b3/
+記者／蔡逸群
+
+Windows Live是微軟即將推出的網路服務的總稱，開放性和個人化是其兩項最大的特色，未來的六個月到一年之間微軟所有改版推出的MSN服務或其他新增的網路服務，都將成為Windows Live的服務項目之一，例如Windows Live Mail、Windows Live Messenger…等。
+
+Windows Live服務範疇相當廣大，包括郵件、搜尋引擎、書籤、即時通訊、防毒、地圖（只在美國推出）…等，其中八項Web-based服務中，絕大多數都已經在MSN品牌中應用或者通過測試，除此之外，連同對手Google與Yahoo所推出的個人化工具也都羅列進來了，並將Yahoo與Google所提供的個人化功能進一步作了提升。
+
+在Windows Live中有一個名為「Gadgets」服務對微軟來說相當重要；使用者可以自行勾選本身所需的服務，設定個人化的網頁內容，需要包含哪些元素，例如天氣預報、匯率、新聞服務等，微軟打算全面使用在下一版作業系統Windows Vista與Windows Live中。另一項值得一提的則是Windows Live Mail；它是已經規劃一段時間的Hotmail更新版，透過設定，可以檢視所有其他業者，不管是Gmail還是Yahoo！Mail提供的信箱內的信件。
+
+Windows Live新技術中最大的變動應該是即將推出的Messenger新版，它的新功能將包括社交網路與網路電話，這項服務讓撥網路電話就跟發送即時訊息一樣簡單；Messenger的另一個新功能是跟好友共享資料夾，只要將資料夾拉至好友名字上，就能讓所選的資料夾與該好友共享，同時出現在雙方的桌面上，資料夾內容如果有任何更新，雙方都可以立即看到。這個新版的Messenger計畫在十二月份推出beta測試版。
+
+除了上述的服務以外，還有一個行動版的Windows Live搜尋工具，用戶可藉由Windows Mobile裝置或具備瀏覽器的手機，來尋找附近的餐廳或加油站。Windows Live服務很多，然而這些服務不同於套裝軟體，無法一次發表，將在未來的六個月至一年間陸續為用戶提供服務。
+

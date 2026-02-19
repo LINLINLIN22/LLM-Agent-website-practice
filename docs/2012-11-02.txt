@@ -1,0 +1,14 @@
+標題: Siri 新勁敵　Google Search服務更新點燃戰火
+原文: https://www.ectimes.org.tw/2012/11/siri-%e6%96%b0%e5%8b%81%e6%95%b5%e3%80%80google-search%e6%9c%8d%e5%8b%99%e6%9b%b4%e6%96%b0%e9%bb%9e%e7%87%83%e6%88%b0%e7%81%ab/
+記者／蘇安妮不讓Apple Siri專美於前，Google繼電子地圖成功達陣後，近期又挾著語音搜尋的更新服務，直闖Apple引以為傲的地盤。新版的Google Search app於1日推出，iOS系統使用者可迅速準確的搜尋資料，不僅使科技評論家大為驚艷，也讓近日出師不利的Apple倍感壓力。Google Search工程師KennethBongort指出，為iPhone及iPad所設計的Google Search app，提供使用者進階的語音搜尋，藉由輕按麥克風圖示提出詢問，問題內容將立即轉化為文字，而部分較為減短的答案，Google Search也會透過語音輸出，提供準確及快速的語音辨識技術，結果不再只是一連串的連結清單。在測試新版服務後，科技評論網站CNET表示，雖然Google Search app仍有搜尋資料錯誤的時候，但藉由Google擁有的龐大資料庫，整體搜尋速度比起Apple Siri快上了一截。然而，相較於Siri，Google Search app 仍是屬於外來的app，連貫iOS系統將受到許多限制。Google與Apple兩大科技巨頭競爭日趨白熱化。在Google Search app發表更新服務的同時，Apple也聘請亞馬遜（Amazon）搜尋技術專家，來強化Siri的搜尋技術。因此，有鑑於Apple龐大的研發資金及人才，Google如何在搶灘成功之際，推出有別於Apple Siri的附加功能，紮根於iOS系統市場，成為現今應當思考的下一步。
+
+記者／蘇安妮
+
+不讓Apple Siri專美於前，Google繼電子地圖成功達陣後，近期又挾著語音搜尋的更新服務，直闖Apple引以為傲的地盤。新版的Google Search app於1日推出，iOS系統使用者可迅速準確的搜尋資料，不僅使科技評論家大為驚艷，也讓近日出師不利的Apple倍感壓力。
+
+Google Search工程師KennethBongort指出，為iPhone及iPad所設計的Google Search app，提供使用者進階的語音搜尋，藉由輕按麥克風圖示提出詢問，問題內容將立即轉化為文字，而部分較為減短的答案，Google Search也會透過語音輸出，提供準確及快速的語音辨識技術，結果不再只是一連串的連結清單。
+
+在測試新版服務後，科技評論網站CNET表示，雖然Google Search app仍有搜尋資料錯誤的時候，但藉由Google擁有的龐大資料庫，整體搜尋速度比起Apple Siri快上了一截。然而，相較於Siri，Google Search app 仍是屬於外來的app，連貫iOS系統將受到許多限制。
+
+Google與Apple兩大科技巨頭競爭日趨白熱化。在Google Search app發表更新服務的同時，Apple也聘請亞馬遜（Amazon）搜尋技術專家，來強化Siri的搜尋技術。因此，有鑑於Apple龐大的研發資金及人才，Google如何在搶灘成功之際，推出有別於Apple Siri的附加功能，紮根於iOS系統市場，成為現今應當思考的下一步。
+

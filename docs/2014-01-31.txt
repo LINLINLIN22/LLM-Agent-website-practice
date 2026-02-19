@@ -1,0 +1,12 @@
+標題: Google新動作！　Chrome應用將登陸行動平台
+原文: https://www.ectimes.org.tw/2014/01/google%e6%96%b0%e5%8b%95%e4%bd%9c%ef%bc%81%e3%80%80chrome%e6%87%89%e7%94%a8%e5%b0%87%e7%99%bb%e9%99%b8%e8%a1%8c%e5%8b%95%e5%b9%b3%e5%8f%b0/
+記者／錢 蔚
+
+繼將ChromeOS體驗搬上windows和Mac系統之後，Google又有新動作！日前，Google宣佈將推出一套基於「ApacheCordova」的行動應用程式開發架構，該工具有助於開發者輕鬆將Chrome應用移至Android和iOS行動後端，屆時，用戶便可於Google Play或蘋果的App Store中看到這些應用程式。
+
+Google此次推出的開發架構，基於Apache Cordova工具，允許Chrome應用開發者為自己開發的程式搭配在地的應用形式，進而直接發佈在Google Play或蘋果App Store上。藉助此工具，開發者亦能直接於Android系統中運行程式，而不必安裝IDE或是行動平台SDK。
+
+據悉，該開發架構目前正處於測試階段，接受開發者們共同測試，並將依據開發者回饋意見進行調整，正式發佈可能於明年1月。到時候，Chrome應用將在Android和iOS系統中實現運行，使用者們也能夠在App Store或是Google Play中見到Chrome應用程式的身影。
+
+Google此次將Chrome應用移至行動平台的計劃並不突然，事實上，Google一直努力拓展Chrome應用平台。此前，Chrome應用已實現線下運行，並在Chrome　OS、windows以及Mac系統上運行成功，現在又進軍行動平台，可見其整合與開拓的導向，也為電商發展提供全新的思考方向。
+

@@ -1,0 +1,14 @@
+標題: Google與小米合作　將ARCore帶入中國
+原文: https://www.ectimes.org.tw/2018/05/google%e8%88%87%e5%b0%8f%e7%b1%b3%e5%90%88%e4%bd%9c%e3%80%80%e5%b0%87arcore%e5%b8%b6%e5%85%a5%e4%b8%ad%e5%9c%8b/
+記者／李怡慧
+
+Google於28日在官方Twitter上宣布，即日起民眾能於小米應用程式商店中下載ARCore應用程式 (App)，而小米旗艦機MIX 2S也將成為中國第一款支援ARCore的手機，透過與第三方夥伴的合作，打破大陸長久以來限制Google進入的規定。
+
+￭ 28日起，用戶即可在小米MIX 2S上下載ARCore App。（圖截自／Google AR&VR官方Twitter）
+
+ARCore為新增Android系統使用擴增實境 (augmented reality)、虛擬實境 (virtual reality) 的技術。過往中國大陸並未支援此項服務，如今透過與第三方手機公司合作，中國用戶也能下載這項裝置。Google先前也曾表示華為 (Huawei)、三星 (Samsung) 確定將ARCore App上架，同時也預告未來將與更多公司合作，使更多用戶受惠。
+
+Google除了將這項技術引入外，近幾個月來也與騰訊 (Tencent) 合作，預計投資當地新創公司，並宣布於北京建立AI實驗室，同時也在號稱｢中國矽谷｣的深圳開設辦公室。另外，Google也通過收購台灣HTC公司的部分業務，獲取相關技術。Google與中國的互動一直很微妙，即使被大陸禁止進入，但從近期頻繁的動作中，不難看出Google公司對中國市場的重視。
+
+雖然此次並非Google首次透過第三方夥伴將自家商品帶入大陸市場，如Android wear同樣也是透過與Motorola的合作進入，但這次ARCore技術是否能成功推廣，被廣大大陸用戶接受，仍有待考驗。
+

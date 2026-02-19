@@ -1,0 +1,14 @@
+標題: Facebook Pay美國登場　打造便利支付服務
+原文: https://www.ectimes.org.tw/2019/11/facebook-pay%e7%be%8e%e5%9c%8b%e7%99%bb%e5%a0%b4%e3%80%80%e6%89%93%e9%80%a0%e4%be%bf%e5%88%a9%e6%94%af%e4%bb%98%e6%9c%8d%e5%8b%99/
+Facebook於12日推出自家支付系統「Facebook Pay」，使消費者用於 Facebook 旗下流行的社交網路與App便利支付，包括Facebook、Messenger、Instagram和WhatsApp皆可交互使用。Facebook Pay不僅提供用戶轉帳功能，也用於消費購物、遊戲內購買，甚至捐款給指定帳戶。此服務於美國首度上線，未來有望擴及至其他地區。
+
+Facebook強調「Facebook Pay」是基於現有的金融基礎設施及合作夥伴關係來提供服務，目前除了提供募款活動、個人對個人的付款、購買活動門票、以及在Facebook Marketplace購物時付款，Facebook Pay也支援多數的簽帳卡、信用卡、及PayPal進行支付。為了確保避免有欺詐監視的疑慮，Facebook也表示未來將在 Facebook Pay上，添加PIN或使用手機上的生物識別系統， 讓使用者在進行交易時獲得安全保護。
+
+￭Facebook計劃本週開始在Messenger和Facebook推出 Facebook Pay。
+
+(截圖自／Facebook Newsroom官網)
+
+這次推出的新支付系統，不免讓人聯想到6月推出的加密貨幣Libra，自Facebook公開Libra加密貨幣後，遭各國監管部門強烈質疑。由於加密貨幣特有的不可追溯特徵，監管部門擔心加密貨幣可能用於洗錢，再加上去中心化概念的密碼貨幣，恐怕難以符合過往法規規範，這也讓Paypal、Visa、Mastercard、Stripe這些專門處理金流的公司陷入困境，而陸續宣布退出Libra Association。
+
+儘管因推動密碼貨幣Libra，使人們對Facebook的信任大跌，但絲毫不影響Facebook Pay的推出。目前推行至全球的時間尚未確定，但Facebook副總裁 Deborah Liu表明，Facebook Pay將計畫推廣至更多市場，讓不同地區的使用者使用。然而這也讓外界好奇，若是Facebook Pay在未來發行到不同地區後，將如何處理Libra受阻的原因。
+

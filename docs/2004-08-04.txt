@@ -1,0 +1,12 @@
+標題: 微軟IE出漏洞小心被「駭」
+原文: https://www.ectimes.org.tw/2004/08/%e5%be%ae%e8%bb%9fie%e5%87%ba%e6%bc%8f%e6%b4%9e%e5%b0%8f%e5%bf%83%e8%a2%ab%e3%80%8c%e9%a7%ad%e3%80%8d/
+記者／陳詠詩
+
+IE瀏覽器為駭客暢開入侵大門，此次IE瀏覽器的出現大漏洞，使用者若不修補，駭客將可長驅直入，甚至能在被駭的電腦上安裝間諜程式，也可刪除檔原使用者的檔案。
+
+這次IE所出現的漏洞，微軟將之列為嚴重級 (Critical)，使用者若是以管理者的權限登入系統，而成功利用此漏洞的駭客便可控制此受駭的系統，駭客可在被駭的電腦上安裝間諜程式、後門程式、監看、改變或刪除資料，甚至還可建立一個具有全部權限的新帳號，其影響性相當廣泛。
+
+而針對此，微軟也宣佈微軟IE瀏覽器累積的安全性更新程式，其所影響的對象為企業用戶與個人用戶均會受到影響。微軟提醒使用者必需快至微軟所提供的網址http://www.mi-crosoft.com/technet/security/bulletin/ms04-025.mspx下載更新程式。以防駭客入侵。
+
+此漏洞將會影響的系統包括有Internet Explorer 5.01 SP2, SP3與SP4, Internet Explorer 5.5 SP2, Internet Explorer 6,Internet Ex-plorer 6 SP1,和Windows Server 2003的InternetExplorer 6 ，此外，連最新的64位元版本亦會受影響。
+

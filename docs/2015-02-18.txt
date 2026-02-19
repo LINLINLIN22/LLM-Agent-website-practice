@@ -1,0 +1,14 @@
+標題: iPhone推指紋辨識功能　Home鍵可能消失
+原文: https://www.ectimes.org.tw/2015/02/iphone%e6%8e%a8%e6%8c%87%e7%b4%8b%e8%be%a8%e8%ad%98%e5%8a%9f%e8%83%bd%e3%80%80home%e9%8d%b5%e5%8f%af%e8%83%bd%e6%b6%88%e5%a4%b1/
+記者／林玉卿
+
+iPhone一向以使用簡便為賣點，自Apple在iPhone 5s的Home鍵上搭配指紋辨識系統「Touch ID」，就帶出了「指紋辨識」的浪潮，但是在Apple申請全屏幕指紋辨識的專利後，未來iPhone將不再依靠Home鍵，整個屏幕皆可使用指紋辨識功能，如此一來，Home鍵有可能面臨消失的危機。
+
+￭iPhone帶出了「指紋辨識」的浪潮。（圖／technews）
+
+Apple日前向美國專利商標局（USPTO）提出螢幕指紋辨識功能的專利申請，即面板指紋辨識技術，相較於目前「Touch ID」只能辨識一個指紋，聲稱新技術可同時辨識4個指紋，此舉將大幅提升安全性。且Apple也同時申請了「可撓式面板」及「3D」的相關專利，預計將此應用於iPhone等相關產品上。
+
+不少人皆為iPhone的忠實用戶，距離新機發表日越近也有更多的傳言，凱基證券分析師Ming-Chi Kuo預測iPhone 6s將升級「Touch ID」指紋辨識模組，除了降低辨識上的錯誤，也提升Apple Pay安全性。另外，據說iPhone 6S將會新增「Force Touch」觸控功能，該功能會依據使用者不同的按壓力度，而有不同的反應，「Force Touch」將在 Apple Watch上率先實施。
+
+市場研究機構Canaccord的資料顯示，市佔率僅20%的iPhone拿下全球手機市場九成的利潤。除了新增的「Force Touch」功能外，Apple也收購了以色列 3D 感測與辨識科技大廠 PrimeSense，取得3D 手勢介面專利，使用者只需對螢幕作出手勢不需直接碰觸，感測器即可辨識動作進而顯示相對應的內容，不斷地求新求變或許是導致iPhone成功的關鍵。
+

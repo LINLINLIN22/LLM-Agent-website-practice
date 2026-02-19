@@ -1,0 +1,12 @@
+標題: Bluetooth技術普及　4.0版登場更省電
+原文: https://www.ectimes.org.tw/2013/08/bluetooth%e6%8a%80%e8%a1%93%e6%99%ae%e5%8f%8a%e3%80%804-0%e7%89%88%e7%99%bb%e5%a0%b4%e6%9b%b4%e7%9c%81%e9%9b%bb/
+記者／劉馨文
+
+藍牙(Bluetooth)逐步進駐穿戴式裝置市場，在藍芽4.0規格正式發佈後，同時各大廠如蘋果、Google、微軟等，先後宣布支援Bluetooth Smart Ready技術規格，台灣Bluetooth SIG(藍牙聯盟)與經濟部工業局等單位隨即也針對應用Bluetooth連接技術的穿戴式裝置舉辦展示活動。無線藍牙技術正積極走入穿戴裝置市場，最早在2011年，Bluetooth SIG即針對Bluetooth 4.0，分別加入具低耗電特性的Bluetooth Smart，及具完整Bluetooth功能特性的Bluetooth Smart Ready兩種標準標誌，前者主要對應單模無線標準的ANT+或計步器等低耗電週邊，而後者則較適用於雙模無線標準的手機、平板、筆電或電視等產品。相較於上一代，藍牙4.0的特色主要在於可自動進入休眠模式，因而能使電力可省下1/3~1/5不等，目前已支援iPhone 4S/5及日前公布的搭載Android4.3作業系統的Nexus 7等。近期業者也在Google I/O 2013，以及蘋果WWDC 2013期間宣佈，將於Android平台、iOS平台，及新版OS X平台中開放對應Bluetooth Smart技術的API內容，使其進一步藉由平台市佔讓Bluetooth相關應用內容、配件產品加速成長。Bluetooth SIG行銷長卓文泰表示，近期 Bluetooth Smart 裝置發展日益蓬勃，從足球、網球鞋、手錶、免鑰匙啟動功能，甚至床舖等，處處可見藍牙低耗能技術。卓文泰也提到今年已有數百件的藍牙產品上市，不過目前只是低耗Bluetooth Smart的起步階段，期待未來最新版Android平台與Bluetooth Smart Ready技術共同創造更多不一樣的可能性。
+
+藍牙(Bluetooth)逐步進駐穿戴式裝置市場，在藍芽4.0規格正式發佈後，同時各大廠如蘋果、Google、微軟等，先後宣布支援Bluetooth Smart Ready技術規格，台灣Bluetooth SIG(藍牙聯盟)與經濟部工業局等單位隨即也針對應用Bluetooth連接技術的穿戴式裝置舉辦展示活動。
+
+無線藍牙技術正積極走入穿戴裝置市場，最早在2011年，Bluetooth SIG即針對Bluetooth 4.0，分別加入具低耗電特性的Bluetooth Smart，及具完整Bluetooth功能特性的Bluetooth Smart Ready兩種標準標誌，前者主要對應單模無線標準的ANT+或計步器等低耗電週邊，而後者則較適用於雙模無線標準的手機、平板、筆電或電視等產品。
+
+相較於上一代，藍牙4.0的特色主要在於可自動進入休眠模式，因而能使電力可省下1/3~1/5不等，目前已支援iPhone 4S/5及日前公布的搭載Android4.3作業系統的Nexus 7等。近期業者也在Google I/O 2013，以及蘋果WWDC 2013期間宣佈，將於Android平台、iOS平台，及新版OS X平台中開放對應Bluetooth Smart技術的API內容，使其進一步藉由平台市佔讓Bluetooth相關應用內容、配件產品加速成長。
+

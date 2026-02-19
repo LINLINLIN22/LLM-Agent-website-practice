@@ -1,0 +1,16 @@
+標題: HTML5漸進位成主流　Safari也默認關閉Flash
+原文: https://www.ectimes.org.tw/2016/06/html5%e6%bc%b8%e9%80%b2%e4%bd%8d%e6%88%90%e4%b8%bb%e6%b5%81%e3%80%80safari%e4%b9%9f%e9%bb%98%e8%aa%8d%e9%97%9c%e9%96%89flash/
+記者／孟祥瑄
+
+據14日負責Safari瀏覽器的蘋果軟體工程師Ricky Mondello發佈於WebKit博客中的內容，搭配macOS Sierra推出的新版Safari10將默認關閉Adobe Flash、Java、silverlight以及Quicktime等外掛程式，改為優先執行HTML5，以確保網頁運作的流暢性。
+
+所謂的默認關閉，其實是指用戶在使用Safari10瀏覽網頁時，若是遇到能同時採用 HTML5及Flash的網頁，一定會優先選擇採用HTML5，並且回覆用戶「尚未安裝Flash」的訊息，當用戶手動點選安裝時Safari才會提示該外掛程式已經安裝，並詢問只此一次或是往後都自動開啟。
+
+事實上，Safari早已不是第一個預備淘汰Flash的瀏覽器，微軟的Edge早已建議以HTML5取代並停止顯示不必要的Flash，而Google上月也宣佈改Chrome瀏覽器的預設為HTML5，只在前十大網域開放自動啟用Flash以簡化網頁開發的過程並降低安全風險。另外，Youtube及SoundCloud也漸漸轉向使用HTML5，似乎意謂著Flash以及前述的擴充元件將慢慢步入黃昏週期。￭即將推出的Safari10將默認關閉Flash等眾擴充元件。（截圖自／蘋果工程師Ricky Mondello的博客）Ricky Mondello最後也在博客中寫道Safari10將於今秋推出，建議開發者提早測試並調整網頁會因此受到的影響。儘管如此，Facebook前不久才推出的直播功能以及Periscope影片等仍需Flash才能播放，因此Flash短期之內尚不可能完全退場。分享此新聞：
+
+事實上，Safari早已不是第一個預備淘汰Flash的瀏覽器，微軟的Edge早已建議以HTML5取代並停止顯示不必要的Flash，而Google上月也宣佈改Chrome瀏覽器的預設為HTML5，只在前十大網域開放自動啟用Flash以簡化網頁開發的過程並降低安全風險。另外，Youtube及SoundCloud也漸漸轉向使用HTML5，似乎意謂著Flash以及前述的擴充元件將慢慢步入黃昏週期。
+
+￭即將推出的Safari10將默認關閉Flash等眾擴充元件。（截圖自／蘋果工程師Ricky Mondello的博客）
+
+Ricky Mondello最後也在博客中寫道Safari10將於今秋推出，建議開發者提早測試並調整網頁會因此受到的影響。儘管如此，Facebook前不久才推出的直播功能以及Periscope影片等仍需Flash才能播放，因此Flash短期之內尚不可能完全退場。
+

@@ -1,0 +1,20 @@
+標題: Microsoft Edge Copilot導入自動化操作功能
+原文: https://www.ectimes.org.tw/2025/10/microsoft-edge-copilot%e8%87%aa%e5%8b%95%e5%8c%96%e6%93%8d%e4%bd%9c%e5%8a%9f%e8%83%bd/
+在Perplexity的Comet、OpenAI的ChatGPT Atlas等以AI驅動瀏覽器相繼推出後，讓AI隨時在瀏覽過程中提供協助已成明顯趨勢。微軟稍早也宣布，將為其Microsoft Edge瀏覽器內建的Copilot模式加入兩項名為「Copilot Actions」與「Journeys」的新元素，進一步強化AI瀏覽體驗。
+
+Microsoft Edge Copilot導入「Copilot Actions」與「Journeys」等自動化操作功能
+
+微軟早在今年7月便已開始將Copilot模式整合至Microsoft Edge瀏覽器，而此次新增加的這兩項功能，目的將使Copilot的便利性更上一層樓。
+
+Copilot Actions：自然語言觸發複雜操作
+
+「Copilot Actions」主要讓使用者能透過更直覺的自然語言 (包含語音或聊天文字)，直接向Copilot下達更複雜的操作指令。例如，使用者可以說出「幫我檢查電子郵件收件匣」或「幫我預訂餐廳」等指令，Copilot就會根據指示，自動開啟對應的網頁，並且嘗試代替使用者完成登入、填寫表單等操作流程，實現跨網頁任務的自動化。
+
+Journeys：銜接瀏覽紀錄、減少分頁負擔
+
+另一項新功能「Journeys」，其主要目的在於依據「主題」或「專案」，自動整理使用者過往的瀏覽紀錄。當使用者重新開啟某個相關主題時，Journeys會主動提供後續的行動建議，協助用戶快速銜接先前中斷的工作流程。微軟表示，此功能旨在幫助用戶減少需要同時開啟大量分頁的困擾。此外，Journeys也具備個人化推薦的能力。在明確獲得使用者授權的情況下，Copilot可依據過往的瀏覽紀錄提供更精準的回應，例如根據購物紀錄推薦相關內容。
+
+強調隱私控制，初期僅美國預覽
+
+針對導入這些可能涉及個人瀏覽紀錄與自動化操作的新功能，微軟強調所有Copilot模式的操作都可由使用者完全掌控，並且可以隨時開啟或關閉。同時，當AI正在運作或存取資料時，系統也會提供清楚的視覺提示。不過，目前Copilot Actions與Journeys 這兩項新功能，僅在美國市場以「限量預覽」 (limited preview) 形式向用戶開放試用，其他地區用戶若想體驗，仍需等待後續的推送計畫。
+

@@ -1,0 +1,14 @@
+標題: 網路電視正夯？　微軟向Google TV開戰！
+原文: https://www.ectimes.org.tw/2010/06/%e7%b6%b2%e8%b7%af%e9%9b%bb%e8%a6%96%e6%ad%a3%e5%a4%af%ef%bc%9f%e3%80%80%e5%be%ae%e8%bb%9f%e5%90%91google-tv%e9%96%8b%e6%88%b0%ef%bc%81/
+記者／鄭亦雯Google上個月宣布即將在年底推出「Google TV」，微軟也不遑多讓，全球副總裁史蒂夫古傑海默（Steven Guggenheimer）在2日的Computex專題演講中，展出兼具上網與收視功能的電視，頗具與Google較勁意味。不讓Google TV專美於前，古傑海默在Computex年度微軟專題演講「 Microsoft Innovation = Partner Opportunities」中，除了介紹各家硬體廠商生產、搭載的Windows7平板電腦外，宣布推出新版Windows Embedded Compact 7嵌入式平台，未來可支援Intel以外的處理器，屆時電視將兼具上網與收視功能。不同於微軟急欲追隨Google腳步搶進網路電視市場，美國蘋果執行長賈布斯（Steve Jobs）在1日隔海唱衰，表示網路電視的市場還不成熟，蘋果不會因為Google侵入蘋果的地盤而跨入搜尋市場，此外，他也不相信Google TV會引爆市場熱潮，因為沒有人想買機上盒。Google TV的願景，是希望提供消費者在網路及電視的混合體驗。未來，電視不只是電視，而是可以上網、看照片、播音樂、玩遊戲及購物等娛樂都能夠提供，對於台灣的電視品牌商、製造商及機上盒的業者來說，均有機會搭上Google的順風車，搶進數位家庭市場。
+
+記者／鄭亦雯
+
+Google上個月宣布即將在年底推出「Google TV」，微軟也不遑多讓，全球副總裁史蒂夫古傑海默（Steven Guggenheimer）在2日的Computex專題演講中，展出兼具上網與收視功能的電視，頗具與Google較勁意味。
+
+不讓Google TV專美於前，古傑海默在Computex年度微軟專題演講「 Microsoft Innovation = Partner Opportunities」中，除了介紹各家硬體廠商生產、搭載的Windows7平板電腦外，宣布推出新版Windows Embedded Compact 7嵌入式平台，未來可支援Intel以外的處理器，屆時電視將兼具上網與收視功能。
+
+不同於微軟急欲追隨Google腳步搶進網路電視市場，美國蘋果執行長賈布斯（Steve Jobs）在1日隔海唱衰，表示網路電視的市場還不成熟，蘋果不會因為Google侵入蘋果的地盤而跨入搜尋市場，此外，他也不相信Google TV會引爆市場熱潮，因為沒有人想買機上盒。
+
+Google TV的願景，是希望提供消費者在網路及電視的混合體驗。未來，電視不只是電視，而是可以上網、看照片、播音樂、玩遊戲及購物等娛樂都能夠提供，對於台灣的電視品牌商、製造商及機上盒的業者來說，均有機會搭上Google的順風車，搶進數位家庭市場。
+

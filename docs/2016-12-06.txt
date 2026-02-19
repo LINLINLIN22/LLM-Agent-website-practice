@@ -1,0 +1,14 @@
+標題: 新版Chrome上市　Flash終結世代來臨
+原文: https://www.ectimes.org.tw/2016/12/%e6%96%b0%e7%89%88chrome%e4%b8%8a%e5%b8%82%e3%80%80flash%e7%b5%82%e7%b5%90%e4%b8%96%e4%bb%a3%e4%be%86%e8%87%a8/
+記者／張政文
+
+9月份開始，Google所發布的Chrome53開始阻止Flash在網頁後台中載入，12月，Google最新發表的Chrome55正式將HTML5做為Chrome瀏覽器的預設選項，而Chrome在瀏覽器市場擁有高達54.99%的比例，因此，Chrome55的這一做法無疑是對整個網路生態圈在技術上有著巨大的影響，同時也象徵了Flash終結的世代終將來臨。
+
+即便如此，現在依然有許多網站支援Flash運作，包含YouTube、Facebook、Yahoo、Twitch及Amazon等知名網站，Chrome55在這個部份也做了彈性的設計，對於這些使用Flash的網站，Chrome對它們予以了豁免權，並給予該網站一年的調整期限，在未來，除非使用者在必要的情況下自行安裝Flash組件，否則網頁將會自動以HTML5技術替代。
+
+￭Google Chrome55產品頁面。（截圖自／Google）
+
+HTML5早已在標準層面取代了Flash，就連Adobe都早在去年12月於官網發佈文章，呼籲開發者放棄Flash，轉移到HTML5平臺，而HTML5能取代Flash成為主流的原因，主要可歸咎於行動裝置的普及，以及HTML5對於行動網頁及線上影片的多項處理能力，這些都是Flash無法達到的功能。
+
+事實上，近兩年來我們經常都能聽見瀏覽器將淘汰Flash網頁技術的傳聞，像Firefox、Safari等都早已預設不再支援Flash技術，雖然Flash不會因為 Chrome55的出現就立刻消逝，但伴隨著新政策的出現，相信會加快Flash技術徹底消失在互聯網上的速度，Flash的技術，也終將成為數碼世界的歷史。
+

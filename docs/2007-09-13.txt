@@ -1,0 +1,16 @@
+標題: Google進入大型企業  Capgemini為幕後推手
+原文: https://www.ectimes.org.tw/2007/09/google%e9%80%b2%e5%85%a5%e5%a4%a7%e5%9e%8b%e4%bc%81%e6%a5%ad-capgemini%e7%82%ba%e5%b9%95%e5%be%8c%e6%8e%a8%e6%89%8b/
+記者／鍾函芸
+
+全球最大IT顧問公司之一的Capgemini與Google在周一（9/10）宣布結盟，Capgemini將採用Google Apps Premier Edition（GAPE）的大型企業支援服務，提供桌面支援與安裝服務給使用Google Apps Premier Edition的大型企業。Capgemini 與Google Apps的合作，意味著Google Apps的潛力不再只是對學生跟小企業這兩個族群，Capgemini將會全力支持與協助Google將Google Apps擴大到大型企業，
+
+Google Apps的功能採用代管模式提供諸如電子郵件、文字處理、試算表、即時通訊及行事曆等應用服務。Capgemini認為這些應用雖然目前多半是個人用戶與小企業再使用，但對於大企業也有誘因。因此，Capgemini將提供支援給企業，協助將Google Apps客製化至企業的商業流程中。
+
+Burton Group研究機構上個月曾公布一份報告顯示，雖然Google Apps 每位用戶的使用價格，一年才50美元，價格相當低廉，但是使用 Google Apps Premier Edition的企業有其風險。
+
+分析師Guy Creese指出企業採用Google Apps的結果，可能會因為該產品功能的不完整與特性，再加上Google獨特的公司文化而造成企業出現問題，如管理重要文件上的漏洞。
+
+大型企業不可忽視，目前Google Apps產品仍缺乏使用者角色、沒有部門分類，而且缺乏管理能力的實際紀錄等缺點，Burton Group研究機構建議大型企業最好等到市場成熟後再尋找較先進的產品。
+
+Google Apps是藉由瀏覽器及網路所提供的SaaS（軟體即服務），不需動用企業內部IT資源，也不要求企業安裝或維護，同時在共同開發的環境下具備分享及編輯資料的能力，可適用全球設有工廠、辦事處，或員工分散於世界各地的企業客戶。
+

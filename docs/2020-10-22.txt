@@ -1,0 +1,12 @@
+標題: Microsoft 攜手 Space X　直達太空的雲端服務
+原文: https://www.ectimes.org.tw/2020/10/microsoft-%e6%94%9c%e6%89%8b-space-x%e3%80%80%e7%9b%b4%e9%81%94%e5%a4%aa%e7%a9%ba%e7%9a%84%e9%9b%b2%e7%ab%af%e6%9c%8d%e5%8b%99/
+美國跨國電腦公司Microsoft於 20 日宣布，旗下Azure雲端事業將與太空運輸公司Space X的衛星網路服務Starlink進行合作，推出更高速和低延遲的衛星寬頻處理雲端運算服務。Microsoft 與 Space X 的攜手，逐步挑戰Amazon雲端龍頭的地位。
+
+￭Microsoft與Space X進行合作，推出衛星網路的雲端服務。（截圖自 /Microsoft官網）
+
+Microsoft Azure 將使用 Space X Starlink 的低軌道衛星與更高海拔的傳統衛星，進行網路的連接與新服務的佈署。值得注意的是，Microsoft 不久前已推出Azure Orbital的衛星資料處理服務，其資料可利用衛星通訊傳遞到雲端。
+
+另一方面，Amazon 於 6 月時就已成立太空業務部門，提供太空運算服務的計畫。在全球雲端基礎設施服務市場的 7 月報告中，Amazon AWS以 31% 的營收市占率位居龍頭，其次為 Microsoft Azure 的 20%，以及第三名Google Cloud的 6%。有分析師認為，未來的雲端運算服務總營收可能總計達到約為 150 億美元。
+
+疫情的影響，雲端運算成為許多企業的轉型目標，而軍事與情報機構也積極發展其太空項目的相關計畫。Microsoft 的目標是建立安全的網路，整合與連接各種雲端、空間與地面，而 Space X 的目標則是欲利用高速網際網路衛星提供全球網際網路服務。雲端運算服務的未來世界，指日可待。
+

@@ -1,0 +1,16 @@
+標題: Google首項VR載具發售　Daydream view創造全新感受
+原文: https://www.ectimes.org.tw/2016/11/google%e9%a6%96%e9%a0%85vr%e8%bc%89%e5%85%b7%e7%99%bc%e5%94%ae%e3%80%80daydream-view%e5%89%b5%e9%80%a0%e5%85%a8%e6%96%b0%e6%84%9f%e5%8f%97/
+記者／曾成偉
+
+2016年被譽為VR（Virtual Reality）起飛的一年，而一直尚未有大動作的Google11月初發售首項VR虛擬實境眼鏡Daydream view，準備與於2016Google I/O 大會所提出的行動VR平台Daydream結合，並利用行動系統Android創造出一個可以隨時體驗高畫質虛擬實境的概念。
+
+而目前市場上已經出現不少虛擬實境的載具，Daydream view何以在市場上做出差異化？特色在於他和Android系統的相容性，過往Android系統尚未有可以相容其他虛擬實境載具的功能，而Google透過Daydream view結合自行開發的VR平台來開拓市場，給予消費者最好的體驗。但其仍有所限制，必須使用The Pixel和Pixel XL產品線的Android行動裝置，並配合Android7.1系統才能全面支援Daydream view所強調的隨時隨地體驗VR。
+
+￭Daydream view與行動裝置結合。（截圖自／Daydream官網）
+
+今年Google提出VR平台Daydream，「Daydream」分成三個主要部份，分別是強化手機反應速度的 VR 模式、給手機商參考的頭套和遙控器硬體設計，以及行動VR 內容平台。結合此次推出的VR載具Daydream view，讓今年Google在VR領域上也得以嶄露頭角，不遜於其他競爭者。
+
+此外，Daydream view有許多讓人期待的新設計，使人耳目一新，其配有小型藍芽控制器，除了能使用按鍵控制裝置外，還可藉由觸控板操作，比Gear VR更加身臨其境；另外待Android推出更多像The Pixel和Pixel XL的行動裝置後，普遍的相容性可使更多消費者「隨時隨地」都能體驗VR。
+
+這項新產品雖在市場上受到不少注目，但對於前景並非所有消費者都保持樂觀的態度。根據Forbes專欄提出此產品的缺點，首先VR視野太狹窄，無法滿足多數消費者的期待；再者，目前Google在VR所能提供的App令人失望，缺乏令消費者產生想購買的慾望，因此未來Google應該在VR app store這塊開發更多app，並讓更多手機可以支援Daydream這個平台，才可以在VR這塊市場跟其他競爭者相抗衡。
+

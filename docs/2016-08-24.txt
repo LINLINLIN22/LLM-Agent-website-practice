@@ -1,0 +1,8 @@
+標題: 需要輪班的小夥伴看過來　微軟推Project Sonoma
+原文: https://www.ectimes.org.tw/2016/08/%e9%9c%80%e8%a6%81%e8%bc%aa%e7%8f%ad%e7%9a%84%e5%b0%8f%e5%a4%a5%e4%bc%b4%e7%9c%8b%e9%81%8e%e4%be%86%e3%80%80%e5%be%ae%e8%bb%9f%e6%8e%a8project-sonoma/
+記者／鄭云
+
+微軟最近在Google Play和App Store悄悄的推出一款新的App，稱為「Project Sonoma」。其目標客戶不是一般的上班族，而是需要輪班的工作人員，滿足班表隨時變更的小夥伴。Project Sonoma就好像是團隊溝通平台Slack和Trello的結合版，主要著重在工作時間表的管理。其畫面有三大區塊，分別為：我的班表、請求和訊息。通過班表能夠追蹤自己上班的時間，通過請求部份則可以提出更換班表的需求，訊息部份則會顯示所有重要信息，並可以與同事溝通。
+
+目前這款Project Sonoma正在測試中，在測試階段任何一家簽署協議的公司都可以安裝並使用這款應用，微軟並表示不會透露任何公司信息。同時也強調Project Sonoma是由微軟公司內部研發，並不是基於收購。總得來說，這款Project Sonoma是微軟公司「移動為先」發展戰略的一部分，致力於幫助用戶提高效率創造更高效率的生產力。相關業內人士建議Project Sonoma結合Genee公司的AI日程安排服務技術會使Project Sonoma更容易搶佔市場。
+

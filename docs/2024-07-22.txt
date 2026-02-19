@@ -1,0 +1,8 @@
+標題: Anthropic為聊天機器人推出了 Android 應用
+原文: https://www.ectimes.org.tw/2024/07/anthropic-%e7%82%ba-claude-ai-%e8%81%8a%e5%a4%a9%e6%a9%9f%e5%99%a8%e4%ba%ba%e6%8e%a8%e5%87%ba%e4%ba%86-android-%e6%87%89%e7%94%a8/
+Anthropic 宣布其Claude 聊天機器人現在已經來到 Android 平台上了。繼 5 月推出免費的 iOS 應用程式後，Android 用戶現在也可以在行動裝置上體驗 Anthropic 的 AI 產品。Android 應用程式本身是免費的，並且付費用戶的 Pro 和 Team 計劃也都能享有對應的服務。與 Claude 的對話可以在不同裝置之間延續，行動 app 和網頁版本也會進行同步。
+
+Claude 是目前開放一般大眾使用的幾個主要的大型語言模型 AI 聊天機器人之一，但獲得的關注度還是遠不及 OpenAI 及 ChatGPT。ChatGPT 早就已經有了 Android 和 iOS 應用程式，並且未來還會是 Apple Intelligence 首波 AI 功能的基礎之一。不過，根據 Anthropic 的說法， Claude 3 版本在一些測試中的表現要優於 ChatGPT 和 Google 的 Gemini，當中 Claude 3 Opus 版本在 3 月份獲得了最高分，而 Sonnet 3.5 版本在 6 月份也獲得了同樣的成績。不過，這畢竟是 Anthropic 的一家之言，而且說真的測試標準也不是很透明，就真的是 Anthropic 說了算了。
+
+無論如何，有競爭和選擇總是好事，在 ChatGPT 和 Gemini 之外，Android 用戶也可以試用看看 Claude 囉。
+

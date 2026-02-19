@@ -1,0 +1,12 @@
+標題: 捕風捉「影」　Google發表可辨識影片的機器學習
+原文: https://www.ectimes.org.tw/2017/03/%e6%8d%95%e9%a2%a8%e6%8d%89%e3%80%8c%e5%bd%b1%e3%80%8d%e3%80%80google%e7%99%bc%e8%a1%a8%e5%8f%af%e8%be%a8%e8%ad%98%e5%bd%b1%e7%89%87%e7%9a%84%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92/
+記者／楊晴
+
+在近日的Cloud Next大會上，Google發表了新的機器學習—Google Cloud Video Intelligence API，根據「維基百科」，機器學習算是一種人工智慧，讓電腦可以自動學習；而Google近日發表的這款機器學習API，讓電腦可以針對特定關鍵字，辨認影片中的影像與物體。
+
+這款Cloud Video Intelligence API目前仍屬於測試階段，根據「東森新聞雲」報導，未來，當使用者搜尋特定關鍵字，除了文字與圖片的搜尋結果外，也會跳出與該關鍵字相關的影片內容，且可同時輸入不只一個關鍵字；Google公司表示，希望透過公開該技術，讓其他開發者得以開發出其他更方便的應用。
+
+此外，根據「科技新報」報導，Cloud Video Intelligence API除了可以搜尋影片中的實體外，還可以標示出該物體在影片中的位置與出現頻率，甚至能偵測到情景的變換，但前提是該影片內容必須要儲存在Google Cloud Storage中，因此短時間內這項功能還無法大眾化。
+
+除了Cloud Video Intelligence API技術的公開，在這次Cloud Next大會中Google也宣布收購機器學習競賽平台Kaggle，Google首席雲端科學家李飛飛，便在Cloud Next大會的演講中提及未來希望能讓像Cloud Video Intelligence API這樣的人工智慧民主化，讓更多人享受到人工智慧科技的便利。
+

@@ -1,0 +1,12 @@
+標題: Telcordia在台研發中心颱風天正式成立
+原文: https://www.ectimes.org.tw/2004/10/telcordia%e5%9c%a8%e5%8f%b0%e7%a0%94%e7%99%bc%e4%b8%ad%e5%bf%83%e9%a2%b1%e9%a2%a8%e5%a4%a9%e6%ad%a3%e5%bc%8f%e6%88%90%e7%ab%8b/
+記者／陳嘉珮
+
+國際知名電信軟體大廠卓訊科技研發公司Telcordia在我國工研院、資訊會的協助，以及經濟部技術處的積極促成下，昨日（25日）下午1時於福華飯店，舉行Telcordia與中研院的簽約合作典禮，正式與工研院簽約合作，並宣布將在台灣成立「台灣Telcordia研發中心（Telcordia Applied Research Center in Taiwan; TARC-TW）」，這項宣布與簽約儀式對我國電信產業的象徵意義非凡。
+
+美國Telcordia公司是世界級的電信網路廠商，早期為BELL Lab.，後來改名為Bellcore(貝爾通訊研究所)，最後再改名為Telcordia，其電信通訊軟體研發能量與研發能力為全球知名，是一個具國際領先地位的先端研發單位，Telcordia公司近年來專長於各類有線、無線通訊和網路系統，提供IP相關、營運、服務系統技術這些項目的服務內容，在美國約有80%的電信傳輸與Telcordia公司所發展的軟硬體或工程技術有關。
+
+這次Telcordia的「台灣Telcordia研發中心」，計畫將在台灣研發的ONSP（Open Network Service Platform）新世代電信服務平台，具有異質性網路整合服務功能，將可大幅提升我國電信級通訊軟體研究能力，預期可對電信軟體產業升級產生不小的助益。
+
+經濟部技術處表示，Telcordia擁有CMMI Level 5 最高級的認證經驗，相較於國內最高僅有Level 3認證的情形來說，相信Telcordia可將其經驗引進國內，不但能帶動國內CMMI認證的升級，大幅提升國內業界軟體設計上的水準，而且也期許能夠培養未來通訊軟體領域具前瞻視野的重要人才。
+

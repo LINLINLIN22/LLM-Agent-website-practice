@@ -1,0 +1,16 @@
+標題: Samsung攜手Microsoft　首推HMD Odyssey進軍MR市場
+原文: https://www.ectimes.org.tw/2017/10/samsung%e6%94%9c%e6%89%8bmicrosoft%e3%80%80%e9%a6%96%e6%8e%a8hmd-odyssey%e9%80%b2%e8%bb%8dmr%e5%b8%82%e5%a0%b4/
+記者／李怡慧
+
+Microsoft（微軟）於3日在舊金山召開Windows MixedReality（混合實境）發佈會，並宣佈與Samsung（三星）聯手推出新型Windows MR頭戴裝置「HMD Odyssey」，商品定價499美金（約台幣15000元），即日起開放美國地區預購，並於11月3日正式上市。
+
+￭ Samsung HMD Odyssey的產品解析圖。（圖截自／Samsung官網）
+
+HMDOdyssey搭載3.5吋AMOLED(Active-matrix organic light-emitting diode) 螢幕，具備6DOF（degree of freedom），視野可達110°，內建AKG耳機感受360°環繞音效，且附有inside-out追蹤系統，不需裝載額外感應器，即可自動搜索穿戴者所在位置，用戶能自由移動，裝置支援Microsoft的動作控制器。Microsoft應用商店將於17日推出多款遊戲，未來能在虛擬遊戲中有更完整的體驗。
+
+Samsung正式加入由Microsoft聯合Dell,HP,Lenovo,Acer和Asus所組成的MR平臺，能在眾多VR (VirtualReality)產品脫穎而出，歸功於其高效能的OLED(organiclight-emitting diode) 技術，解析度高於過往VR商品。但是日趨於飽和的VR市場無法容納如此多品牌，像是HTC的Vive和Facebook的Oculus Rift都難逃削價競爭的局面，而HMDOdyssey定價略高於市面上VR裝置，上市後將面臨價格上的一大考驗。
+
+￭ 用戶體驗Odyssey的視覺場景。（圖截自／Microsoft官網）
+
+根據Microsoft技術專家Alex Kipman在發佈會上表示，「Samsung HMD Odyssey的加入將是微軟跨向MR平台重要的一步」；Samsung也對自家產品的技術充滿信心，並對這次的合作抱持樂觀態度，相信未來將帶給消費者更真實的虛擬實境體驗。
+

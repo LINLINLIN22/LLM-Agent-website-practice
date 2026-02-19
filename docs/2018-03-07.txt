@@ -1,0 +1,14 @@
+標題: Dropbox攜手Google雲端　商務管理更便利
+原文: https://www.ectimes.org.tw/2018/03/dropbox%e6%94%9c%e6%89%8bgoogle%e9%9b%b2%e7%ab%af%e3%80%80%e5%95%86%e5%8b%99%e7%ae%a1%e7%90%86%e6%9b%b4%e4%be%bf%e5%88%a9/
+記者／林怡君
+
+以雲端儲存為主要服務項目的Dropbox近期宣布與Google進行合作，Google雲端(Google Cloud) 將整合Dropbox至G Suite系統中，未來用戶可直接於Dropbox預覽及編輯Gmail及Google文件的檔案，該功能預計於今年下半年啟用。
+
+■Dropbox與Google Cloud宣布合作。（截圖自／Dropbox官網）
+
+過去G Suite為多數公司企業常用之線上平台，其服務項目包含電子郵件、通訊會議、文件傳輸、日曆及硬碟等，許多企業利用G Suite進行內部溝通，但Google 雲端硬碟並無壟斷商業市場，Dropbox 在雲端服務亦有許多企業使用，超過 50% 的Dropbox 使用者同時擁有G Suite的帳號。
+
+因此Google將會把Dropbox整合併至G Suite服務系統中，未來不需下載額外的插件， Dropbox使用者即可直接在Dropbox創建Google文件、表格，只要連結線上帳號便能避免同時需開啟多個視窗的繁雜手續，進行所有操作。Dropbox目前亦開發支援Gmail與Hangouts Chat的能力，新的附加元件將可從Gmail中連結Dropbox檔案，未來也可直接於Hangouts Chat中搜尋、分享或預覽Dropbox檔案。
+
+Dropbox工程副總裁Tony Lee提及，希望使用者皆可跨裝置輕鬆使用喜愛的工具、在各種設備上完成工作。因此近年來Dropbox跨大與微軟的聯盟、且與Microsoft Teams、Microsoft Office 365、Facebook Workplace以及Adobe皆有合作關係，此次透過與Google雲端服務的合作，創造統一的空間、並集中公司企業所需管理的資訊。
+

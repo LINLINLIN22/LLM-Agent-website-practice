@@ -1,0 +1,14 @@
+標題: 蘋果也玩開源　新版Safari上架
+原文: https://www.ectimes.org.tw/2016/04/%e8%98%8b%e6%9e%9c%e4%b9%9f%e7%8e%a9%e9%96%8b%e6%ba%90%e3%80%80%e6%96%b0%e7%89%88safari%e4%b8%8a%e6%9e%b6/
+記者／黃郁翔
+
+蘋果在智慧型手機方面推出新作iPhone SE以外，日前推出名為的Safari Technology Preview新版瀏覽器，和現行的Safari比較，除了外觀變成紫色，功能上包含了最新的HTML和java Script，更可以支援iCloud，預料從事網頁開發的使用者，將會是這款瀏覽器主要的用戶。
+
+軟體自由運動在歐美相當的盛行，蘋果為了和Google Chrome、Firefox、Opera等市面上的主流瀏覽器競爭，於是推出Safari Technology Preview，讓網頁開發者體驗並了解iOS及OS X最新的網頁技術，藉此優化自己網頁，以獲得較佳的網頁視覺效果。
+
+Safari Technology Preview目前每兩週透過Mac App Store進行更新，使用者的使用經驗，可以回饋給蘋果，以解決在iOS或者OS X上可能遭遇的bug，避免像此次iOS 9.3無法正常開啟Safari的事件再次發生。
+
+蘋果沒有限制Safari Technology Preview的下載資格，因此每個人都可以下載，並且將自己的使用經驗提供蘋果，但是目前新版的Safari 穩定性還不足夠，使用者必須更新到最新的OS X El Capitan系統，才能體驗到支援iCloud以及其他的新功能。
+
+￭Safari Technology Preview開放下載試用。（截圖自／蘋果官網）
+

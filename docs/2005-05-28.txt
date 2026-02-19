@@ -1,0 +1,10 @@
+標題: 用email寄照片不麻煩Yahoo一次給你300張
+原文: https://www.ectimes.org.tw/2005/05/%e7%94%a8email%e5%af%84%e7%85%a7%e7%89%87%e4%b8%8d%e9%ba%bb%e7%85%a9yahoo%e4%b8%80%e6%ac%a1%e7%b5%a6%e4%bd%a0300%e5%bc%b5/
+記者／劉盈秀
+
+Email服務龍頭老大Yahoo!日前(26日)推出PhotoMail測試版，功能是能夠掃瞄使用者硬碟內的相片，使用者只要直接將照片拖曳至email訊息欄內即可，不需要使用麻煩的附加檔案。一封信可放300張小圖(thumpnail)，也可使用Yahoo影像資料庫中15億張的圖片。
+
+分享照片的技術一直是開發中的領域。Google去年七月買下網路照片服務業者Picasa，該業者擁有一項照片分享的即時訊息應用軟體。許多觀察家就預言，Google已經擁有自己的即時通訊軟體Hello，可能再進一步推出更多的客戶端產品。Yahoo!在即時通訊科技方面，已經推出能讓使用者在同ㄧ視窗內，欣賞ㄧ張張照片的功能。Yahoo郵件部門副總Andy Spillane說：「我們要把你的時間和經驗最大化。」Yahoo!這次推出的PhotoMail測試版可讓使用者在信件內容中擺上最多300張的小圖，該軟體也有讓使用者自由為照片加上標題註解與裝飾花邊的功能。
+
+除了Google之外，這塊領域的其他對手還包括Kodad的Ofoto，和News.com發行商CNET Networks旗下的Webshots。
+

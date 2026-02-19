@@ -1,0 +1,14 @@
+標題: iPhone走失怎麼辦？　Find my iPhone幫你找
+原文: https://www.ectimes.org.tw/2010/06/iphone%e8%b5%b0%e5%a4%b1%e6%80%8e%e9%ba%bc%e8%be%a6%ef%bc%9f%e3%80%80find-my-iphone%e5%b9%ab%e4%bd%a0%e6%89%be/
+記者／王建翔免費iPhone應用程式Find my iPhone在上周五（6/19）由蘋果公司釋出。Find my iPhone支援iOS 3.1.3版本以上的作業系統，不過目前只能透過蘋果的MobileMe線上備份服務搭配使用，且目前並沒有繁體中文版本的軟體供用戶下載使用。Find my iPhone可讓蘋果行動裝置的使用者在地圖上找到自己遺失的iPhone、iPad等產品，也允許使用者透過遠端連線移除iPhone上的重要資料，避免重要個資外洩。不過目前Find my iPhone雖然號稱免費，但實際上它附屬在蘋果的MobileMe線上備份服務裡，因此若想使用這個軟體，還是必須付費購買MobileMe服務。使用者在購買MobileMe服務之後，只要登入帳號並同時啟用push功能，就能讓MobileMe與iPhone保持連線。如此一來，只要iPhone遺失，使用者即可透過MobileMe傳送訊息給iPhone，即時顯示出iPhone目前的所在位置，方便使用者找回自己的手機。目前除了蘋果開發的Find my iPhone之外，也有其他軟體業者提供類似的應用程式，這些軟體能透過網頁介面，定位出這些採用iOS作業系統的行動裝置的歷史位置，並可將這些歷史位置資訊轉貼到Twitter上，讓急於找手機的使用者可以不再像無頭蒼蠅般的亂找。
+
+記者／王建翔
+
+免費iPhone應用程式Find my iPhone在上周五（6/19）由蘋果公司釋出。Find my iPhone支援iOS 3.1.3版本以上的作業系統，不過目前只能透過蘋果的MobileMe線上備份服務搭配使用，且目前並沒有繁體中文版本的軟體供用戶下載使用。
+
+Find my iPhone可讓蘋果行動裝置的使用者在地圖上找到自己遺失的iPhone、iPad等產品，也允許使用者透過遠端連線移除iPhone上的重要資料，避免重要個資外洩。不過目前Find my iPhone雖然號稱免費，但實際上它附屬在蘋果的MobileMe線上備份服務裡，因此若想使用這個軟體，還是必須付費購買MobileMe服務。
+
+使用者在購買MobileMe服務之後，只要登入帳號並同時啟用push功能，就能讓MobileMe與iPhone保持連線。如此一來，只要iPhone遺失，使用者即可透過MobileMe傳送訊息給iPhone，即時顯示出iPhone目前的所在位置，方便使用者找回自己的手機。
+
+目前除了蘋果開發的Find my iPhone之外，也有其他軟體業者提供類似的應用程式，這些軟體能透過網頁介面，定位出這些採用iOS作業系統的行動裝置的歷史位置，並可將這些歷史位置資訊轉貼到Twitter上，讓急於找手機的使用者可以不再像無頭蒼蠅般的亂找。
+

@@ -1,0 +1,14 @@
+標題: Android 3.0準備就緒　平板電腦商機即將引爆
+原文: https://www.ectimes.org.tw/2011/02/android-3-0%e6%ba%96%e5%82%99%e5%b0%b1%e7%b7%92%e3%80%80%e5%b9%b3%e6%9d%bf%e9%9b%bb%e8%85%a6%e5%95%86%e6%a9%9f%e5%8d%b3%e5%b0%87%e5%bc%95%e7%88%86/
+記者／馬千惠Google最近推出線上應用程式商店Android Market，並正式公布代號為Honeycomb的Android 3.0平台，非蘋果（Apple）陣營的宏碁（Acer）、華碩（ASUS）、宏達電（HTC）、Motorola、三星（Samsung）等各家品牌的Android 3.0平板電腦都即將上市，今年Android 3.0平板電腦全球市場規模要挑戰2,000萬台。蘋果的iPad在去年引領了平板電腦風潮，這股風潮在2011年將持續發燒。據市場調查機構預測，今年全球平板電腦市場規模約4,500萬到6,000萬台，iPad以外的其他開放陣營廠商有機會爭奪一半的市占，而其中Android 3.0會是平板電腦使用的主流系統，各家品牌廠商希望Android 3.0能延續智慧型手機領域的成功經驗，挑戰iPad。Android 3.0可將應用程式放在平板電腦的桌面上待機使用，結合了iPad與微軟（Microsoft）的Windows使用介面優點，更貼近大家所習慣的電腦使用經驗。Android 3.0還新增支援YouTube電視牆顯示、模擬翻頁功能的電子書閱讀和相機特效等功能。Google先前大規模召募程式開發人員為Android量身打造專屬的應用程式，就是希望能與蘋果的App Store競爭高下，Google同時也推出網頁版本的Android Market，讓應用程式不再只是適用於智慧型手機。另外，第一台搭載Android 3.0的平板電腦是Motorola的Xoom，定價799.99美元，預計將於2月14日在Best Buy正式開賣。
+
+記者／馬千惠
+
+Google最近推出線上應用程式商店Android Market，並正式公布代號為Honeycomb的Android 3.0平台，非蘋果（Apple）陣營的宏碁（Acer）、華碩（ASUS）、宏達電（HTC）、Motorola、三星（Samsung）等各家品牌的Android 3.0平板電腦都即將上市，今年Android 3.0平板電腦全球市場規模要挑戰2,000萬台。
+
+蘋果的iPad在去年引領了平板電腦風潮，這股風潮在2011年將持續發燒。據市場調查機構預測，今年全球平板電腦市場規模約4,500萬到6,000萬台，iPad以外的其他開放陣營廠商有機會爭奪一半的市占，而其中Android 3.0會是平板電腦使用的主流系統，各家品牌廠商希望Android 3.0能延續智慧型手機領域的成功經驗，挑戰iPad。
+
+Android 3.0可將應用程式放在平板電腦的桌面上待機使用，結合了iPad與微軟（Microsoft）的Windows使用介面優點，更貼近大家所習慣的電腦使用經驗。Android 3.0還新增支援YouTube電視牆顯示、模擬翻頁功能的電子書閱讀和相機特效等功能。
+
+Google先前大規模召募程式開發人員為Android量身打造專屬的應用程式，就是希望能與蘋果的App Store競爭高下，Google同時也推出網頁版本的Android Market，讓應用程式不再只是適用於智慧型手機。另外，第一台搭載Android 3.0的平板電腦是Motorola的Xoom，定價799.99美元，預計將於2月14日在Best Buy正式開賣。
+

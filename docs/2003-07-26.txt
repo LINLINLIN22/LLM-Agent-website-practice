@@ -1,0 +1,12 @@
+標題: 聽MIDI也會被入侵，Windows又有新瑕疵
+原文: https://www.ectimes.org.tw/2003/07/%e8%81%bdmidi%e4%b9%9f%e6%9c%83%e8%a2%ab%e5%85%a5%e4%be%b5%ef%bc%8cwindows%e5%8f%88%e6%9c%89%e6%96%b0%e7%91%95%e7%96%b5/
+記者／蘇伯方
+
+全世界電腦作業系統佔有率最高的微軟，七月23日針對其作業系統windows系列公布了幾個安全漏洞的升級程式。其中有個極度嚴重的漏洞出在廣為使用的DirectX API上。有心人士可以透過特別編輯的MIDI檔案，傳送給不知情的使用者，使用者不小心開啟了e-mail之後，就會被有心人滲透。
+
+Direct X是windows系列一個廣為使用的API（Application Programming Interface），負責程式與底層硬體的溝通，主要使用在影像、音樂與3D加速卡的使用上。微軟表示這次的問題出在處理Direct Show處理MIDI（Muscial Instrument Digital Interface）檔案的部分。有心人士只要利用特別撰寫的MIDI檔案，透過buffer overflow的技術就可以讓有心人得到已登入使用者的權限。
+
+微軟的安全性警告分為四個等級，「低度（low）」、「中度（moderate）」、「嚴重（imprtant）」、「極度嚴重（critical）」。這次被列為極度嚴重（critical）的原因是因為MIDI檔案是普遍被認為安全的檔案。因此不論是網頁瀏覽或者e-mail夾帶HTML類型郵件裡面的所附上的MIDI檔案皆會被自動執行，所以此次的問題相當嚴重。而今年剛發表的Windows Server 2003因為一些網頁瀏覽的限制，所以安全性警告等級較低，只有嚴重而已。
+
+這個漏洞從Direct X 5到Direct X 9都有問題。根據發現這個漏洞的eEye Digital表示，目前還沒發現有人利用這個漏洞撰寫了任何程式。使用者可以到這裡看詳細的資訊以及下載升級檔。
+

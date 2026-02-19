@@ -1,0 +1,12 @@
+標題: 手機變成遊戲控制器！　Netflix 雲端遊戲測試中
+原文: https://www.ectimes.org.tw/2023/08/%e6%89%8b%e6%a9%9f%e8%ae%8a%e6%88%90%e9%81%8a%e6%88%b2%e6%8e%a7%e5%88%b6%e5%99%a8%ef%bc%81%e3%80%80netflix-%e9%9b%b2%e7%ab%af%e9%81%8a%e6%88%b2%e6%b8%ac%e8%a9%a6%e4%b8%ad/
+全球串流影音平台Netflix於 8 月 14 日宣布，將在加拿大和英國區域，開放給少數訂閱用戶測試 Beta 版本「雲端串流遊戲」，這些訂閱用戶可以透過手機、平板、Windows和Mac電腦、智慧電視等裝置體驗 Netflix 遊戲服務。此舉不僅擴增使用者體驗服務，更近一步與Microsoft和Sony競爭遊戲產業版圖。
+
+￭Netflix在加拿大和英國區域，測試 Beta 版本「雲端串流遊戲」。（圖片來源 /Apple APP Store）
+
+此次測試版本僅開放兩種遊戲，分別為Night School Studio驚悚冒險遊戲《OXENFREE》和休閒寶石挖礦遊戲《Molehew’s Mining Adventure》。目前開放的智慧電視設備包含：Amazon Fire TV Streaming Media Players、Chromecast with Google TV、LG TVs、Nvidia Shield TV、Roku、Samsung Smart TVs、Walmart ONN。
+
+特別的是，若訂閱用戶選擇在電視上遊玩，iOS手機可以下載 APP 「Netflix Game Controller」，並和電視配對完成後，手機即可化身為遊戲控制器；而Android手機則是直接在 Netflix 上操作即可！若比照 Netflix 手機遊戲服務，「雲端串流遊戲」也許會包含訂閱費用中，讓玩家不需要再額外付費。
+
+遊戲領域將會是 Netflix 未來重要發展業務之一，Netflix 遊戲副總裁 Mike Verdu 表示，公司目標是讓每個人都能體驗遊戲，且為會員們提供輕易觸及、流暢且無所不在的服務。我們也許可以預期 Netflix 與更多的遊戲業者合作，合作創造出多元的遊戲內容，就像 Netflix 的影集服務一樣。
+

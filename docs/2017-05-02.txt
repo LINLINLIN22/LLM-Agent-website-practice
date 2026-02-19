@@ -1,0 +1,14 @@
+標題: Messenger Lite瘦身上線　Android用戶快速輕鬆地分享訊息
+原文: https://www.ectimes.org.tw/2017/05/messenger-lite%e7%98%a6%e8%ba%ab%e4%b8%8a%e7%b7%9a%e3%80%80android%e7%94%a8%e6%88%b6%e5%bf%ab%e9%80%9f%e8%bc%95%e9%ac%86%e5%9c%b0%e5%88%86%e4%ba%ab%e8%a8%8a%e6%81%af/
+記者／楊彩甄
+
+Facebook於28日開放Messenger Lite的Android版本，台灣等150個國家的Android用戶皆可下載使用，輕量版本容量低於10MB，使用者即使網路頻寬不佳或使用舊款手機，仍可迅速安裝及使用，輕鬆地發送訊息、相片、貼圖及連結，與親友分享生活的每一刻。
+
+Messenger Lite是FacebookMessenger瘦身過後的輕量版本，兩者為獨立的APP，Lite版本目前僅開放Android用戶下載使用。Messenger Lite留下Messenger的基本功能：發送訊息、相片及連結，近期更新增表情符號、貼圖、上線中的連絡人顯示為綠色燈號等功能，因此APP容量低於10MB。
+
+輕量版的Messenger可在2G的狀況下使用，讓使用者不用受到網路狀況的影響。而Messenger Lite的圖示仍延續Messenger對話框搭配閃電狀的樣式，兩者不同之處則在於顏色。Messenger的應用程式圖示為藍色對話框配上白色閃電，新版的Messenger Lite則是白色對話框配上藍色閃電。
+
+￭ Messenger Lite與Messenger在圖示上顏色互換。（圖／Google Play）
+
+Messenger Lite可在中低階或容量較小的手機上輕鬆使用，使用HTC Desir 610中階手機的陳先生表示，原先使用Messenger對話時會需要較長的時間來顯示收到的對話，同時較佔手機空間，改使用Messenger Lite後對話顯示的速度明顯感受加快很多，也讓手機有更多容量空間。
+

@@ -1,0 +1,14 @@
+標題: App Center將推出　臉書欲分食大餅？
+原文: https://www.ectimes.org.tw/2012/05/app-center%e5%b0%87%e6%8e%a8%e5%87%ba%e3%80%80%e8%87%89%e6%9b%b8%e6%ac%b2%e5%88%86%e9%a3%9f%e5%a4%a7%e9%a4%85%ef%bc%9f/
+記者／劉勁緯知名網路社群公司Facebook表示近期將推出App Center，不免讓人聯想是否要與蘋果的App Store與Google的Google Play一較高下，蘋果App Store來說，一個App下載0.99美元起的微薄利潤，但卻擁有250億的下載次數，累積成一筆不容小覷的商機，不過Facebook則表示是以提供服務為目的，並且站在一個中立的位置上。Facebook所推出的跨平台、裝置的App商店，可不論你是使用i-Phone或是Android系統的手機等，皆可透過App Center來找Facebook的應用程式，並且使用者若是在App Center發現有想下載App store或Google Play的程式，還會將其自動導回App store或Google Play下載平台，也因此Facebook認為與兩者並非為競爭導向。日後可能將依評價數來決定擺放的位置，若評價數過低將有可能因此遭刪除，也會提供給App開發者其應用程式所表現的成績、評價數等相關資訊，已供開發者做參考，隨著Facebook推出此項服務，將帶給許多使用者更多便利性之外，也帶給開發者的程式具有更多的曝光機會。隨著微世代的來臨，行動與社群的結合消費者行為的轉變下，讓App市場競爭激烈，目前App Store擁有約60萬個應用程式，Google Playe則是約50萬個，而下載次數App Store 250億次而Google Playe則為150億次，兩項看來App Store目前略勝一籌，而如今App Center的出現，App市場是否將因此又有所變化，有待日後的觀察。
+
+記者／劉勁緯
+
+知名網路社群公司Facebook表示近期將推出App Center，不免讓人聯想是否要與蘋果的App Store與Google的Google Play一較高下，蘋果App Store來說，一個App下載0.99美元起的微薄利潤，但卻擁有250億的下載次數，累積成一筆不容小覷的商機，不過Facebook則表示是以提供服務為目的，並且站在一個中立的位置上。
+
+Facebook所推出的跨平台、裝置的App商店，可不論你是使用i-Phone或是Android系統的手機等，皆可透過App Center來找Facebook的應用程式，並且使用者若是在App Center發現有想下載App store或Google Play的程式，還會將其自動導回App store或Google Play下載平台，也因此Facebook認為與兩者並非為競爭導向。
+
+日後可能將依評價數來決定擺放的位置，若評價數過低將有可能因此遭刪除，也會提供給App開發者其應用程式所表現的成績、評價數等相關資訊，已供開發者做參考，隨著Facebook推出此項服務，將帶給許多使用者更多便利性之外，也帶給開發者的程式具有更多的曝光機會。
+
+隨著微世代的來臨，行動與社群的結合消費者行為的轉變下，讓App市場競爭激烈，目前App Store擁有約60萬個應用程式，Google Playe則是約50萬個，而下載次數App Store 250億次而Google Playe則為150億次，兩項看來App Store目前略勝一籌，而如今App Center的出現，App市場是否將因此又有所變化，有待日後的觀察。
+

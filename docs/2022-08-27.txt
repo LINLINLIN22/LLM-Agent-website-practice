@@ -1,0 +1,12 @@
+標題: 用文本提示製作電影：AI 人工智慧將為藝術史開啟新頁
+原文: https://www.ectimes.org.tw/2022/08/how-an-award-winning-ai-film-was-brought-to-life-by-text-to-video-generation/
+隨著越來越多文本到圖像生成器的技術被開發出來，一個叫 Glenn Marshall 的電腦藝術家證明了AI藝術也將在電影工業佔有一席之地；雖然目前從文本變影片的運算成本還相當高、圖像及影片資源的稀缺也有礙於該技術的發展，不過 Glenn Marshall 這位作曲家最近仍憑藉著他的人工智慧電影《The Crow 烏鴉》獲得了坎城影展短片的評審團獎。
+
+「每天我都會 YouTube 或其他網站尋找一些有趣的元素，再運用我的技術將它們轉變為有趣的影片，正是在這段時間裡，我發現了《Painted》- 一部真人舞蹈短片，並將它作為《The Crow 烏鴉》的基礎。」Glenn Marshall 說。
+
+Marshall 將《Painted》的影片輸入到CLIP，這是一個由 OpenAI 創建的網絡系統，然後他再輸入文本來提示系統生成「荒涼景觀中的烏鴉畫作」的影片，由於文本提示跟影像基礎之間的相似性，所以影片描繪了一個模仿烏鴉動作、身穿黑色披肩的舞者，融合了真人舞蹈影片和 AI 技術模擬，也讓這部結合了人類與人工智慧的電影呈現更加出色。
+
+Marshall 未來打算將 3D 動畫加入到他的 AI 創作中，也有自信他的技術能逐漸吸引主流認可。雖然此一獲獎作品為 AI 和人類靈感結合的象徵，但倘若未來藝術領域不僅僅是人類之間的美感競爭，人們的藝術層次會因此提高還是被取代呢？讓我們期許科技與人性始終能相輔相成。
+
+資料來源：How an award-winning AI film was brought to life by text-to-video generation
+

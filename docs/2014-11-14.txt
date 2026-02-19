@@ -1,0 +1,14 @@
+標題: Amazon 2014全球發表大會　宣布未來三大新服務
+原文: https://www.ectimes.org.tw/2014/11/amazon-2014%e5%85%a8%e7%90%83%e7%99%bc%e8%a1%a8%e5%a4%a7%e6%9c%83%e3%80%80%e5%ae%a3%e5%b8%83%e6%9c%aa%e4%be%86%e4%b8%89%e5%a4%a7%e6%96%b0%e6%9c%8d%e5%8b%99/
+記者／周頌宜
+
+Amazon日前在美國拉斯維加斯舉行為期四天的第三屆AWS re:Invent2014年度大會。AWS(Amazon Web Service)資深副總裁Andy Jassy說明AWS現階段的發展情況，並同時發布三大新服務，包括資料庫引擎Aurora服務、開發生命周期管理服務及企業安全管理服務。
+
+￭Amazon於AWS re:Invent2014年度大會上，發布三大新服務。（圖/iThome官網）
+
+發表的第一項服務是資料庫搜尋引擎Auroua服務，除了可與原本的關聯性資料庫MySQL相容外，其效能更是MySQL的五倍。第二是開發生命周期管理服務，包括AWSCodeDeploy、整合工具 CodePipelinec和儲存工具 CodeCommit，這三項功能可以協助企業在軟體生命週期中部署、追蹤、更新、執行的需要。
+
+第三項服務則是企業安全管理服務，針對企業雲端安全，提出加密金鑰AWS Key Management Service，讓企業更容易管理及保護內部資源。Amazon在全球已超過70億客戶，其活躍的用戶數多達100萬，推出三大新服務後，明年度用戶成長可望再創高峰。
+
+Amazon新推出的幾項服務著重在讓企業有效地將資源轉移到雲端上(All-in with clouds)，特別是關聯性資料庫應用，為全球上百萬的企業及政府機構提供服務是未來發展的核心項目，也是高獲利的市場，從AWS re:Invent2014年度大會上不難看出Amazon佈局企業雲端化的野心。
+

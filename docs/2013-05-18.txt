@@ -1,0 +1,12 @@
+標題: Google跨平台通訊　整合Hangouts追潮流
+原文: https://www.ectimes.org.tw/2013/05/google%e8%b7%a8%e5%b9%b3%e5%8f%b0%e9%80%9a%e8%a8%8a%e3%80%80%e6%95%b4%e5%90%88hangouts%e8%bf%bd%e6%bd%ae%e6%b5%81/
+記者／黃盈慈你現在使用行動通訊軟體是哪一款？今年Google I/O開發者大會上，發表一款為整合SMS（Short Message Service）主要功能的Hangouts，而這款主攻行動通訊APP的裝置，整合了旗下通訊程式，並主攻跨平台優勢，不過Hangouts是否可在推出後，挽回Google於行動裝置的頹勢，並搶攻主流之位令人拭目以待。而Hangouts的推出也解決了Google通訊程式零碎化的問題，主要整合了Google系列的Google Talk、Google+ Messenger和Hangouts等通訊程式，其優勢在於iOS、Android、Chrome和Gmail等跨平台上皆可使用，再加上Google雲端計算功能、搜尋與行動功能上等先天優勢，勢必將對目前主流行動通訊軟體產生威脅。綜觀Hangouts功能，與主流行動通訊APP相比下，Hangouts特別提供了多方視訊通話功能，還可於應用程式中添加特效，此外，跨平台優勢可與朋友於程式中同步觀看YouTube影片、玩遊戲等娛樂活動。而使用後的部落客分享，從該款程式中可發現Google的用心，除了使用介面上做了大幅改善之外，訊息發送通知與圖片傳送功能，也依據使用者習慣進行改進，使得操作更簡便。不過Google現在才推出Hangouts，是否在Whats App、Line、WeChat與Facebook Messenger環伺下為時已晚？而面對微軟MSN敵不過行動通訊軟體攻佔，收購Skype挽回市場的先見下，Google是否能一舉以Hangouts搶占主流市場，其未來發展另人值得期待。
+
+記者／黃盈慈
+
+你現在使用行動通訊軟體是哪一款？今年Google I/O開發者大會上，發表一款為整合SMS（Short Message Service）主要功能的Hangouts，而這款主攻行動通訊APP的裝置，整合了旗下通訊程式，並主攻跨平台優勢，不過Hangouts是否可在推出後，挽回Google於行動裝置的頹勢，並搶攻主流之位令人拭目以待。
+
+而Hangouts的推出也解決了Google通訊程式零碎化的問題，主要整合了Google系列的Google Talk、Google+ Messenger和Hangouts等通訊程式，其優勢在於iOS、Android、Chrome和Gmail等跨平台上皆可使用，再加上Google雲端計算功能、搜尋與行動功能上等先天優勢，勢必將對目前主流行動通訊軟體產生威脅。
+
+綜觀Hangouts功能，與主流行動通訊APP相比下，Hangouts特別提供了多方視訊通話功能，還可於應用程式中添加特效，此外，跨平台優勢可與朋友於程式中同步觀看YouTube影片、玩遊戲等娛樂活動。而使用後的部落客分享，從該款程式中可發現Google的用心，除了使用介面上做了大幅改善之外，訊息發送通知與圖片傳送功能，也依據使用者習慣進行改進，使得操作更簡便。
+

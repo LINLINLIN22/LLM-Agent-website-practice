@@ -1,0 +1,16 @@
+標題: 專注雲端　Dropbox將停用Mailbox、Carousel
+原文: https://www.ectimes.org.tw/2015/12/%e5%b0%88%e6%b3%a8%e9%9b%b2%e7%ab%af%e3%80%80dropbox%e5%b0%87%e5%81%9c%e7%94%a8mailbox%e3%80%81carousel/
+記者／吳政軒
+
+雲端儲存業者Dropbox，因為無法擴展用戶與經營，將於明年2月及3月，分別關閉郵件管理AppMailbox，和照片分享 AppCarousel的服務。計畫將全心專注在主業務雲端儲存服務，以及日前剛推出的文件協作服務Dropbox Paper。
+
+￭Mailbox即將走入歷史。（截圖自／Mailbox官方網站）
+
+原先Mailbox的設計概念以代辦事項為出發點，設計手勢操作，方便用戶處理電子郵件，和根據用戶的處理習慣將電子郵件自動分類，在其他像是Inbox by Gmail、Microsoft Outlook等相似App紛紛效仿後，Mailbox反而在大環境的競爭下日漸式微。而Carouse是一款照片管理與分享服務，目的是希望使用者能更便利的欣賞與讀取照片，並能將行動裝置中的影像與影片備份到Dropbox，但兩者皆因為發展，不敵其他競爭對手，而面臨關閉服務的命運。
+
+Dropbox透過其官方部落格與電子郵件通知，宣布將在明年2月26日終止Mailbox服務，3月31日終止Carousel。除了在信中向使用者致上歉意，表示這項決策是為了之後提供更好的服務，也提到此兩項服務的核心功能，將會延伸應用到Dropbox、Dropbox Paper 上，而這段時間，Dropbox也會協助使用者將資料匯出。
+
+￭Mailbox向使用者發表的聲明。（截圖自／Mailbox官方網站）
+
+Dropbox目前擁有4億名用戶，以及15萬家付費企業用戶，主要透過收取雲端儲存空間費用的方式獲利。如今，雲端儲存服務競爭對手，也如雨後春筍般竄出，重視單一事業發展方向，Dropbox未來將更專注於推出更好的雲端儲存服務。
+

@@ -1,0 +1,14 @@
+標題: SAMSUNG「SeeColors」　幫助色覺異常者看見全彩世界
+原文: https://www.ectimes.org.tw/2017/12/samsung%e3%80%8cseecolors%e3%80%8d%e3%80%80%e5%b9%ab%e5%8a%a9%e8%89%b2%e8%a6%ba%e7%95%b0%e5%b8%b8%e8%80%85%e7%9c%8b%e8%a6%8b%e5%85%a8%e5%bd%a9%e4%b8%96%e7%95%8c/
+記者／高銘檀
+
+SAMSUNG Electronics於11月27日發佈面向視覺色彩異常者(Color VisionDeficiency, CVD) 的應用程序「SeeColors」，該軟體藉助色覺診斷測試，幫助CVD觀眾了解自身狀況，并將結果連接至SAMSUNG智能電視，根據觀眾的個人診斷資料調整電視顯示屏上的色彩設置，讓CVD觀眾看見全彩世界。
+
+SeeColors軟體內部搭載了由匈牙利布達佩斯科技經濟大學 （Budapast University ofTechnology and Economic） Klara Wenzel研究團隊開發的色覺診斷測試「Colorlite (ColorliteTest／C-test ) 」。藉由色彩濾鏡和數學模型，可以準確判斷CVD所屬類型與辯色程度。據SAMSUNG官方報導，全球有近3億人口患有CVD，然而大部分并未察覺到辨識色彩誤差的問題。通過SeeColors軟體，觀眾能夠簡單準確的診斷其CVD的類型與程度。
+
+SAMSUNG也將SeeColors導入智能家電應用。只需下載應用程序進行測試，獲得測試結果後連接到電視，即可直接根據個人診斷結果調整電視顯示屏的顏色設定，進而調整畫面的色度。讓觀眾能夠通過QLED屏幕的全光譜顏色，體驗到更準確生動的視覺效果。
+
+￭ SAMSUNG SeeColors色覺辨識流程圖。（截圖自／SAMSUNG）
+
+SeeColors目前已可通過GooglePlay、Galaxy App Store與Smart TV App下載，但現階段僅支持Android系統的使用，且需搭配SAMSUNGSUHD或QLED智能電視。希望在未來能夠開放到更多的平台，為CVD觀眾帶來更多的便利。
+

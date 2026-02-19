@@ -1,0 +1,14 @@
+標題: Google分手Uber 　Google Maps上移除預約功能
+原文: https://www.ectimes.org.tw/2018/06/google%e5%88%86%e6%89%8buber-%e3%80%80google-maps%e4%b8%8a%e7%a7%bb%e9%99%a4%e9%a0%90%e7%b4%84%e5%8a%9f%e8%83%bd/
+記者／李欣怡
+
+Google Map悄悄移除預約Uber功能！過去Google Map用戶在搜尋路線的同時，可以直接估算所在地點附近的Uber等候時間以及價錢，並且可以在不切換頁面下，預約Uber、甚至線上付款。如今Google在無預警情況之下，悄悄移除此便利功能，雖然用戶仍能看到到達時間以及價錢，但是必須進到Uber App才能完成預約以及付款動作。
+
+2017年一月，Google發展出可以直接在Google Map中預約Uber的功能，相較於其他共享服務都必須要跳出Google Map 才可以完成叫車動作，Google與Uber的合作，無疑是為消費者帶來極大的便利。
+
+￭ Google Map悄悄移除預約Uber功能。(截圖自／Uber官網)
+
+針對此事件，Google在官方網站上並未發出任何的正式聲明。根據外媒報導推斷，其中的原因可能是因為Uber希望其用戶可以回歸到Uber App進行叫車服務。也有另一個推斷原因是在Google與Uber關係不再像過去那樣緊密，甚至是因為去年Google的母公司Alphabet對Uber的競爭對手Lyft投資了近10億美元的關係，導致兩大公司之間產生嫌隙，破壞在Google Map上的合作。
+
+目前，全球Google Maps叫車服務功能仍支援了17家叫車業者，但是適用在台灣的只有一家，其餘介面也只剩下輸入所在地與目的地資訊之後，所顯示出的比較叫車服務和大眾運輸、走路所需花費的時間估算。
+

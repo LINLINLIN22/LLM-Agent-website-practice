@@ -1,0 +1,14 @@
+標題: 鎖定電子郵件市場　Amazon推Workmail
+原文: https://www.ectimes.org.tw/2015/01/%e9%8e%96%e5%ae%9a%e9%9b%bb%e5%ad%90%e9%83%b5%e4%bb%b6%e5%b8%82%e5%a0%b4%e3%80%80amazon%e6%8e%a8workmail/
+記者／周頌宜
+
+以電子商務起家的Amazon擴大雲端計算部門(Amazon Web Service，AWS)後，昨日更宣布推出Workmail電子郵件服務，進軍企業電郵市場。此功能的推出使Amazon的事業版圖再度擴張，並與Google 的Gmail、微軟的Exchange等電子郵件龍頭相抗衡。
+
+￭Amazon推出Workmail，進軍企業電子郵件市場。(圖／Amazon官網)
+
+Amazon Workmail將於今年第二季正式推出，相較於目標客戶為一般大眾的電郵服務，Workmail鎖定企業電子郵件市場。除了郵件外，一併推出企業日程安排服務，吸引更多企業用戶。投資分析師初步預估，這項服務的推出可為Amazon帶來10億美元的商機。
+
+不同於Gmail和Exchange等電子郵件，Workmail強調易用性及安全性，用戶可將Workmail裡的資料金鑰加密，更可自行選定資料的存取位置。此外，Workmail還支援行動裝置功能，可在遠端整理、清除資料，而其資料防護功能，將是使用者選擇Amazon網路服務的重要關鍵。
+
+Amazon Workmail收費為每個月每位用戶定額，郵件量為50GB；如企業欲使用更多空間，可支付更多金額，除原本的50GB外，額外增加200GB的檔案存取。未來，Amazon計畫推出其他專為企業設定的服務，預計可達100億美元的商機。
+

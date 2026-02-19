@@ -1,0 +1,14 @@
+標題: 易利信和Opera共同推出Ericsson eStore
+原文: https://www.ectimes.org.tw/2010/02/%e6%98%93%e5%88%a9%e4%bf%a1%e5%92%8copera%e5%85%b1%e5%90%8c%e6%8e%a8%e5%87%baericsson-estore/
+記者／林欣平易利信（Ericsson）日前在2010 世界通訊大會（Mobile World Congress 2010）上宣布，與Opera（Opera Software）共同推出Ericsson eStore。Ericsson eStore可以幫助電信業者開設自有品牌的應用程式商店，並且提供所有手機都能下載應用程式的開放平台，讓電信業者可以跨裝置、跨平台推出新服務。不同於其他以作業系統為核心的平台，Ericsson eStore運用支援開放性網路標準的Opera網路技術，強化電信業者提供給用戶的服務。Opera表示，此軟體商店的概念是提供免費或收費的Opera Widgets網路應用程式，同時也會增加獨立執行的小程式。目前Ericsson eStore經由100家以上的電信業者，在全球25個市場提供服務給超過10億的用戶。Opera跨平台的優勢讓Ericsson eStore提供手機與其他上網裝置的用戶，以一站式（one-stop-shop）使用或採購新應用程式，包括Opera Mobile、Opera Mini 以及 Opera Widgets。繼中國移動通信的「Mobile Market」、歐洲電信業者Vodafone的「360 app shop」、遠傳電信的「S市集」後，易利信也跟上此波應用程式的開店潮，推出Ericsson eStore，預計將有越來越多電信業者開設自家的應用程式商店，引爆龐大商機。
+
+記者／林欣平
+
+易利信（Ericsson）日前在2010 世界通訊大會（Mobile World Congress 2010）上宣布，與Opera（Opera Software）共同推出Ericsson eStore。Ericsson eStore可以幫助電信業者開設自有品牌的應用程式商店，並且提供所有手機都能下載應用程式的開放平台，讓電信業者可以跨裝置、跨平台推出新服務。
+
+不同於其他以作業系統為核心的平台，Ericsson eStore運用支援開放性網路標準的Opera網路技術，強化電信業者提供給用戶的服務。Opera表示，此軟體商店的概念是提供免費或收費的Opera Widgets網路應用程式，同時也會增加獨立執行的小程式。
+
+目前Ericsson eStore經由100家以上的電信業者，在全球25個市場提供服務給超過10億的用戶。Opera跨平台的優勢讓Ericsson eStore提供手機與其他上網裝置的用戶，以一站式（one-stop-shop）使用或採購新應用程式，包括Opera Mobile、Opera Mini 以及 Opera Widgets。
+
+繼中國移動通信的「Mobile Market」、歐洲電信業者Vodafone的「360 app shop」、遠傳電信的「S市集」後，易利信也跟上此波應用程式的開店潮，推出Ericsson eStore，預計將有越來越多電信業者開設自家的應用程式商店，引爆龐大商機。
+

@@ -1,0 +1,12 @@
+標題: Apple 人工智慧即將登場　正式進攻生成式 AI 領域
+原文: https://www.ectimes.org.tw/2024/09/apple-%e4%ba%ba%e5%b7%a5%e6%99%ba%e6%85%a7%e5%8d%b3%e5%b0%87%e7%99%bb%e5%a0%b4%e3%80%80%e6%ad%a3%e5%bc%8f%e9%80%b2%e6%94%bb%e7%94%9f%e6%88%90%e5%bc%8f-ai-%e9%a0%98%e5%9f%9f/
+記者／Silvia Lai美國跨國科技公司Apple於 9 月 10 日宣布Apple Intelligence將在 10 月登上手機、平板及 Mac 電腦，其軟體更新版本為 iOS 18.1、iPadOS 18.1 及 macOS Sequoia 15.1。不過，初期 Apple Intelligence 只提供美式英文版服務，至 12 月陸續推出澳洲、加拿大、紐西蘭、南非、英國的在地話英文版，而中文、法文、日文、西班牙文則要等待 2025 年。
+
+￭Apple宣布Apple Intelligence將在 10 月登上手機、平板及 Mac 電腦。（圖片來源 /Apple）
+
+Apple 在生成式人工智慧 (GenAI) 領域上，正式追趕Google、Microsoft等科技巨擘。Apple Intelligence 運用 Apple 晶片來理解及建立語言和影像，並深入 APP 間的運作，依據使用情境，提供個人化的服務，甚至同時保護使用者的隱私及安全性。
+
+Apple Intelligence 將提供多種 AI 功能，包括 Writing Tools、自然語言搜尋、電話錄音及摘錄、更人性化且順暢的Siri服務。未來也可期待生成式圖像 Image Playground、生成式插畫 Image Wand、生成式表情符號 Genmoji、客製化智慧服務 Siri，甚至整合 ChatGPT 服務。
+
+研究機構Counterpoint Research表示 Apple Intelligence 階段性地提供多語系服務，將帶動 iPhone 營收呈現階梯式成長。不過 iPhone 換機週期延長，消費者對 GenAI 需求仍在萌芽中，此次iPhone 16營收狀況對 Apple 而言將會是重要的指標。
+

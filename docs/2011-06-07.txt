@@ -1,0 +1,14 @@
+標題: Google宣布淘汰IE7　舊版瀏覽器將無法上Google
+原文: https://www.ectimes.org.tw/2011/06/google%e5%ae%a3%e5%b8%83%e6%b7%98%e6%b1%b0ie7%e3%80%80%e8%88%8a%e7%89%88%e7%80%8f%e8%a6%bd%e5%99%a8%e5%b0%87%e7%84%a1%e6%b3%95%e4%b8%8agoogle/
+記者／鄭薇珊
+
+Google近期大動作進行瀏覽器市場的改革，日前才與Lady Gaga合作共推最新版本的自家瀏覽器Chrome。近日則正式公布，自今年8月1日起Google旗下各項功能包括Gmail、Google Talk及Google Docs等網路應用服務將停止支援IE7、Firefox3.5、Safari3等較舊版本的瀏覽器。為配合Google近期釋放的Google Apps相關功能，包括Gmail中的新信件桌面通知以及Google Docs的檔案拖拉上傳功能等，Google主動宣布將只針對主流瀏覽器中的近兩期版本提供支援。以最多使用者的Internet Explorer為例，目前最新的瀏覽器版本為IE 9，但仍有超過兩成的IE使用者仍在使用IE 7或IE 6。目前Google的各項網路應用服務皆統一採用HTML5，而無法支援HTML5的舊版瀏覽器使用者將無法體驗Google的最新服務功能，因此Google決定未來將只針對目前主流四大瀏覽器的最新版本來提供支援，所以包括IE 7、Firefox 3.5、Safari 3等以下的舊版瀏覽器將可能無法使用Gmail、Google Calendar、Google Talk、Google Docs 等網路服務。外界普遍猜測Google此舉將有助於促進用戶更新瀏覽器版本，但此舉是否會增加Google旗下的Chrome瀏覽器使用人數，則仍在觀察中。特別是Google未來將只支援IE、Firefox、Safari以及自家的Chrome，勢必會讓其他瀏覽器廠商的市場受到擠壓。以提供Windows、Mac與Linux作業系統的全球第五大瀏覽器品牌Opera為例，未來將不被Google所支援。
+
+Google近期大動作進行瀏覽器市場的改革，日前才與Lady Gaga合作共推最新版本的自家瀏覽器Chrome。近日則正式公布，自今年8月1日起Google旗下各項功能包括Gmail、Google Talk及Google Docs等網路應用服務將停止支援IE7、Firefox3.5、Safari3等較舊版本的瀏覽器。
+
+為配合Google近期釋放的Google Apps相關功能，包括Gmail中的新信件桌面通知以及Google Docs的檔案拖拉上傳功能等，Google主動宣布將只針對主流瀏覽器中的近兩期版本提供支援。以最多使用者的Internet Explorer為例，目前最新的瀏覽器版本為IE 9，但仍有超過兩成的IE使用者仍在使用IE 7或IE 6。
+
+目前Google的各項網路應用服務皆統一採用HTML5，而無法支援HTML5的舊版瀏覽器使用者將無法體驗Google的最新服務功能，因此Google決定未來將只針對目前主流四大瀏覽器的最新版本來提供支援，所以包括IE 7、Firefox 3.5、Safari 3等以下的舊版瀏覽器將可能無法使用Gmail、Google Calendar、Google Talk、Google Docs 等網路服務。
+
+外界普遍猜測Google此舉將有助於促進用戶更新瀏覽器版本，但此舉是否會增加Google旗下的Chrome瀏覽器使用人數，則仍在觀察中。特別是Google未來將只支援IE、Firefox、Safari以及自家的Chrome，勢必會讓其他瀏覽器廠商的市場受到擠壓。以提供Windows、Mac與Linux作業系統的全球第五大瀏覽器品牌Opera為例，未來將不被Google所支援。
+

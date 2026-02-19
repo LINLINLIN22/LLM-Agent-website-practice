@@ -1,0 +1,16 @@
+標題: Edge走入歷史　微軟將開發Chromium瀏覽器
+原文: https://www.ectimes.org.tw/2018/12/edge%e8%b5%b0%e5%85%a5%e6%ad%b7%e5%8f%b2%e3%80%80%e5%be%ae%e8%bb%9f%e5%b0%87%e9%96%8b%e7%99%bcchromium%e7%80%8f%e8%a6%bd%e5%99%a8/
+記者／黃奕銓
+
+2015年微軟 (Microsoft) 為了Windows 10作業系統推出Edge瀏覽器，但始終沒有受到市場太大的迴響，如今連微軟似乎也打算放棄Edge，計畫重新打造基於Chromium的瀏覽器，取代Edge成為Windows 10的預設瀏覽器。
+
+￭Microsoft Edge因沒有受到市場太大的迴響，面臨淘汰命運。（截圖自／shutterstock）
+
+根據Windows Central的報導，微軟將開發一個新型瀏覽器，其內部代號為「Anaheim」。目前尚不清楚Anaheim是否會延用Edge的品牌或採用新品牌，也無可得知Anaheim的介面設計是否與Edge不同，但能確定的是將和其競爭對手Google Chrome、Opera、Firefox等同樣由Chromium所驅動，預計使用上將更彈性及穩定。
+
+Microsoft Edge是採用EdgeHTML的專用排版引擎，原先目的是希望Edge能快速、小巧且安全，但因為出現過多使用問題，讓許多Windows10用戶轉用其他瀏覽器。從2015年以來，微軟一直致力推廣MicrosoftEdge，甚至還在Windows商店中刪除Chrome的安裝程式，但Edge的表現卻始終低迷。
+
+根據Statcounter數據顯示，截至今年11月， Chrome在電腦端的市占率高達72.38%，Microsoft Edge只拿下比Safari的5.06%還要少的4%市占率，因此微軟決定放棄Edge。Windows 10的用戶應該很樂見這個消息，因為新瀏覽器是使用Chromium為基礎，未來不需要再害怕會遇到過去使用Edge時的相同問題，而這也是微軟重振內置瀏覽器的第一步。
+
+分享此新聞：
+

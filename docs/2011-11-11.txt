@@ -1,0 +1,14 @@
+標題: Adobe放棄行動版Flash　轉投HTML 5
+原文: https://www.ectimes.org.tw/2011/11/adobe%e6%94%be%e6%a3%84%e8%a1%8c%e5%8b%95%e7%89%88flash%e3%80%80%e8%bd%89%e6%8a%95html-5/
+記者／許世融當年Adobe與蘋果為了行動裝置播放技術該採Flash Player還是HTML 5，爭論得滿城風雨，如今Adobe宣布將不再開發行動版的Flash Player，而將重心轉往HTML 5、桌面版Flash Player與其他技術上，Flash與HTML 5的論戰終於告一段落。HTML 5是由 HTML、CSS與JavaScript組成的公開標準，目標減少瀏覽器對外掛程式的需求，而Flash Player是一個由Adobe控制的封閉系統。Adobe互動開發部門總經理Danny Winokur在部落格表示，目前市場主流的行動裝置普遍都支援HTML 5，這讓HTML 5成為行動裝置瀏覽器的最佳解決方法。Adobe也決定將在發佈Android和黑莓機的Flash Player 11.1版本後，停止開發該技術，但還是會繼續支援、更新現有的服務。雖然Adobe長久以來一直擁護Flash Player在行動裝置的發展性，但是已故的蘋果前總裁賈伯斯並不認同。他去年曾公開批評Flash Player不夠開放、耗電、有資訊安全問題的疑慮、不適合觸控式智慧型手機等。他更下令，蘋果旗下的iOS產品將不支援Flash Player，也因為賈伯斯的強勢作風，讓HTML 5如今成為主要行動裝置的普遍支援標準。即使Adobe在這一仗輸給了蘋果，但CNET專欄作家Stephen Shankland撰文表示，在蘋果強制第三方開發者投入HTML 5的情況下，Adobe此舉不令人意外，但就現實面來說，根據Net Applications網站10月統計，瀏覽器在PC的市占率為94.2%，而行動裝置只有5.5%，Adobe在廣大的PC舊市場仍然有很大機會。
+
+記者／許世融
+
+當年Adobe與蘋果為了行動裝置播放技術該採Flash Player還是HTML 5，爭論得滿城風雨，如今Adobe宣布將不再開發行動版的Flash Player，而將重心轉往HTML 5、桌面版Flash Player與其他技術上，Flash與HTML 5的論戰終於告一段落。
+
+HTML 5是由 HTML、CSS與JavaScript組成的公開標準，目標減少瀏覽器對外掛程式的需求，而Flash Player是一個由Adobe控制的封閉系統。Adobe互動開發部門總經理Danny Winokur在部落格表示，目前市場主流的行動裝置普遍都支援HTML 5，這讓HTML 5成為行動裝置瀏覽器的最佳解決方法。Adobe也決定將在發佈Android和黑莓機的Flash Player 11.1版本後，停止開發該技術，但還是會繼續支援、更新現有的服務。
+
+雖然Adobe長久以來一直擁護Flash Player在行動裝置的發展性，但是已故的蘋果前總裁賈伯斯並不認同。他去年曾公開批評Flash Player不夠開放、耗電、有資訊安全問題的疑慮、不適合觸控式智慧型手機等。他更下令，蘋果旗下的iOS產品將不支援Flash Player，也因為賈伯斯的強勢作風，讓HTML 5如今成為主要行動裝置的普遍支援標準。
+
+即使Adobe在這一仗輸給了蘋果，但CNET專欄作家Stephen Shankland撰文表示，在蘋果強制第三方開發者投入HTML 5的情況下，Adobe此舉不令人意外，但就現實面來說，根據Net Applications網站10月統計，瀏覽器在PC的市占率為94.2%，而行動裝置只有5.5%，Adobe在廣大的PC舊市場仍然有很大機會。
+

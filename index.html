@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>網路考古學家🥸</h1>
+    <p>試著搜尋 1999~2025電子商務時報的舊聞看看。</p>
+    <input type="text" id="query" placeholder="問問 2014 年 10 月的事..." style="width: 300px;">
+    <button onclick="askAI()">提問</button>
+<div id="chatbox" style="
+    margin-top: 20px; 
+    border: 1px solid #ccc; 
+    padding: 15px; 
+    min-height: 200px; 
+    white-space: pre-wrap; 
+    line-height: 1.6;
+    background-color: #f9f9f9;
+"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        async function askAI() {
+            const query = document.getElementById('query').value;
+            const chatbox = document.getElementById('chatbox');
+            chatbox.innerText = ""; // 清空內容
+            
+            // 使用 EventSource 接收後端串流
+            const eventSource = new EventSource(`http://127.0.0.1:8000/chat?query=${encodeURIComponent(query)}`);
+            
+        eventSource.onmessage = (event) => {
+            // 如果收到特定的結束訊號，主動斷開防止重連
+            if (event.data === "[DONE]") {
+                eventSource.close();
+                return;
+            }
+            chatbox.innerText += event.data;
+};
+            
+            eventSource.onerror = () => eventSource.close();
+        }
+    
+    </script>
+</body>
+</html>

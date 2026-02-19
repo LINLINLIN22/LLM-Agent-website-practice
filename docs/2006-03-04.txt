@@ -1,0 +1,10 @@
+標題: 靠著地圖服務    微軟槓上Google
+原文: https://www.ectimes.org.tw/2006/03/%e9%9d%a0%e8%91%97%e5%9c%b0%e5%9c%96%e6%9c%8d%e5%8b%99-%e5%be%ae%e8%bb%9f%e6%a7%93%e4%b8%8agoogle/
+記者／林姿吟
+
+微軟於日前發表新的線上技術，包含網際網路分類服務以及詳盡照片地區搜尋功能服務等，希望藉此能夠與Google、雅虎等競爭者相互抗衡，搶奪霸主地位。3月開始進行測試，客戶即可在個人電腦儲存與分類電子郵件的Windows Live Mail Desktop。
+
+搜尋引擎龍頭老大Google在個人電腦搜尋以及衛星地圖技術等產品銷售方面優於微軟，因此微軟想要急起直追。微軟全球消費者行銷主管索恩指出，Windows Live Mail Desktop是免費程式，客戶可與微軟Hotmail等電郵帳號連線，這也包含Outlook在內的電郵軟體。
+
+微軟在網站上放置一份測試地圖，可提供使用者行進時詳盡的街道圖。客戶只要使用Windows Live Local Street-side工具，就可得知附近的地圖資訊。微軟計畫9月前將此工具併入該公司的衛星地圖工具Windows Live Local，且於3月1日開始測試線上市場Window Live Expo，挑戰Google、ebay、以及Craigslist等公司。
+

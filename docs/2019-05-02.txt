@@ -1,0 +1,12 @@
+標題: 戴爾宣布VMware與微軟Azure合作　共創雲端整合平台
+原文: https://www.ectimes.org.tw/2019/05/%e6%88%b4%e7%88%be%e5%ae%a3%e5%b8%83vmware%e8%88%87%e5%be%ae%e8%bb%9fazure%e5%90%88%e4%bd%9c%e3%80%80%e5%85%b1%e5%89%b5%e9%9b%b2%e7%ab%af%e6%95%b4%e5%90%88%e5%b9%b3%e5%8f%b0/
+DELL（戴爾）於 4月29日在拉斯維加斯舉行的戴爾科技大會中，宣布與Microsoft（微軟）合作，戴爾科技集團旗下的VMware Cloud將支援Microsoft的公有雲服務Azure，讓客戶可以在多雲環境下，利用單一管理平台，能夠跨平台到其他雲環境使用，協助加快數位轉型。
+
+￭ Dell Technology World是重新上市後第一場年度論壇，受到全球媒體與合作伙伴的共同矚目。（截圖自／Dell Technology World官網）
+
+Azure與VMware合作後，企業用戶不須重新架構，就能在雙方環境下管理現行的應用工具以及企業解決方案，像是資料中心擴充、資料復原、App遷移等等，即客戶可以利用VMware的網路軟體、儲存等雲基礎架構平台，再加上Azure的公有雲，共同提供最好的解決方案。
+
+目前全球有超過93%企業都是使用多雲環境，如果每個雲服務都只能用自己的標準環境應用，將會讓企業面臨複雜的管理問題，舉例來說，無論是使用Microsoft 365或VMware Workspace ONE的客戶，都可以在非Azure的雲端環境中使用Office 365，加上VMware也已經支援AWS及Google公有雲，讓管理更加精簡化，不難看出為了留住客戶，雲端業者紛紛思考合作，樹立伙伴關係。
+
+VMware是全球最大的雲端系統管理軟體，有超過4,200家代理商將能夠提供客戶Azure雲端選擇，幫助擴大Azure的用戶數，與Amazon AWS抗衡，此外，VMware是繼與AWS及Google兩家公有雲合作後，又增加新的伙伴Azure，企圖打造單一化的整合平台，為客戶帶來更大的利益。
+

@@ -1,0 +1,10 @@
+標題: 俄羅斯叫車服務Yandex Taxi遭駭 計程車擠爆莫斯科街頭
+原文: https://www.ectimes.org.tw/2022/09/%e4%bf%84%e7%be%85%e6%96%af%e5%8f%ab%e8%bb%8a%e6%9c%8d%e5%8b%99yandex-taxi%e9%81%ad%e9%a7%ad-%e8%a8%88%e7%a8%8b%e8%bb%8a%e6%93%a0%e7%88%86%e8%8e%ab%e6%96%af%e7%a7%91%e8%a1%97%e9%a0%ad/
+事發在9月1日下午時候，俄羅斯莫斯科市中心的庫圖佐夫斯基大街忽然塞滿了大量的計程車，原來是當地叫車平台Yandex 遭駭客入侵，大量的司機收到前往同一地點的訂單，造成道路擠塞。
+
+https://twitter.com/YourAnonTV/status/1565786732901048323?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1565786732901048323%7Ctwgr%5Eb80356484106fccf43b5b68f01efb3d41bb805f0%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Funwire.hk%2F2022%2F09%2F04%2Fhackers-traffic-jam-russia-moscow-ride-hailing-app-yandex-taxi%2Ffun-tech%2F
+
+受到駭客入侵的Yandex Taxi是俄羅斯當地民眾常用的叫車平台，當時幾十名司機同時接到了前往菲利地區的訂單，令該地區交通發生擁塞狀況，而司機到現場後也發現叫車的客人根本不存在。這樣的交通擠塞亂象大概持續了40分鐘，後續Yandex則表示內部已經改善系統，預防未來發生類似的情況。
+
+駭客組織Anonymous表示今次攻擊是由他們發起，並且是與烏克蘭IT Army駭客組織合作。今年較早時Anonymous曾經宣佈向俄羅斯發動網路戰爭，後來亦有攻擊俄羅斯的電視頻道，以及入侵俄羅斯政府機構和企業並洩露其數據等等。
+

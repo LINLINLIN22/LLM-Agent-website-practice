@@ -1,0 +1,14 @@
+標題: Skype Translator進入公開測試　未來溝通無國界
+原文: https://www.ectimes.org.tw/2014/12/skype-translator%e9%80%b2%e5%85%a5%e5%85%ac%e9%96%8b%e6%b8%ac%e8%a9%a6%e3%80%80%e6%9c%aa%e4%be%86%e6%ba%9d%e9%80%9a%e7%84%a1%e5%9c%8b%e7%95%8c/
+記者／吳佳玲
+
+Skype於5月發表的即時翻譯新功能－Skype Translator，15日開始第一階段的公開測試。目前提供西班牙文與英文的即時語音翻譯，Windows8.1的用戶可以到Skype官網申請試用。未來，Skype Translator預計支援40種以上的語言，打破不同國界語言的障礙。
+
+Skype Translator是Skype幾十年來在語音辨識、自動翻譯、機器學習及使用者體驗的研究結晶，也是Microsoft第一次挑戰語音翻譯的研究成果。這次測試稱為「Skype Translator preview」，由於Skype Translator是機器學習的運作模式，所以測試階段是發展與進步的關鍵，希望藉由試用者提供有價值的反饋，來幫助產品改進，讓技術更完善。
+
+￭Skype Translator 即時語音翻譯，讓溝通無國界。(圖／Skype)
+
+日前，Skype Translator已於墨西哥與美國的小學，各挑選1位學生來進行實際測試。透過Skype Translator的即時語音翻譯，即使雙方語言不通，溝通依然無礙。西班牙文可以即時翻譯成英文句子，並透過智慧語音人聲說出來，同步顯示對話紀錄於螢幕上，反之亦然。
+
+Skype Translator試圖打破語言阻礙，讓人們不再受語言的限制，可以順暢地進行溝通。其長期目標是希望能在不同的平台，提供40種以上的語言即時翻譯服務，為使用者打造最佳的使用體驗，所以Skype Translator需要你我的幫助，共同參與測試計畫，以提高翻譯品質，加快語言版本的更新，快一起加入吧！
+

@@ -1,0 +1,15 @@
+# KEYS
+.env
+
+# folders
+# docs
+
+# Chrome DB
+my_enterprise_db
+200_db
+
+.gitattributes
+
+# csv
+links.csv
+links_new.csv

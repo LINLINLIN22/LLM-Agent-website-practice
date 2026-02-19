@@ -1,0 +1,12 @@
+標題: Google助理結合生成式AI　Bard成為私人助理
+原文: https://www.ectimes.org.tw/2023/10/google%e5%8a%a9%e7%90%86%e7%b5%90%e5%90%88%e7%94%9f%e6%88%90%e5%bc%8fai%e3%80%80bard%e6%88%90%e7%82%ba%e7%a7%81%e4%ba%ba%e5%8a%a9%e7%90%86/
+Google於5日的Made by Google發表會上除了公布推出新產品Pixel 8、Pixel 8 Pro和Pixel Watch 2外，還宣布了將以Google Assistant與生成式AIBard進行結合，釋出全新版本的數位助理Google Assistant with Bard。
+
+Bard是Google在今年三月初曾為了應對OpenAI公司所開發的聊天機器人ChatGPT所研發的生成式AI聊天機器人。現今Google整合旗下的語音助理與人工智慧聊天機器人，推出Google Assistant with Bard，這次新增的擴充功能可以令智慧助理訪問各個Google應用程式，例如Gmail、Google Drive、Google地圖、YouTube等。透過擴充功能，智慧助理能幫助我們列出錯過的重要郵件、摘要並條列郵件重點內容，以及擷取YouTube影片內容等。
+
+￭Google宣布將Google Assistant與生成式AI Bard進行結合，推出全新版本助理Google Assistant with Bard。(圖片取自Mojahid Mottakinonunsplash)
+
+除了上述功能之外，這個擴展功能還能用於個人任務，例如智慧助理可以直接從Gmail中了解到使用者的出差資訊，並透過Google Flights、Google Hotel等程式幫助使用者尋找航班與飯店資訊。與此同時Google也承諾這些讀取到的個人資訊和隱私資料都不會被用於推播廣告、用於訓練Bard模型或是被審核者查看。
+
+另外，Amazon兩周前也將旗下的語音助理Alexa導入生成式AI，升級語音助理的功能，並注重於對話性和個性化。可見語音助理結合現在火紅的生成式AI已是不可擋的趨勢，此舉將令AI更快融入大眾的生活，成為我們日常的一部分。
+

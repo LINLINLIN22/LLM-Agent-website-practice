@@ -1,0 +1,14 @@
+標題: Android版Google Docs　照片中文字也能轉
+原文: https://www.ectimes.org.tw/2011/04/android%e7%89%88google-docs%e3%80%80%e7%85%a7%e7%89%87%e4%b8%ad%e6%96%87%e5%ad%97%e4%b9%9f%e8%83%bd%e8%bd%89/
+記者／黃惟伶Google在27日正式釋出Android版本的Google Docs，在Android裝置上使用的Google Docs應用程式不僅能夠辨識照片中的文字並轉成文字檔案，也提供線上協作管理功能，讓使用者能夠更快速的編輯文件，目前在Android Market上已供使用者下載安裝。Google Docs的Android版本加入了光學字元辨識技術（Optical Character Recognition，OCR），因此能夠辨識手機相機所拍攝的照片中的文字，並轉成數位文字檔案，但目前僅能夠辨識英文內容，仍無法辨識手寫文字或特定格式，Google表示未來將會持續改善此一功能。在Android版本中，Google Docs也提供了線上協作管理功能，使用者可直接透過手機調整文件的共同編輯權限，選擇是否與手機上的聯絡人分享或編輯共同的文件，此外，Android版本的Google Docs不僅可以開啟的文件或圖檔格式，也可開啟PDF內容，是相當方便的功能。然而，目前Android版本Google Docs僅支援Android 2.1以上版本的手機裝置，而且現在也只有英文版，使用者須先將網頁版本的Google Docs語系設定為英文，才可以在手機上進行編輯，離線編輯功能目前也尚未提供。
+
+記者／黃惟伶
+
+Google在27日正式釋出Android版本的Google Docs，在Android裝置上使用的Google Docs應用程式不僅能夠辨識照片中的文字並轉成文字檔案，也提供線上協作管理功能，讓使用者能夠更快速的編輯文件，目前在Android Market上已供使用者下載安裝。
+
+Google Docs的Android版本加入了光學字元辨識技術（Optical Character Recognition，OCR），因此能夠辨識手機相機所拍攝的照片中的文字，並轉成數位文字檔案，但目前僅能夠辨識英文內容，仍無法辨識手寫文字或特定格式，Google表示未來將會持續改善此一功能。
+
+在Android版本中，Google Docs也提供了線上協作管理功能，使用者可直接透過手機調整文件的共同編輯權限，選擇是否與手機上的聯絡人分享或編輯共同的文件，此外，Android版本的Google Docs不僅可以開啟的文件或圖檔格式，也可開啟PDF內容，是相當方便的功能。
+
+然而，目前Android版本Google Docs僅支援Android 2.1以上版本的手機裝置，而且現在也只有英文版，使用者須先將網頁版本的Google Docs語系設定為英文，才可以在手機上進行編輯，離線編輯功能目前也尚未提供。
+

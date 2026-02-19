@@ -1,0 +1,14 @@
+標題: 穿戴裝置推陳出新　Google Glass不及Wear
+原文: https://www.ectimes.org.tw/2014/07/%e7%a9%bf%e6%88%b4%e8%a3%9d%e7%bd%ae%e6%8e%a8%e9%99%b3%e5%87%ba%e6%96%b0%e3%80%80google-glass%e4%b8%8d%e5%8f%8awear/
+記者／陳思穎
+
+近期穿戴式裝置可說是水漲船高，三星推出Gear Live、LG將在7月初推出兩款智慧型手表G Watch、Google今年4月也販售Google Glass。綜觀這些如雨後春筍不斷冒出的穿戴式裝置，產品推出的形式雖多，卻面臨用戶僅使用短短幾個月的問題。
+
+■ Android Wear可連結Android手機。（圖／Android Wear官網）
+
+穿戴式裝置面臨著很大的挑戰，首先，企業需要考量設計出來的產品是否可以滿足使用者的需求，而不僅憑藉產品的新鮮度吸引消費族群。其次，用戶在使用穿戴裝置時，需投入許多時間來設定功能切換，要花費許多精力。再者，穿戴裝置還需考量舒適度與方便性，若產品過熱，使用者佩戴時可能會感到不適。
+
+舉例來說， Google 推出的智慧手表、Android Wear可穿戴平台目前受到許多人的關注。 Android Wear推出後，許多人將它和Google Glass比較，例如Glass要碰觸、抬頭才能進行語音控制；而Wear隨時都能語音輸入。比起Google Glass，Wear在穿戴和收納上更方便，價錢也更便宜，佩戴時也不會那麼受人矚目。
+
+相較於Google Glass逐漸走入下坡，智慧手表卻越來越熱門，像是MotorolaMoto 360、LG G Watch、三星Gear Live都運用Android Wear平台，可運用手表顯示聯絡人、電子郵件、簡訊及LINE等，還可經由Google Fit紀錄心跳速率、走路的步數。綜上所述，穿戴裝置不僅著重功能性，佩戴的方便度更是很大的關鍵。
+

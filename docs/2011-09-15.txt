@@ -1,0 +1,12 @@
+標題: Intel與Google結盟　共同鞏固行動裝置市場
+原文: https://www.ectimes.org.tw/2011/09/intel%e8%88%87google%e7%b5%90%e7%9b%9f%e3%80%80%e5%85%b1%e5%90%8c%e9%9e%8f%e5%9b%ba%e8%a1%8c%e5%8b%95%e8%a3%9d%e7%bd%ae%e5%b8%82%e5%a0%b4/
+記者／邱晟傑日前Intel於舊金山舉辦的IDF年度開發者論壇大會上，Intel的CEO Paul Otellini與Android之父 Andy Rubin同時現身，並宣Intel和Google共同合作的消息，未來搭載Android的平板電腦及智慧型手機將支援Intel的Atom處理器並進行軟體上的最佳化。未來Google推出的Android版本都將針對Intel x86架構CPU進行優化處理，因此Android將不再只支援ARM架構的處理器， Intel表示，這項合作旨在加速以英特爾技術為基礎的Android智慧型手機提早上市。未來行動裝置OEM業者和電信業者採用intel的CPU後，除了具有高效能外，還保有低消耗功率的特色，在共同合作下，也將協助Android平台被更廣泛採用。Intel最近面臨了許多挑戰，首當其衝的便是PC產業的日漸衰退，而過去最佳的合作夥伴微軟，宣布下一代的作業系統將不再只支援intel x86架構的CPU，讓對手ARM陣營有利可乘，加上遲遲無法在平板和智慧型手機上取得優勢，使得情況日益嚴峻，這次與全球43％市占的Google Android系統達成合作協議，將大大有利其拓展智慧型移動裝置市場。另外Intel也公開展示了首款採用Medfield晶片的Android平板電腦，Medfield是Atom的下一代低功率晶片，專為平板電腦和智慧型手機所設計，若Google收購Motorola的行動方案獲得核可，未來便可結合軟硬體的雙重優勢進行手機的開發，預計今年底或明年初就會有相關產品上市的消息。
+
+記者／邱晟傑
+
+日前Intel於舊金山舉辦的IDF年度開發者論壇大會上，Intel的CEO Paul Otellini與Android之父 Andy Rubin同時現身，並宣Intel和Google共同合作的消息，未來搭載Android的平板電腦及智慧型手機將支援Intel的Atom處理器並進行軟體上的最佳化。
+
+未來Google推出的Android版本都將針對Intel x86架構CPU進行優化處理，因此Android將不再只支援ARM架構的處理器， Intel表示，這項合作旨在加速以英特爾技術為基礎的Android智慧型手機提早上市。未來行動裝置OEM業者和電信業者採用intel的CPU後，除了具有高效能外，還保有低消耗功率的特色，在共同合作下，也將協助Android平台被更廣泛採用。
+
+Intel最近面臨了許多挑戰，首當其衝的便是PC產業的日漸衰退，而過去最佳的合作夥伴微軟，宣布下一代的作業系統將不再只支援intel x86架構的CPU，讓對手ARM陣營有利可乘，加上遲遲無法在平板和智慧型手機上取得優勢，使得情況日益嚴峻，這次與全球43％市占的Google Android系統達成合作協議，將大大有利其拓展智慧型移動裝置市場。
+

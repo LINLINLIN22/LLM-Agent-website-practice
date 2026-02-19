@@ -1,0 +1,14 @@
+標題: 亞馬遜發佈AI攝影機　功能面向開發者
+原文: https://www.ectimes.org.tw/2017/12/%e4%ba%9e%e9%a6%ac%e9%81%9c%e7%99%bc%e4%bd%88ai%e6%94%9d%e5%bd%b1%e6%a9%9f%e3%80%80%e5%8a%9f%e8%83%bd%e9%9d%a2%e5%90%91%e9%96%8b%e7%99%bc%e8%80%85/
+記者／高銘檀
+
+亞馬遜雲端服務公司（Amazon Web Service，以下簡稱AWS）於11月29日舉辦的「AWS Re：Invent」會議上宣佈推出全球首款深度學習型無線攝像機「AWS Deeplens」。同時還發佈了五款機器學習服務工具，以提供其產品開發人員數據來源支持。
+
+AWS為雲端運算平臺，向個人、公司和政府提供完整的基礎設備和應用服務。新推出的 Deeplens是全球首款可執行即時電腦視覺模型的無線攝影機，平均每秒可運行超過一千億次的運算。由IntelAtom處理器驅動，支持連接Wi-Fi、USB、HDMI（高畫質多媒體介面）等多元管道使用；配有拍攝1080P影像的技術，和8GB的記憶體。
+
+AWSDeeplens與市面上其他內置AI的攝像機不同，其主要功能面向開發者，而非一般消費者。Deeplens的攝像頭可藉由編程進行機器學習，以實際操作的數據提升其攝影執行的設定；此外還可與新推出的機器學習服務工具Amazon SageMaker連接，開發人員可使用Amazon SageMaker在雲端訓練模型，並將其運用到Deeplens攝影機上。
+
+■　AWS Deeplens產品展示圖（截圖自／AWS）
+
+除了可輔助開發者訓練Deeplens運行模型的Amazon SageMaker外，AWS還推出了影片辨識服務Amazon Rekognition Video、語音辨識為文字的服務Amazon Transcribe、提供不同語言翻譯服務的Amazon Translate和具備自然語言處理能力的Amazon Comprehend。藉助這些工具輔助其產品進一步加深機器學習的程度，以開發出更智慧化的AI產品。
+

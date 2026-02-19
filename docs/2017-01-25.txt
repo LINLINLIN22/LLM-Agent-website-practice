@@ -1,0 +1,12 @@
+標題: Google Chromebook大躍進　搭載Android App魅力飆升
+原文: https://www.ectimes.org.tw/2017/01/google-chromebook%e5%a4%a7%e8%ba%8d%e9%80%b2%e3%80%80%e6%90%ad%e8%bc%89android-app%e9%ad%85%e5%8a%9b%e9%a3%86%e5%8d%87/
+記者／陳映慈
+
+Google於週一（1月23日）宣布，未來2017年或之後所有推出的新款Chromebook都能支援Android應用程式。而現在一些限定Chromebook機種的使用者，也能夠馬上獲得超過兩百萬個App支援，也讓Chromebook CP值更高，成為更多人的選擇。
+
+Chromebook為一款主要以google網路軟體為基礎運作的平價筆電，針對習慣使用例如Chrome瀏覽器、google雲端硬碟等工具的使用者而言更為簡便上手，但是過去Chromebook相較於Mindows筆電或是Mac，缺少支援的應用程式。而目前宏碁、華碩、AOpen、Dell、Haier、HP、Lenovo、Samsung與Toshiba等品牌只要更新到ChromeOS 53或以上的版本，就能在系統上啟用Google Play Store並下載Android程式。
+
+在過去，Android App在與Chromebook相容時遇到了許多技術或介面相斥的問題，而Chromebook雖然提供了品質不錯的硬體及便宜的售價，但卻在沒有連接網路時有所限制。然而現在，最新的「Nougat」系統中也有一些新功能能夠改善上述問題，更能讓這些App在筆電中能夠順利進行，也同時於Google Play中增加許多遊戲。
+
+而針對舊款的Chromebook使用者，雖然無法享用所有的App，但Google也保證，Chrome的操作系統更新週期將會長達五年，也能確保現有的App能夠持續獲得新功能的支援，其中舊款的Chromebook例如：ChromebookFlip，宏碁的Chromebook R11/C738T，以及Google自己的Chromebook Pixel 2將都會支持Android 應用程式。
+

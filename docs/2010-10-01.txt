@@ -1,0 +1,14 @@
+標題: 遭雙面夾殺　微軟宣告終止Windows Live Spaces
+原文: https://www.ectimes.org.tw/2010/10/%e9%81%ad%e9%9b%99%e9%9d%a2%e5%a4%be%e6%ae%ba%e3%80%80%e5%be%ae%e8%bb%9f%e5%ae%a3%e5%91%8a%e7%b5%82%e6%ad%a2windows-live-spaces/
+記者／林欣平不敵社群網站和微網誌的夾殺，微軟（Microsoft）日前宣佈，將在2011年3月終止部落格服務Windows Live Spaces，並建議此服務的三千萬用戶將資料移轉至Automattic公司旗下的WordPress.com部落格系統。Windows Live Spaces約在2006年底推出，微軟將眾多社交服務如網路硬碟、部落格、即時通訊狀態等集合在Live Spaces上，可說是微軟社交網路平台的基礎。但因為社交網站Facebook和微網誌Twitter等的興起，導致其人氣節節敗退，因此決定分成三階段漸進式關閉此服務。目前使用者登入Windows Live Spaces將可看到公告，使用者可自行選擇移轉至WordPress，或下載部落格的備份檔案，甚至也可刪除整個部落格。不過微軟表示，僅有文字、相片、影片及回應可被移轉，草稿、訪客留言和清單則會被移除，而備份也僅能保留已發佈的文章。微軟捨棄自家服務，改採和其他公司合作已不是第一次。之前微軟就關閉Soapbox肥皂盒影音平台，讓Windows Live Movie Maker使用者將檔案上傳至Facebook或YouTube；而在Windows Live相簿方面，使用者也可將相片張貼至Windows Live，或把相片直接貼到Facebook和Flickr。
+
+記者／林欣平
+
+不敵社群網站和微網誌的夾殺，微軟（Microsoft）日前宣佈，將在2011年3月終止部落格服務Windows Live Spaces，並建議此服務的三千萬用戶將資料移轉至Automattic公司旗下的WordPress.com部落格系統。
+
+Windows Live Spaces約在2006年底推出，微軟將眾多社交服務如網路硬碟、部落格、即時通訊狀態等集合在Live Spaces上，可說是微軟社交網路平台的基礎。但因為社交網站Facebook和微網誌Twitter等的興起，導致其人氣節節敗退，因此決定分成三階段漸進式關閉此服務。
+
+目前使用者登入Windows Live Spaces將可看到公告，使用者可自行選擇移轉至WordPress，或下載部落格的備份檔案，甚至也可刪除整個部落格。不過微軟表示，僅有文字、相片、影片及回應可被移轉，草稿、訪客留言和清單則會被移除，而備份也僅能保留已發佈的文章。
+
+微軟捨棄自家服務，改採和其他公司合作已不是第一次。之前微軟就關閉Soapbox肥皂盒影音平台，讓Windows Live Movie Maker使用者將檔案上傳至Facebook或YouTube；而在Windows Live相簿方面，使用者也可將相片張貼至Windows Live，或把相片直接貼到Facebook和Flickr。
+

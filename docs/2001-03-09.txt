@@ -1,0 +1,12 @@
+標題: NeckedWife病毒肆虐歐美
+原文: https://www.ectimes.org.tw/2001/03/neckedwife%e7%97%85%e6%af%92%e8%82%86%e8%99%90%e6%ad%90%e7%be%8e/
+記者／甘百瑩
+
+繼二月份的庫尼可娃病毒之後，新型電子郵件病毒NeckedWife在六日造成美國及歐洲許多公司的電腦慘遭損害。
+
+Necked Wife是特洛伊型病毒的變種之一，偽裝成名為「NeckedWife」的Flash電影檔，病毒的外觀是一封主題為Necked Wife的轉寄郵件，並夾帶一個名為NackedWife.exe的附加檔。病毒檔被開啟之後，病毒郵件會透過Outlook自動轉寄給通訊錄中的每一個人，此外，電腦中重要的程式檔也將遭到刪除或損壞。
+
+目前有數十家公司宣稱遭受Necked Wife病毒的感染，這些公司大部分分布在美國，其次是加拿大及歐洲，由於防毒軟體公司於六日當天下午就在網站上提供解毒程式，因此NeckedWife並沒有造成如梅麗莎或庫尼可娃病毒一樣嚴重的損害。
+
+多位網路安全專家正在追查Necked Wife的出處，部分專家相信最早發出的NeckedWife病毒信件來自巴西，一間名為AGF Brasil Seguros的公司中代號為MHSantos的使用者，但目前尚未找到確切的證據。
+

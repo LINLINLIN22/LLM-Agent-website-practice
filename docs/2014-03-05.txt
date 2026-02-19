@@ -1,0 +1,14 @@
+標題: iOS與汽車聯姻　Apple推出CarPlay車載系統
+原文: https://www.ectimes.org.tw/2014/03/ios%e8%88%87%e6%b1%bd%e8%bb%8a%e8%81%af%e5%a7%bb%e3%80%80apple%e6%8e%a8%e5%87%bacarplay%e8%bb%8a%e8%bc%89%e7%b3%bb%e7%b5%b1/
+記者／林姿岑
+
+Apple甫於去年WWDC( Apple Worldwide Developers Conference)中，發表iOS in the car相關技術，計畫進軍車用資訊領域。日前，Apple已於日內瓦車展宣布和多家汽車大廠共同推出iOS車載系統CarPlay，將iPhone與汽車緊密結合，透過方向盤按鍵或Siri語音，駕駛便能免視操作iPhone的服務與功能，兼具行車便利性與安全性。
+
+￭Control with a word,or a touch,or a twist.（圖／Apple官網）
+
+Apple表示，透過CarPlay將iPhone與汽車相接，Siri便成為駕駛的專屬祕書，能協助駕駛撥打電話、讀出和回覆訊息，並能利用聯絡資訊、Email、訊息或近期行程來預測行車目的地，提供行車導航。此外，駕駛也可透過CarPlay存取iPhone上的音樂、Podcast、iTunes收音機等，並支援Spotify、iHeartRadio等第三方影音應用軟體。
+
+目前，CarPlay搭載於新版iOS7，僅適用於配備Lightning連接埠的iPhone機種，包括iPhone5、iPhone5s和iPhone5c，暫無供iPad或iPod touch系列裝置使用之版本。Apple證實，除日內瓦車展中與CarPlay搭載亮相的Ferrai、Mersedes與Volvo車款外，BMW、Honda、Toyota等汽車大廠，也將陸續引進CarPlay系統。
+
+Apple引領車用整合消費性電子技術已逾十年，但多僅限於讓iPhone與iPod在車內音響系統撥放。CarpPlay系統推出，除了透露未來雲端軟體與服務的新商機，也顯露Apple和Google於聯網汽車時代的競爭態勢。目前，各大車廠皆腳踏兩條船，未來孰為聯網汽車時代的鉅子，仍有待觀察。
+

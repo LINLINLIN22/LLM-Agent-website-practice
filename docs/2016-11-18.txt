@@ -1,0 +1,16 @@
+標題: 在家就能環遊世界　Google Earth跨足虛擬實境
+原文: https://www.ectimes.org.tw/2016/11/%e5%9c%a8%e5%ae%b6%e5%b0%b1%e8%83%bd%e7%92%b0%e9%81%8a%e4%b8%96%e7%95%8c%e3%80%80google-earth%e8%b7%a8%e8%b6%b3%e8%99%9b%e6%93%ac%e5%af%a6%e5%a2%83/
+記者／雷勝雲
+
+Google於16日宣布正式推出Google Earth VR版本，讓使用者不需要離開家門一步，就能抵達世界各個角落，也讓使用者第一次能體驗走在真實的街頭，與飛越天際的視覺享受。Google Earth VR目前只先在HTC Vive上推出，提供用戶免費下載。
+
+■Google Earth VR已經在Stream上架。（截圖自／Stream）
+
+Google Earth從十年前開始提供服務，讓人們能夠探索地球是他們的發想動機，也確實帶來了看待世界的全新方式，而現在，Google Earth VR則是Google讓人們看見世界的下一步。Google Earth VR涵蓋了地球一億九千六百九十萬平方公里的面積，影像取自衛星拍攝，比起Google自家Cardboard與Daydream平台，使用的360度拍攝照片堆疊而成的影像相比，更具有真實感。
+
+■Google Earth VR使用畫面（截圖自／Stream）
+
+面對這麼大的範圍，如果你無法決定要從哪裡開始你的第一趟虛擬旅遊，Google也提供與電影結合的旅行，還有以經典的觀光景點作為目的地的行程，像是亞馬遜河、曼哈頓街頭、美國大峽谷與古羅馬遺跡，讓使用者挑選。但是Google Earth VR還無法選擇使用Google Sky的功能，未來若開放此功能，使用者就可以享受到太空旅遊帶來的驚奇體驗。
+
+Google表示Google Earth VR會陸續開放在更多的平台上，而日後若能和其他非VR的服務做結合，便能讓使用經驗更加豐富，例如Tour Builder，讓使用者可以建立自己的VR動態地圖，將自己設計的旅遊與朋友一起分享，甚至可以分享至社群媒體，邀請其他人共同製作一趟旅遊導覽。
+

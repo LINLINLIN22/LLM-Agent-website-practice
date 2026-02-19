@@ -1,0 +1,14 @@
+標題: Intel和Motorola加入行動電話產業處理器界面聯盟
+原文: https://www.ectimes.org.tw/2004/02/intel%e5%92%8cmotorola%e5%8a%a0%e5%85%a5%e8%a1%8c%e5%8b%95%e9%9b%bb%e8%a9%b1%e7%94%a2%e6%a5%ad%e8%99%95%e7%90%86%e5%99%a8%e7%95%8c%e9%9d%a2%e8%81%af%e7%9b%9f/
+記者／陳體勳
+
+全球最大晶片製造商Intel和第二大手機供應商Motorola加入了另外33家公司的行列，已同意參與去年7月成立的行動電話產業處理器界面聯盟(MIPI)。
+
+MIPI係由行動電話廠商Nokia和Texas Instruments、STMicroelectronics和ARM等三家主要晶片製造商發起的，旨在讓行動電話產業簡化新手機的設計方式。
+
+MIPI的四家創始成員表示，他們組建該一聯盟的目的是要促進更廣泛無線功能的開發，並防止業界任何一家公司主宰新一代手機市場。
+
+無線設備製造商希望能加快消費者對新一代手機的需求；新一代手機不僅能打電話，而且可執行上網和電腦功能。該聯盟的39個成員包括世界前六大手機製造商中的五家，以及前五大手機晶片廠商中的四家。
+
+其他成員包括荷蘭PhilipsElectronics、日本RenesasTechnologies、韓國SamsungElectronics、德國Siemens、日本東芝等公司。為中國市場生產手機影像和其他多媒體功能控制晶片的VIMicro也是聯盟成員。
+

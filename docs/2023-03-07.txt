@@ -1,0 +1,36 @@
+標題: Apple Watch無創測血糖的研發團隊   掌握著Apple的未來
+原文: https://www.ectimes.org.tw/2023/03/%e7%a0%94%e7%99%bcapple-watch%e7%84%a1%e5%89%b5%e6%b8%ac%e8%a1%80%e7%b3%96%e7%9a%84%e5%9c%98%e9%9a%8a-%e6%8e%8c%e6%8f%a1%e8%91%97apple%e7%9a%84%e6%9c%aa%e4%be%86/
+Apple Park可以說是Steve Jobs與Jony Ive一同打造的最大產品，並且也算是他們二者親歷合作的最後一件產品。Apple Park佔地71公頃，能夠容納12000名員工，除了我們在發布會中經常看到的Steve Jobs Theater（賈伯斯劇院）外，Apple Park還有著相當的辦公空間、研發實驗室、會議中心、餐廳和室外綠地等等設施。佔據如此大的面積，並且有著相當的職能，並且也秉承著可持續能源供電的理念，Apple Park也被人稱作是世界上最昂貴的公司總部。而猶如太空飛船般的設計風格，也是Apple對外界展示著無形的科技創造力。
+
+大概在某個時間點之前，對於外界來說，Apple的設計團隊是活躍在產品發布台前的明星，Jony Ive親情獻聲徐徐道出iPhone、iPad設計細節的淵源。之後，發布會台上的這個環節就換成了較為硬體的芯片研發團隊，晶片總設計師Johny Srouji架構工程師Tim Millet正在成為新的「明星」；轉變的時間點就在於Apple Silicon逐步成為一個生態壁壘，也逐步成為Apple正在依靠的獨特競爭力。Johny Srouji不止引領著Apple製作晶片，也是Apple XDG（Exploratory Design Group）這個神秘部門的領導者。在Johny Srouji之前，這個位置其實是Jony Ive，而這一系列的變化和轉變並非是巧合，其實是Apple的一個策略調整。
+
+Apple公司總部Apple Park。（圖片取自：Apple官網）
+
+XDG是Apple的X部門
+
+Apple XDG（Exploratory Design Group探索性設計團隊），在上週爆出取得無創血糖監測技術突破之前，應該還是被Apple隱藏的夠深的部門；眾所周知，Apple一向對產品、未來的規劃以及內部團隊的一些職能三緘其口。即便Apple Park有著相當大的佔地面積，也有著相當的員工數量，其實我們對於Apple內部的運作方式和相關產品團隊了解的並不多。
+
+按照英文全稱縮寫的話，XDG其實應該叫做EDG，但縮寫取用了X也有著對未知未來無限探索的意味。它的存在，其實與大眾所熟知的Google X（現在是Alphabet X）實驗室比較類似，Google X 實驗室並沒有局限於一個領域或者說當下的熱點，有點像是將頂級工程師天馬行空的點子，轉變成現實的Project、產品或者服務。改變世界，改變人類生活便是X實驗室的目標，有沒有商業價值則並不是第一選擇；到目前為止，Google X實驗室推出了Google Glass，著力於Waymo自動駕駛，Project Loon空中熱氣球無線基地台項目等等。
+
+而Apple成立XDG的目標也是探索，著力在電池、下一代顯示技術、無線充電，晶片、人工智慧等等。近期爆出的無創血糖監測，只是XDG研究中的一個領域。在這之前，孵化於XDG當中的技術，像是Mac裡面的T晶片、iPhone中的MagSafe以及Apple Watch均已經成功推向了消費級市場。同時，AR/VR頭盔和眼鏡也是由XDG主導，XDG的項目正在成為未來Apple重要的一枚棋子。
+
+保持獨立運作，不設限
+
+記得Apple在重塑MacBook Pro前，為了符合Pro用戶群的工作習慣，特意成立了Pro Workflow團隊來提供意見。並讓製作晶片團隊、設計團隊、硬體團隊一同協作，從頭開始打造產品，溝通交流協作是造就更務實產品的前提；後續的iPhone 14 Pro系列上的動態島方案，實則也是軟硬體部門一同協作出的結果。
+
+不過Apple XDG團隊卻恰好相反，不光是團隊內部的項目組保持相對獨立，甚至工程師不得與其他項目成員交流，對外他們也並不會與其他團隊產生交集。保持絕對的獨立運作，只為了一個目的，就是確定那些奇怪的想法是否可行。XDG內部並沒有所謂的Deadline和預算限制，並且為每個項目提供了足夠的資源。大概也正是如此，Apple XDG團隊也跟初創團隊有些類似，人員結構十分精簡只有百十來人，多數是工程師和科學家。
+
+科技媒體記者Mark Gurman也透露，XDG團隊中包括了Apple頂級工程師傑Jeff Koller、Dave Simon、Heather Sullens、Bryan Raines和Jared Zerbe。其中，Koller、Simon、Sullens著手於血糖監測項目，而後面兩位則參與管理其他項目小組；XDG內的人員並不像是Apple其他團隊是以產品為導向，並由此集結工程師，而是以不同的技能來組合，如此一來，在任一項目裡都可以自由組合工程師不必糾結於常規的搭配，當XDG團隊驗證那些想法能夠落實之後，Apple會將新技術轉移到相應部門並由軟硬體團隊協作，最終呈現在相關產品當中。
+
+形象面來說，Apple XDG更像一個Apple智囊團的角色，提出想法並做驗證。Apple曾由被Steve Jobs和Tim Cook視為Apple最聰明的頂級工程師Bill Athas領導，被工程師界的最強大腦領導的團隊可謂是最強部門了。
+
+被稱為Apple神秘部門之一的Avolonte Health （圖片取自：Google街景）
+
+從設計到技術
+
+無創血糖技術的理念，能夠深究到Steve Jobs生病時Apple在科技醫療上的佈局，陸續收購了RareLight和Avolonte Health。後續Avolonte Health也逐步演變成為Apple XDG 的前身。再到後來由Apple首席設計師Jony Ive主導，並從中獲取了Apple Watch的靈感，並讓它推向市場。
+
+這個時期XDG仍然有點偏向於產品，Apple Watch、AirPods皆是如此。這些獨特產品的出現，首先帶來的是不同的設計，包括硬體、軟體人機交互帶來的新鮮感；其次才是背後的技術運用，Apple Watch、AirPods等產品憑藉底層晶片組成了Apple生態。
+
+在Apple主動提出Apple Silicon這個關鍵點前，Apple給予外界的印象或者說是競爭力就是溢出的設計力，但隨著Apple Silicon宇宙成為現實，將一個個單獨的產品串聯起來，編織成了一張生態網，Apple也回歸到內部技術為核心的競爭當中。此時Apple的產品開始以晶片打造的產品體係作為競爭力，而作為大腦XDG也開始著重於那些更原始的核心技術。
+

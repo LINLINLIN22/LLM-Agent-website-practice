@@ -1,0 +1,12 @@
+標題: 被 YouTube 抓到了！　廣告遮蔽器恐將無法使用
+原文: https://www.ectimes.org.tw/2023/07/%e8%a2%abyoutube%e6%8a%93%e5%88%b0%e4%ba%86%ef%bc%81%e3%80%80%e5%bb%a3%e5%91%8a%e9%81%ae%e8%94%bd%e5%99%a8%e6%81%90%e5%b0%87%e7%84%a1%e6%b3%95%e4%bd%bf%e7%94%a8/
+近幾年，YouTube使用體驗有很大的改變，最讓人感同身受的則是廣告數量大幅增加。除了購買YouTube Premium以外，許多使用者會利用Google 擴充程式Ad blocker（廣告遮蔽器）等方式，來擋住影片中的廣告。但是，根據外媒BLEEPINGCOMPUTER報導，YouTube 正在執行一場「全球小實驗」，廣告遮蔽器恐將無法繼續使用。
+
+￭YouTube正在執行一場「全球小實驗」，Ad blocker（廣告遮蔽器）恐將無法再繼續使用。（圖片來源 /Leon BublitzonUnsplash）
+
+有一位Reddit使用者發布貼文表示，YouTube 現在會顯示一個視窗寫著「Video player will be blocked after 3 videos.」（影片播放器將在播放3支影片後被封鎖），下方說明欄則補充表示，使用者可能正在使用廣告遮蔽器，除非移除廣告遮蔽器，否則播放器將會被封鎖，若想要體驗無廣告服務，可以訂閱 YouTube Premium。
+
+YouTube 證實，這些警報的確是小規模實驗測試的一部份，此舉為督促使用者允許並接受 YouTube 上的廣告投放，或刺激使用者訂閱 YouTube Premium。倘若使用者持續無視這些警告，YouTube 不排除採取嚴格措施規範使用者行為。
+
+YouTube 表示廣告收入為全球數十億人提供免費的影音服務。日前，YouTube 2023 第一季財報顯示，該期的廣告收入相較於去年下滑 2.6%，且下滑趨勢已持續三個季度。因此，打擊廣告遮蔽器在未來恐將嚴格執行，目前已有許多使用者感到不滿意，這些抱怨也正是 YouTube 面臨的課題之一。
+

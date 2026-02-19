@@ -1,0 +1,14 @@
+標題: Opera琵琶別抱　新瀏覽器採Webkit引擎
+原文: https://www.ectimes.org.tw/2013/02/opera%e7%90%b5%e7%90%b6%e5%88%a5%e6%8a%b1%e3%80%80%e6%96%b0%e7%80%8f%e8%a6%bd%e5%99%a8%e6%8e%a1webkit%e5%bc%95%e6%93%8e/
+記者／吳宇翔日前根據知名瀏覽器Opera的官方統計，其使用者已突破三億人，Opera同時也宣布將使用Webkit作為日後開發瀏覽器的引擎。Opera表示，智慧型手機以及電腦的新版瀏覽器將陸續採用Webkit引擎，此舉也被外界視為Opera展現對行動瀏覽器市場的野心。Webkit是一套開發網路瀏覽器的排版引擎，目前市占率第一，主要使用於AppleSafari與GoogleChrome瀏覽器，其特色是速度快以及跨平台表現穩定。Pocket-lint一月曾報導本月推出的行動瀏覽器Opera Ice將放棄自家的Presto引擎，並採用Webkit引擎開發，如今消息已獲得官方證實。為何Opera放棄自家的Presto而改用Webkit？Opera的技術總監Håkon Wium Lie 表示，Webkit發展至今，已成為一套成熟的開發引擎，Opera樂意協助Webkit更上層樓，而在其運作下的瀏覽器可以有更令人期待的表現，有助於未來產品的開發。 Opera開發人員之一的Bruce Lawson評論，與1995年Opera剛成立時相比，現今的瀏覽器間相容性更高，對於Opera而言是個跨足至Webkit的成熟時機。Opera改採Webkit的消息並不令人意外，即將推出的Opera Ice也將正面迎戰Apple與Google的行動瀏覽器，但無論日後行動瀏覽市場勢力如何消長，最終的受惠者都會是廣大的使用者，因為未來的行動瀏覽經驗肯定會比現在更加快速，也更加穩定。
+
+記者／吳宇翔
+
+日前根據知名瀏覽器Opera的官方統計，其使用者已突破三億人，Opera同時也宣布將使用Webkit作為日後開發瀏覽器的引擎。Opera表示，智慧型手機以及電腦的新版瀏覽器將陸續採用Webkit引擎，此舉也被外界視為Opera展現對行動瀏覽器市場的野心。
+
+Webkit是一套開發網路瀏覽器的排版引擎，目前市占率第一，主要使用於AppleSafari與GoogleChrome瀏覽器，其特色是速度快以及跨平台表現穩定。Pocket-lint一月曾報導本月推出的行動瀏覽器Opera Ice將放棄自家的Presto引擎，並採用Webkit引擎開發，如今消息已獲得官方證實。
+
+為何Opera放棄自家的Presto而改用Webkit？Opera的技術總監Håkon Wium Lie 表示，Webkit發展至今，已成為一套成熟的開發引擎，Opera樂意協助Webkit更上層樓，而在其運作下的瀏覽器可以有更令人期待的表現，有助於未來產品的開發。 Opera開發人員之一的Bruce Lawson評論，與1995年Opera剛成立時相比，現今的瀏覽器間相容性更高，對於Opera而言是個跨足至Webkit的成熟時機。
+
+Opera改採Webkit的消息並不令人意外，即將推出的Opera Ice也將正面迎戰Apple與Google的行動瀏覽器，但無論日後行動瀏覽市場勢力如何消長，最終的受惠者都會是廣大的使用者，因為未來的行動瀏覽經驗肯定會比現在更加快速，也更加穩定。
+

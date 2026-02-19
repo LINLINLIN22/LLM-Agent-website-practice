@@ -1,0 +1,14 @@
+標題: Google Assistant與Android Messages整合　加速訊息傳遞
+原文: https://www.ectimes.org.tw/2019/02/google-assistant%e8%88%87android-messages%e6%95%b4%e5%90%88%e3%80%80%e5%8a%a0%e9%80%9f%e8%a8%8a%e6%81%af%e5%82%b3%e9%81%9e/
+記者／劉嘉馨
+
+Google宣布將在Android Messages當中整合旗下的智慧語音助理GoogleAssistant，用戶將可透過Google Assistant獨立按鍵的設計，作為傳訊息時的好幫手。
+
+GoogleAssistant將提供用戶與好友傳訊同時，快速以視窗下的Google Assistant按鍵搜尋餐廳、電影或YouTube預告片等相關資訊，且同時亦可以將搜尋結果以訊息形式回傳與友人分享，又或者針對對話提供建議，例如提到某間餐廳，即會跳出相關地點、電話、營業時間等資訊，用戶不再需要跳出視窗進行這些搜尋行為。
+
+￭Google強調GoogleAssistant不會紀錄私人訊息，因此可以排除隱私洩露疑慮。（截圖自／Google官網）
+
+相較過去需長按實體或虛擬的Home鍵，獨立按鍵設計的GoogleAssistant給予用戶更多使用上的彈性，透過單按一下是呼叫Google Assistant，而連按兩下是顯示當天的資訊快訊，長按則是如同Siri，與Google Assistant進行對話。目前Android平台中的MessagesApp，除了SMS、MMS訊息，亦可透過網頁版本使用，然而將先整合於英文版本的Google Assistant，而後應用於Android Messages當中。
+
+繼年初Google才將GoogleAssistant 應用於Google Maps，讓駕駛能夠以語音呼叫的方式尋求協助，譬如傳送或讀取訊息、進行通話或播放音樂等。此次Google落實「GoogleAssistant Everywhere」政策，估算將約有超過1億支Android手機內建此智慧助理功能，爭取趕上Amazon Alexa在市場上的規模與地位。
+

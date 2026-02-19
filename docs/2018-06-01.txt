@@ -1,0 +1,14 @@
+標題: 進軍智慧家居市場　俄羅斯Yandex推出智慧喇叭
+原文: https://www.ectimes.org.tw/2018/06/%e9%80%b2%e8%bb%8d%e6%99%ba%e6%85%a7%e5%ae%b6%e5%b1%85%e5%b8%82%e5%a0%b4%e3%80%80%e4%bf%84%e7%be%85%e6%96%afyandex%e6%8e%a8%e5%87%ba%e6%99%ba%e6%85%a7%e5%96%87%e5%8f%ad/
+記者／高銘檀
+
+世界第五大搜索引擎俄羅斯Yandex本週宣佈進軍智慧家居硬體市場，推出俄羅斯首款智能喇叭Yandex Station，瞄準Google Home、AmazonEcho等熱門產品。Yandex Station搭載了Yandex的AI語音助手，并支援Yandex旗下的多項服務。
+
+Yandex Station是面向俄羅斯設計的智慧音箱，上面搭載了名為Alice的俄語人工智慧語音助手。Yandex Alice去年10月正式推出，首先搭載在手機上，擁有超過4,000項技能，比如語音健身教練、訂購披薩、播放電視節目等。研發至今，Alice已經可以做到貼近人類自然語言辨識的精準程度，甚至承接上下文的語意，繼續發問。
+
+硬體條件上，Yandex Station配備了10w高音喇叭揚聲器和30w的低音驅動器，保證了音頻輸出的質量。還具有7個陣列式麥克風，確保設備能夠收集到房間內任何地方的語音命令。Yandex Station可當做藍牙喇叭使用，不需綁定支援的音樂串流服務。Yandex Station配置了HDMI輸出端口連接智慧電視，可以被視作電視盒子來輸出影視內容。會有如此設計，是因為Yandex擁有自家KinoPoisk頻道，也支援Amediateka的影音服務。
+
+￭ Yandex進軍智慧家電市場推出智慧喇叭Yandex Station。（截圖自／Yandex）
+
+Yandex Station預計於今年夏天上市，售價9990盧布（160美元）。購買這款智慧喇叭的人能夠獲得Yandex Plus一年的免費訂閱。Yandex Plus與Amazon Prime會員服務類似，用戶可以免費使用Yandex的音樂服務，在KinoPoisk觀看無廣告視頻，在打車服務上也能享受折扣。
+

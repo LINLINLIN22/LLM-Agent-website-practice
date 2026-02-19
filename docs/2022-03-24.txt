@@ -1,0 +1,12 @@
+標題: Google Cloud 與 VMware 合作加速企業雲端轉型
+原文: https://www.ectimes.org.tw/2022/03/%e5%8a%a0%e9%80%9f%e4%bc%81%e6%a5%ad%e9%9b%b2%e7%ab%af%e6%95%b8%e4%bd%8d%e8%bd%89%e5%9e%8b%ef%bc%8cgoogle-cloud-%e6%93%b4%e5%a4%a7%e8%88%87-vmware-%e5%85%a8%e7%90%83%e5%90%88%e4%bd%9c/
+Google Cloud與美國雲端運算和硬體虛擬化公司VMware近日宣布擴大合作，協助企業雲端轉型與應用程式現代化。用戶可訂閱 VMware Cloud Universal 服務來使用Google Cloud VMware Engine。Google Cloud VMware Engine 為用戶提供便捷的應用程式搬遷方式，用戶無須對應用程式或工作做任何更動，便能夠在 1 個小時以內將 VMware 應用程式遷移至雲端中。
+
+￭ 用戶可訂閱 VMware Cloud Universal 服務來使用Google Cloud VMware Engine。（截圖來源 /VMware 官方網站）
+
+Google Cloud VMware Engine 與 VMware Cloud Universal 整合，企業用戶就能同時使用 Google Cloud VMware Engine 和VMware Cross-Cloud的跨雲服務。在雲端裡，用戶可建立混合應用程式，為業務提升更高的敏捷性，並以安全的方式使用 Google 服務，例如：雲端資料倉儲系統BigQuery、雲端檔案的災難復原、備份和儲存等。
+
+Google Cloud 和 VMware 整合後，與本地環境相比，不僅為企業節省 38% 的平均總體擁有成本，平均年度成本也減少 200 萬美金以上。此外，使用 VMware 和 Google Cloud 工具可省下 11.5 美元的人力成本，並實現 100 Gbps 東西向專用網路，且正常運行時間高達 99.99% 的高度可用性。
+
+Google Cloud 全球生態系部門副總裁 Kevin Ichhpurani 表示，透過與 VMware 合作，企業可更容易的將 VMware 的相關應用程式遷移至 Google Cloud 這個可靠又高效能的基礎架構上。VMware 策略生態系與產業解決方案資深副總裁 Zia Yusuf 表示，持續協助客戶推動應用程式、雲端現代化策略、及建立分散式工作團隊，是 VMware 和 Google Cloud 長期合作的基礎。
+

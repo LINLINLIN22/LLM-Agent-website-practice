@@ -1,0 +1,14 @@
+標題: Google發表「Stadia」平台　進軍串流遊戲市場
+原文: https://www.ectimes.org.tw/2019/03/google%e7%99%bc%e8%a1%a8%e3%80%8cstadia%e3%80%8d%e5%b9%b3%e5%8f%b0%e3%80%80%e9%80%b2%e8%bb%8d%e4%b8%b2%e6%b5%81%e9%81%8a%e6%88%b2%e5%b8%82%e5%a0%b4/
+記者／謝宗憲
+
+Google於20日在GDC遊戲開發者大會宣布，即將推出備受矚目的雲端遊戲串流服務「Stadia」，透過Google在世界各地的數據中心，以訂閱形式提供玩家在任何平台上遊玩3A大作，將線上遊戲帶到既有連網裝置上，包括手機、平板、電視以及電腦，讓玩家能在幾乎不需額外硬體之下，可以隨時隨地上線。
+
+￭ Google也會推出使用Wi-Fi連接遊戲的Stadia專用控制器。（截圖自／Google Blog）
+
+在2018年內，Google旗下影音服務YouTube的遊戲相關影片總共被觀看近500億小時，包括遊戲預告、實況、攻略學習等，儼然成為Stadia的最佳夥伴，因此Google設計「Crowd Play」功能，透過Stadia讓用戶在YouTube看到有興趣的遊戲過程的影片時，就能點選「立即遊玩」（Play now）連結，直接與實況主一起參與遊戲。
+
+此外，為了替所有玩家打造遊戲平台，Google也建立自家的遊戲工作室「Stadia Games and Entertainment」，並由原《刺客教條》製作人 Jade Raymond 擔任工作室主管，開發自家遊戲。在第三方遊戲內容方面，目前Google已經提供超過100家遊戲工作室Stadia的開發者套件，更著手將現行遊戲作品「移植」到Stadia，未來都會在Stadia平台上架。
+
+Stadia預計於2019年推出，最初會在美國、加拿大、英國和歐洲登場，首發遊戲將為Doom Eternal，屆時會同時上架Stadia、任天堂Switch、PS4，以及Xbox One等，至於遊戲內容和更多細節將於今夏發表，然而不只Google，其他單機遊戲廠商，也逐漸向串流遊戲平台邁進，像是Microsoft正在發展xCloud平台，而Nvidia、Sony也已經推出網路串流遊戲，電商Amazon則傳出正在開發類似的服務。
+

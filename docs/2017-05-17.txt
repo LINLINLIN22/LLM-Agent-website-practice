@@ -1,0 +1,14 @@
+標題: Anything new?　Google I/O 2017告訴你
+原文: https://www.ectimes.org.tw/2017/05/anything-new%e3%80%80google-i-o-2017%e5%91%8a%e8%a8%b4%e4%bd%a0/
+記者／陳映慈
+
+今年Google I/O會議將於美國時間5月17～19日於美國加州山景城的海岸線圓形劇場（Shoreline Amphitheater）舉行。這次Google將會在這次公佈下一波Android O作業系統的相關訊息。其中Google已於今年的3月21日提前釋出Android O的開發者預覽版本，相較於上一代除了改進了原先的系統設定，還多了畫中畫、通知頻道（Notification Channels）等功能。
+
+￭Google I/O會議為一年一度的網絡開發者盛會，主要討論以Google和開放網絡應用。（圖/源自Google I/O 2017）
+
+Google I/O會議為一年一度的網絡開發者盛會，討論的重點是用Google和開放網絡應用。而此次I/O大會上Google將會更詳細的介紹Android O的更新，其中值得注意的是，Android O的正式名稱是根據Google Android系統的命名原則，所以依舊會以糖果或甜點為名，目前外媒猜測會是叫Oreo或Oatmeal cookie。
+
+除了Android O的發表，今年的Google I/O會議還會公佈Google Home相關開發的進度，包括其應用以及服務。而Google去年也曾在I/O會議推出名為Daydream的行動VR平台，期望與智慧型手機結合成行動VR頭盔，因此今年的I/O會議依舊會將焦點放在介VR和AR的展望以及未來可行方向。
+
+從科技以及社會的整體發展看來，Google I/O會議將依然著重於「AI First」的策略，可以看出「Mobile First」已不再是發展重心，由於整體行動網路的發展已達成熟期，相較而言人工智慧的角色更為關鍵，而一般消費者所關心的Android作業系統於近期內可能難有太大突破。
+

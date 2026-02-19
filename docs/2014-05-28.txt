@@ -1,0 +1,14 @@
+標題: 迎戰物聯網時代　Apple傳發表Smart home platform
+原文: https://www.ectimes.org.tw/2014/05/%e8%bf%8e%e6%88%b0%e7%89%a9%e8%81%af%e7%b6%b2%e6%99%82%e4%bb%a3%e3%80%80apple%e5%82%b3%e7%99%bc%e8%a1%a8smart-home-platform/
+記者／林姿岑
+
+據Financial Times報導，Apple將於台灣時間6月3日凌晨舉辦WWDC全球軟體開發者年會，發表全方位居家設備「智慧家庭平台」(Smart home platform)，將iPhone、iPad與Apple TV轉變成家電用品或保全系統的遙控器，以在「物聯網」市場中迎戰Google、Samsung等主要競爭對手。
+
+￭Apple傳於WWDC發表Smart home platform。（圖／Apple Developer）
+
+隨著智慧型手機市場銷售成長趨緩後，自動化居家設備開始被視為下一個科技發展的新疆界，如Google於今年1月併購居家自動化恆溫器與煙霧警報器製造商Nest Labs、Samsung也於近期推出冰箱、電視等一系列智慧家電。而Apple為與對手相抗衡，除了推出iOS Carplay系統加入汽車市場戰局外，也於去年獲得多項Smart Home相關專利，準備進軍智慧家居市場。
+
+該報導指出，Apple的「智慧家庭平台」可能會透過智慧整合操作系統，利用iPhone、iPad與Apple TV等iOS裝置來控制其他家居設備，例如透過無線訊號感應，自動開啟使用者家中的客廳電燈，或是從遠端調控家中的溫度設定等，如此更能吸引消費者購買iOS系列產品，發揮綜效。
+
+雖然在Apple發展智慧家庭平台前，已有許多廠商自行研發出相關產品，如PhilipsHue燈泡、Dropcam無線攝影機等，但Apple總要搶回自身專屬技術，據傳Apple欲透過iBeacon技術整合家居產品，且目前已與多家第三方家電業者討論合作事宜，未來經過認證的智慧家電將貼上「Made for iPhone」標籤，透過Apple零售通路進行販售，至於確切情況為何，只能等WWDC揭曉了！
+

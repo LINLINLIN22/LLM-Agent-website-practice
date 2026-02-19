@@ -1,0 +1,18 @@
+標題: 手機市場角力戰　Android不只想玩手機
+原文: https://www.ectimes.org.tw/2011/02/%e6%89%8b%e6%a9%9f%e5%b8%82%e5%a0%b4%e8%a7%92%e5%8a%9b%e6%88%b0%e3%80%80android%e4%b8%8d%e5%8f%aa%e6%83%b3%e7%8e%a9%e6%89%8b%e6%a9%9f/
+記者／林倩如2011年2月8日，根據市調公司comScore調查，GoogleAndroid在智慧型手機平台的排名已超越Apple，在美國也僅次於Blackberry，成為全美第二大。根據資料顯示，至2010年底，全美擁有智慧型手機人次為6,320萬人，較前一年成長60％，而目前排名第二的Google Android手機系統，去年九月時市占率為21.4％，12月底已成長為28.7％，成長相當快速。Android智慧型手機系統為Google於2007年所推出，其架構早期由Google規劃，之後再與T-Mobile、HTC、Qualcomm、Motorola等手機大廠，透過Open HandsetAlliance合作推出，它與以往各大手機廠各自研發的Linux系統最大不同為開放原始碼，意即可讓一般大眾也可輕易的開發各式各樣軟體，另外，也可搭配Google的服務功能，使得Android作業系統在短短的時間之內竄起。面對Apple公司推出的App store，Google也推出了有同樣功能的Android Market，使用電腦網頁介面，所有的分類清晰可見，讓使用者可以更快的搜尋到適合的軟體。與App Store最不同的地方在於，下載軟體時並不需要透過任何連接線或者軟體同步的程序，直接點選安裝選項，就可以下載至被指定的手機。根據專門替Android Market進行分類、排序及提供搜尋服務的AndroLib表示，目前在Android Market上的應用程式已達一萬個，未來也會持續增加。2008年底，Google選擇與宏達電推出全球首款Android手機G1，及Google自有品牌手機Nexus One，宏達電一直都是Android平台技術與出貨量的龍頭。但去年，Google有了新歡，與三星合作推出Google第二款自有品牌手機Nexus S，也因為搭載同樣Android系統的Galaxy S熱賣，下半年就取代宏達電為出貨量大宗。另外，Motorola與LG也在產品設計與功能上，也極力縮小與宏達電之間的差距。Android不只是限於手機平台上的運用，在今年的巴塞隆納行動通訊展上，與Sony推出了型似PSP GO掌上機的Xperia Play，是首支經過PlayStation認證搭載Android系統的智慧型手機，三月也將推出50款的遊戲軟體。另外，三星還推出10.1吋平板電腦。瑞士日內瓦指標創投公司Index Venture的合夥人Mike Volpi表示，雖然目前Windows在個人電腦市佔率高達九成，但Android會是下一個Windows，幾年後可攻佔全球65％的智慧型手機、平板電腦、電子書閱讀器。新加坡研究公司Canalys估計，去年第四季出貨的智慧型手機中，Android市占率為33％；顧問公司Strategy Analytics亦表示，Android在平板電腦的市占率也有20％左右。也因為Android在智慧型或者低階手機上都可使用，隨著中國和印度兩大新興經濟體的眾多消費者購買，Android的市占率將會領先其他作業系統。
+
+記者／林倩如
+
+2011年2月8日，根據市調公司comScore調查，GoogleAndroid在智慧型手機平台的排名已超越Apple，在美國也僅次於Blackberry，成為全美第二大。根據資料顯示，至2010年底，全美擁有智慧型手機人次為6,320萬人，較前一年成長60％，而目前排名第二的Google Android手機系統，去年九月時市占率為21.4％，12月底已成長為28.7％，成長相當快速。
+
+Android智慧型手機系統為Google於2007年所推出，其架構早期由Google規劃，之後再與T-Mobile、HTC、Qualcomm、Motorola等手機大廠，透過Open HandsetAlliance合作推出，它與以往各大手機廠各自研發的Linux系統最大不同為開放原始碼，意即可讓一般大眾也可輕易的開發各式各樣軟體，另外，也可搭配Google的服務功能，使得Android作業系統在短短的時間之內竄起。
+
+面對Apple公司推出的App store，Google也推出了有同樣功能的Android Market，使用電腦網頁介面，所有的分類清晰可見，讓使用者可以更快的搜尋到適合的軟體。與App Store最不同的地方在於，下載軟體時並不需要透過任何連接線或者軟體同步的程序，直接點選安裝選項，就可以下載至被指定的手機。根據專門替Android Market進行分類、排序及提供搜尋服務的AndroLib表示，目前在Android Market上的應用程式已達一萬個，未來也會持續增加。
+
+2008年底，Google選擇與宏達電推出全球首款Android手機G1，及Google自有品牌手機Nexus One，宏達電一直都是Android平台技術與出貨量的龍頭。但去年，Google有了新歡，與三星合作推出Google第二款自有品牌手機Nexus S，也因為搭載同樣Android系統的Galaxy S熱賣，下半年就取代宏達電為出貨量大宗。另外，Motorola與LG也在產品設計與功能上，也極力縮小與宏達電之間的差距。
+
+Android不只是限於手機平台上的運用，在今年的巴塞隆納行動通訊展上，與Sony推出了型似PSP GO掌上機的Xperia Play，是首支經過PlayStation認證搭載Android系統的智慧型手機，三月也將推出50款的遊戲軟體。另外，三星還推出10.1吋平板電腦。
+
+瑞士日內瓦指標創投公司Index Venture的合夥人Mike Volpi表示，雖然目前Windows在個人電腦市佔率高達九成，但Android會是下一個Windows，幾年後可攻佔全球65％的智慧型手機、平板電腦、電子書閱讀器。新加坡研究公司Canalys估計，去年第四季出貨的智慧型手機中，Android市占率為33％；顧問公司Strategy Analytics亦表示，Android在平板電腦的市占率也有20％左右。也因為Android在智慧型或者低階手機上都可使用，隨著中國和印度兩大新興經濟體的眾多消費者購買，Android的市占率將會領先其他作業系統。
+

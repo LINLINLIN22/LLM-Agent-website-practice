@@ -1,0 +1,14 @@
+標題: Chromebook來了！　Google筆電推上雲端
+原文: https://www.ectimes.org.tw/2011/05/chromebook%e4%be%86%e4%ba%86%ef%bc%81%e3%80%80google%e7%ad%86%e9%9b%bb%e6%8e%a8%e4%b8%8a%e9%9b%b2%e7%ab%af/
+記者／莊郁茹Google於舊金山舉行的I/O開發者大會第二天，正式推出搭載Chrome OS的小筆電「Chromebook」。由Samsung所推出的Chromebook「Series 5」WiFi版與3G版訂價分別為429與499美元，AcerChromebook WiFi版則為349元美金，預定於6月15日在美國與歐洲部分國家上市。Chromebook以Chrome瀏覽器作為雲端存取的通道，筆電本身沒有硬碟，可透過USB插槽連接外部儲存裝置，更具有8秒快速開機與長效電力等特性。透過Chrome OS系統，使用者可以Chrome Sync進行檔案同步更新，即使電腦損壞也可透過雲端存取檔案，另可安裝App擴充Picasa相簿、Google Music beta等功能。此外，Google亦宣布將推出學生與企業的Chromebook出租方案，費用分別為每月20美元與每月28美元。Google將提供採用出租方案的使用者Chromebook與硬體維修、更換服務，以及Gmail、Google Calendar與Google Docs等網路應用套裝軟體。目前Chromebook預計在6月15日於美國、英國、法國、義大利與西班牙等國上市，另可由Amazon、Best Buy網站線上購買。而線上應用程式商店「Chrome Web Store」，也將由美國境內地區向全球開放。Google於軟體與硬體的佈局，與強佔作業系統市場的微軟與蘋果互別苗頭，也使雲端商機的未來發展值得期待。
+
+記者／莊郁茹
+
+Google於舊金山舉行的I/O開發者大會第二天，正式推出搭載Chrome OS的小筆電「Chromebook」。由Samsung所推出的Chromebook「Series 5」WiFi版與3G版訂價分別為429與499美元，AcerChromebook WiFi版則為349元美金，預定於6月15日在美國與歐洲部分國家上市。
+
+Chromebook以Chrome瀏覽器作為雲端存取的通道，筆電本身沒有硬碟，可透過USB插槽連接外部儲存裝置，更具有8秒快速開機與長效電力等特性。透過Chrome OS系統，使用者可以Chrome Sync進行檔案同步更新，即使電腦損壞也可透過雲端存取檔案，另可安裝App擴充Picasa相簿、Google Music beta等功能。
+
+此外，Google亦宣布將推出學生與企業的Chromebook出租方案，費用分別為每月20美元與每月28美元。Google將提供採用出租方案的使用者Chromebook與硬體維修、更換服務，以及Gmail、Google Calendar與Google Docs等網路應用套裝軟體。
+
+目前Chromebook預計在6月15日於美國、英國、法國、義大利與西班牙等國上市，另可由Amazon、Best Buy網站線上購買。而線上應用程式商店「Chrome Web Store」，也將由美國境內地區向全球開放。Google於軟體與硬體的佈局，與強佔作業系統市場的微軟與蘋果互別苗頭，也使雲端商機的未來發展值得期待。
+

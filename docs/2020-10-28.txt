@@ -1,0 +1,12 @@
+標題: Facebook推出雲端遊戲　展現互動式的行銷
+原文: https://www.ectimes.org.tw/2020/10/facebook%e6%8e%a8%e5%87%ba%e9%9b%b2%e7%ab%af%e9%81%8a%e6%88%b2%e3%80%80%e5%b1%95%e7%8f%be%e4%ba%92%e5%8b%95%e5%bc%8f%e7%9a%84%e8%a1%8c%e9%8a%b7/
+Facebook自10月26日起，推出「Facebook Gaming」的雲端遊戲服務，此服務並非以獨立的遊戲APP推出，而是整合在原先的Facebook應用程式中，無需安裝檔案，且為免費使用。目前僅在美國部分地區上線，並支援Android作業系統以及網頁版；雖然遊戲數量不多，未來將推出更多選擇，並預計在2021年進軍其他國家。
+
+￭ Facebook gaming遊戲畫面（截圖自/Facebook gaming）
+
+官方首批釋出的遊戲有賽車《Asphalt 9: Legends》、角色扮演遊戲《Mobile Legends: Adventure》、高爾夫《PGA TOUR Golf Shootout》、接龍《Solitaire: Arthur’s Tale》，以及卡牌格鬥遊戲《WWE SuperCard》五款遊戲。
+
+許多科技巨頭也陸續推出自家的雲端串流遊戲，如Google的Stadia、微軟的XCloud與亞馬遜的Luna，都爭相亮相。與這些業者的付費訂閱模式相比，Facebook gaming並不向玩家收取費用，而是透過廣告收益來確保獲利。Facebook表示使用者只要點擊廣告就能開始遊戲，用遊戲來展現互動式的行銷，將消弭廣告與遊戲間界線，帶來更好地體驗。
+
+Facebook特別提到，雲端遊戲服務暫時不支援IOS版本。礙於Apple公司本身對於雲端遊戲違反App Store政策為由，禁止市面上各家雲端遊戲服務在IOS系統上線，這也使得iPhone 及 iPad的使用者目前暫時無法享受這些雲端串流的體驗。
+

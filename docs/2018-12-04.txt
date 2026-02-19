@@ -1,0 +1,14 @@
+標題: 亞馬遜AWS佈局 高峰會推雲端新服務
+原文: https://www.ectimes.org.tw/2018/12/%e4%ba%9e%e9%a6%ac%e9%81%9caws%e4%bd%88%e5%b1%80-%e9%ab%98%e5%b3%b0%e6%9c%83%e6%8e%a8%e9%9b%b2%e7%ab%af%e6%96%b0%e6%9c%8d%e5%8b%99/
+記者／張思誼
+
+亞馬遜 (Amazon)旗下雲端服務商AWS全球高峰會re:Invent11月30日於拉斯維加斯落幕。AWS宣稱將會推出超過20款新雲端服務，此次會議的發表主軸著重於機器學習、混合雲、以及區塊鏈三領域，除了持續優化舊產品的功能，即將問世的新服務也是AWS擴張雲端產業的佈局之舉。
+
+￭AWS全球高峰會re:Invent上月底於拉斯維加斯舉行長達四日的科技盛會 （截圖取自／AWS官網）
+
+企業用戶對於雲端AI服務及機器學習的需求大幅增加，AWS鎖定此趨勢，積極推出了至少10項與AI和機器學習相關的服務。針對旗下現有的AWS機器學習服務SageMaker加入進階功能之餘，更預告將在明年下半年推出客製化Inferentia機器學習推理晶片， 可以優化GPU（圖形處理器）推論運算能力及降低延遲。AWS在機器學習中的強化學習 (Reinforcement Learning，RL) 也投入相當心力， 除了推出進階的SageMaker RL新服務，也結合迷你無人賽車AWS DeepRacer，融合強化學習於實作中，提升開發者的應用能力。
+
+在混合雲服務上，AWS與國際軟體大廠Vmware攜手，預計於明年推出自行設計的本地端伺服器AWS Outposts。AWS 執行長Andy Jassy表示，該項服務是提供給企業用戶在即使無法將所有系統上傳至雲端的情形下，也能直接把AWS雲放入自家資料中心，利用本地端提供的雲端平台得到一致的服務體驗。此外，AWS也推出了新的資料庫服務Timestream，在資料存取及處理數據上都有更佳的服務品質，有利於未來IoT技術及大數據分析的應用。
+
+AWS今年特地介紹了兩項與區塊鏈相關的新服務，分別為Amazon Quantum Ledger Database（QLDB）與Amazon Managed Blockchain。QLDB是一個分散式帳本數據庫，提供具透明性、不可更改且可加密驗證的交易紀錄，主要是提供給醫療、製造、供應鏈等有中央信任機制記錄需求的企業。Amazon Managed Blockchain目前則是支援乙太坊及Hyperledger Fabric，幫助用戶以更簡單的方式管理、調整區塊鏈網絡。
+

@@ -1,0 +1,8 @@
+標題: Google將以網紅為基礎   打造AI聊天機器人
+原文: https://www.ectimes.org.tw/2024/06/google%e5%b0%87%e4%bb%a5%e7%b6%b2%e7%b4%85%e7%82%ba%e5%9f%ba%e7%a4%8e-%e6%89%93%e9%80%a0ai%e8%81%8a%e5%a4%a9%e6%a9%9f%e5%99%a8%e4%ba%ba/
+Google 正在打造以名人和知名 YouTube 網紅為基礎的 AI 聊天機器人嗎？據《The Information》報導，Google 正在與明星和知名網紅洽談，結合他們的形象與 Google 的 Gemini 大型語言模型，打造出某種「聊天機器人」。不僅如此，Google 也正在開發一個功能，只要描述你的個性與外貌，任何人都能打造自己的 AI 聊天機器人呢。
+
+這類功能倒也不是完全沒人做過 —— 在以明星為基礎的 AI 聊天機器人部份，Meta 就有推出過類似的產品；而讓任何人都能打造屬於自己的聊天機器人，則是新創公司 Character.ai 已經實現的功能。Character.ai 的共同創辦人之一 Noam Shazeer 自身曾任 Google 工程師，也是當今生成式 AI 的基礎技術「Transformer」的創作者之一。
+
+目前尚不清楚 Google 可能會與哪些名人或網紅合作。先前 Meta 在打造聊天機器人時，就找上了包括抖音明星 Charli D’Amelio、YouTube 大佬 Mr. Beast、Snoop Dogg、Tom Brady 和 Paris Hilton 等人，而 Character.ai 的角色更是涵蓋政客、哲學家、虛構角色，甚至會說話的起司等。據報導，該計畫由一位名叫 Ryan Germick，過去曾負責 Google Doodles 的資深高管領導，整個團隊由 10 人所組成。
+

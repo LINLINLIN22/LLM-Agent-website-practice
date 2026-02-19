@@ -1,0 +1,6 @@
+標題: OpenAI專為高等教育領域打造的ChatGPT Edu
+原文: https://www.ectimes.org.tw/2024/06/openai%e5%b0%88%e7%82%ba%e9%ab%98%e7%ad%89%e6%95%99%e8%82%b2%e9%a0%98%e5%9f%9f%e6%89%93%e9%80%a0%e7%9a%84chatgpt-edu/
+近期 OpenAI 發表了全新 AI 模型 ChatGPT-4o，以及經歷一些風波之後，又有新動作。較早前他們宣布推出 ChatGPT Edu，是專為大學而設的 ChatGPT 版本，原因是看到了不少大學均在使用 ChatGPT Enterprise，故此推出一款「旨在負責任地將人工智能部署到學生、教師、研究人員和校園運營中」的版本。
+
+OpenAI 於官網中表示，由於看到不少大學均在使用 ChatGPT Enterprise，例如哥倫比亞大學就利用 ChatGPT 整合分析大量數據，以更快的速度去制定不同政策，幫助社區減低藥物過量致死人數的情況，因此推出ChatGPT Edu，令大學可以用負擔得起的價格使用最新的 AI 模型。ChatGPT Edu 採用最新的 GPT-4o AI 模型，可以跨文字和視覺進行推理，並使用資料分析等進階工具，而且可以建立自訂的ChatGPT版本並於校內分享。ChatGPT Edu 亦提供更佳的安全性、資料隱私與管理控制，而 OpenAI 強調不會將用戶對話及數據去訓練 OpenAI 的模型。現時 ChatGPT 提供四個版本，分別是免費版、每月要價 $20 美元的 Plus 版、每月每人要價 $25 美元的 Team 版及 Enterprise 版，ChatGPT Edu 應會遵循 Enterprise 版收費模式，依據使用人數而訂價。
+

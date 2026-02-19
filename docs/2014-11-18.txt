@@ -1,0 +1,14 @@
+標題: App開發商出走　　Google Glass陷入爛尾危機
+原文: https://www.ectimes.org.tw/2014/11/app%e9%96%8b%e7%99%bc%e5%95%86%e5%87%ba%e8%b5%b0%e3%80%80%e3%80%80google-glass%e9%99%b7%e5%85%a5%e7%88%9b%e5%b0%be%e5%8d%b1%e6%a9%9f/
+記者／廖淑婷
+
+還記得兩年前Google年度開發者大會上，跳傘員透過身上配戴的Google Glass所直播的從天而降畫面嗎？這一躍，可讓Google Glass成為當年可穿戴設備中的矚目焦點。如今風光褪去，Google Glass卻陷入開發商和早期試用者不買帳的窘境。據悉，除了硬體設備的限制和高昂的價錢讓消費者卻步外，Google Glass推向大眾市場的計畫遙遙無期，也是使這項產品失去開發商青睞的最後一根稻草。
+
+￭Google Glass上市計畫遙遙無期，App開發商紛紛出走。(圖／INQUISITER)
+
+事實上，Google Glass從推出以來一直伴隨著許多爭議。像是早期試用Google Glass的用戶就被嘲諷為「Glasshole」，因為有人認為使用Google Glass攝像功能可能會侵犯到他人隱私，更有配戴者因開車使用Google Glass而被警察開罰單的例子。因此許多早期試用者都選擇將自己的Google Glass塵封起來，而Google Glass在eBay的售價甚至已跌至原價的一半。
+
+面對這樣的局面，不少開發商開始對Google Glass產生懷疑。據路透社報導，目前已有9家Google Glass的開發商表示會停止相關項目的開發，另有3家則轉向企業應用的開發市場。另外，也有業者指出，諸如：「硬體設備限制」、「消費者興趣缺缺」以及「消費者版本的推出時間尚未公布」等問題，都讓他們認為Google仍然將Google Glass視為試驗項目，自然也就不願投注太多時間與金錢於此。
+
+對於外界質疑的聲浪，Google強調會持續致力於將Glass推至消費市場，但除非一切都準備好了，否則不會輕易讓Google Glass上市。此外，Google也轉向企業市場，推出Glass at Work計畫，為的就是將Google Glass可應用於醫療保健、製造等特定行業，並獲得波音、Taco Bell等公司的測試及採用。至於，這能不能成為Google Glass的轉機，還有待觀察。
+

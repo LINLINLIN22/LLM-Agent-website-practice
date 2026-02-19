@@ -1,0 +1,8 @@
+標題: Google提供嵌入式網路遊戲廣告服務
+原文: https://www.ectimes.org.tw/2008/10/google%e6%8f%90%e4%be%9b%e5%b5%8c%e5%85%a5%e5%bc%8f%e7%b6%b2%e8%b7%af%e9%81%8a%e6%88%b2%e5%bb%a3%e5%91%8a%e6%9c%8d%e5%8b%99/
+記者／邱志豪在去年買下Adscape這家專職網路廣告的公司後，Google接著展現進軍線上遊戲廣告市場的企圖心，宣佈推出AdSense for Games的測試版，目前已在Playfish、Zynga、Mochi Media、科樂美等遊戲公司提供該功能，參與的廣告主包括Esurance、Sprint和索尼電影娛樂公司等。繼前陣子推出電視遊戲的廣告服務之後，這次Google的AdSense for Games是一套可以讓線上遊戲開發者在其遊戲中，自由安插文字、圖片、影片等各類廣告而不打斷遊戲進行的軟體。同時，也透過把廣告嵌入在遊戲中，試圖改變過去玩家對橫幅式的網頁廣告視而不見而導致廣告成效不彰的窘境。Google產品經理Christian Oestlien表示，線上遊戲玩家數量極為龐大，廣告主可針對各種遊戲類型的玩家來確認目標顧客。此外，AdSense for Games還可以將遊戲開發者與廣告主之間的界線抹平，讓該公司針對自身需求去進行遊戲和廣告製作與修訂。Google對外宣稱，AdSense for Games測試版是公司內部預定計畫之一，但外界認為，Google未來爭食網路遊戲市場大餅的企圖已相當明顯。分享此新聞：
+
+記者／邱志豪
+
+在去年買下Adscape這家專職網路廣告的公司後，Google接著展現進軍線上遊戲廣告市場的企圖心，宣佈推出AdSense for Games的測試版，目前已在Playfish、Zynga、Mochi Media、科樂美等遊戲公司提供該功能，參與的廣告主包括Esurance、Sprint和索尼電影娛樂公司等。繼前陣子推出電視遊戲的廣告服務之後，這次Google的AdSense for Games是一套可以讓線上遊戲開發者在其遊戲中，自由安插文字、圖片、影片等各類廣告而不打斷遊戲進行的軟體。同時，也透過把廣告嵌入在遊戲中，試圖改變過去玩家對橫幅式的網頁廣告視而不見而導致廣告成效不彰的窘境。Google產品經理Christian Oestlien表示，線上遊戲玩家數量極為龐大，廣告主可針對各種遊戲類型的玩家來確認目標顧客。此外，AdSense for Games還可以將遊戲開發者與廣告主之間的界線抹平，讓該公司針對自身需求去進行遊戲和廣告製作與修訂。Google對外宣稱，AdSense for Games測試版是公司內部預定計畫之一，但外界認為，Google未來爭食網路遊戲市場大餅的企圖已相當明顯。
+

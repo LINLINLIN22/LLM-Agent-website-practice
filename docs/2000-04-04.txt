@@ -1,0 +1,16 @@
+標題: Yahoo!與Amazon.com受到美國聯邦貿易委員會(FTC)調查
+原文: https://www.ectimes.org.tw/2000/04/yahoo%e8%88%87amazon-com%e5%8f%97%e5%88%b0%e7%be%8e%e5%9c%8b%e8%81%af%e9%82%a6%e8%b2%bf%e6%98%93%e5%a7%94%e5%93%a1%e6%9c%83ftc%e8%aa%bf%e6%9f%a5/
+記者／張瓊文
+
+美國聯邦貿易委員會（FTC）已經於日前著手對Yahoo!與Amazon.com展開調查，調查的方向與焦點，主要是集中在這二家知名網路業者對於消費者資料的應用情形。
+
+Yahoo!發言人Diane Hunt表示，Yahoo!確已接到FTC會要求合作的通知，要求深入瞭解Yahoo!所收集到之顧客資料的應用方式。而Yahoo!也相信此次之所以受到FTC調查的主因，乃是由於今年初由加州健康基金會（CaliforniaHealthcare Foundation）所發表的一份關於二十一世紀健康相關網站對於消費者隱私權保障政策的研究報告，該報告中對許多網站保護消費者隱私的作法有頗多批判，點名了多個對消費者保護作法有待商榷的網站，而Yahoo!也名列其中。
+
+該基金會主要是認為Yahoo!的合作網站—HealthCentral.com，其在並未告知消費者的情況下，便著手收集消費者個人私密的資料。而Yahoo!也遭受到同樣的批評，因為Yahoo!也在沒有告知消費者的情況下，便將在一項個人健康測試中所蒐集的消費者個人資料，轉移到HealthCentral.com的伺服器中、而非儲藏在自己的伺服器，以供HealthCentral.com使用。
+
+而Amazon.com則是因為其網路部門所開發出的一項軟體的應用，因而受到FTC的調查。Amazon.com的Alexa軟體能夠在網路使用者瀏覽網站的過程中，監視消費者的網路行為，以提供關於消費者的資訊給Amazon.com的一些相關網站。
+
+而其他受到FTC積極調查的網站還有DoubleClick與ValueAmerica, Inc.….等多家知名網路企業。
+
+分享此新聞：
+

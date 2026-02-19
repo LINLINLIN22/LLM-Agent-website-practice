@@ -1,0 +1,14 @@
+標題: 標注你的關鍵字　谷歌開放搜尋hashtag
+原文: https://www.ectimes.org.tw/2013/09/%e6%a8%99%e6%b3%a8%e4%bd%a0%e7%9a%84%e9%97%9c%e9%8d%b5%e5%ad%97%e3%80%80%e8%b0%b7%e6%ad%8c%e9%96%8b%e6%94%be%e6%90%9c%e5%b0%8bhashtag/
+記者／吳宇翔
+
+繼五月新增「hashtag」功能後，為增加旗下社群服務Google+的使用，與加強搜尋引擎與Google+間的連結，Google今日宣布，即日起Google搜尋引擎能搜尋hashtag，搜尋結果將優先出現其Google+中的內容，此功能目前只適用於美國與加拿大網站。「hashtag」是一種分類功能，與facebook中為照片貼上標籤功能相似，使用者能在貼文中於關鍵字前加上「#」號，例如，喜愛咖啡的使用者，能於貼文中標注「#coffee」，並點選該標籤檢視使用相同hashtag的所有貼文，藉此建立使用相同標籤者之間的聯繫。使用者若於Google搜尋hashtag，便能在搜尋結果頁面的右方欄位找到公開、或與使用者分享的Google+相關內容，點選進入後進一步能檢視所有相關貼文。然而，這樣服務無法找到其他平台如Facebook、或Twitter上的hashtag，Google僅提供相同關鍵字的搜尋結果。儘管相較於搜尋服務，Google+於使用上遠低於其搜尋引擎，自從推出Google+之後，Google仍致力將此服務融入旗下所有平台，五月推出hashtag功能時，Google也鼓勵使用者利用hashtag探索有興趣的事物。無獨有偶，此次更新目的之一即是推廣Google+的使用。
+
+繼五月新增「hashtag」功能後，為增加旗下社群服務Google+的使用，與加強搜尋引擎與Google+間的連結，Google今日宣布，即日起Google搜尋引擎能搜尋hashtag，搜尋結果將優先出現其Google+中的內容，此功能目前只適用於美國與加拿大網站。
+
+「hashtag」是一種分類功能，與facebook中為照片貼上標籤功能相似，使用者能在貼文中於關鍵字前加上「#」號，例如，喜愛咖啡的使用者，能於貼文中標注「#coffee」，並點選該標籤檢視使用相同hashtag的所有貼文，藉此建立使用相同標籤者之間的聯繫。
+
+使用者若於Google搜尋hashtag，便能在搜尋結果頁面的右方欄位找到公開、或與使用者分享的Google+相關內容，點選進入後進一步能檢視所有相關貼文。然而，這樣服務無法找到其他平台如Facebook、或Twitter上的hashtag，Google僅提供相同關鍵字的搜尋結果。
+
+儘管相較於搜尋服務，Google+於使用上遠低於其搜尋引擎，自從推出Google+之後，Google仍致力將此服務融入旗下所有平台，五月推出hashtag功能時，Google也鼓勵使用者利用hashtag探索有興趣的事物。無獨有偶，此次更新目的之一即是推廣Google+的使用。
+

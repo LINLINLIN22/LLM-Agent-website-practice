@@ -1,0 +1,14 @@
+標題: Google大神發威　新推Android Pay與Apple Pay抗衡
+原文: https://www.ectimes.org.tw/2015/06/google%e5%a4%a7%e7%a5%9e%e7%99%bc%e5%a8%81%e3%80%80%e6%96%b0%e6%8e%a8android-pay%e8%88%87apple-pay%e6%8a%97%e8%a1%a1/
+記者／廖淑婷
+
+備受矚目的GoogleI/O大會於美國時間28、29日正式舉行，在這為期兩天的活動中可看出Google在時下各領域的發展潮流內無一缺席，甚至能成為趨勢發展的領頭羊。其中在行動支付領域，Google並推出「Android Pay」服務，企圖與Apple的行動支付服務「Apple Pay」相抗衡，並成為支付工具市場的霸主。
+
+￭Android Pay與各家企業合作，提供更簡便的行動支付方式。(圖／TechOrange)
+
+將Google電子錢包及Instant Buy兩種支付方式整合而成的Android Pay，將進一步擴充Android系統的支付版圖。據Google數據指出，為了因應行動支付服務的大量需求，目前已有70萬個地點提供支援NFC支付，而Google所建立起的支付平台，更讓每10隻手機就有7隻能夠使用Android Pay。
+
+Android Pay並具有三大特色，第一是應用場景豐富，使用者不僅能在感應式支付的商店內，透過Android Pay完成消費，在數千個應用程式內完成消費更不是件難事。第二是釋放API，透過釋放API可讓更多不同規模的企業採納Android Pay，以提供使用者更簡便且安全的行動支付方式，抑或與其他行動支付企業合作，將Android Pay納入現有的支付系統中。
+
+最後為安全保證，安全身為Google行動支付的核心議題，因此在Android Pay的使用上，Google更加強使用者、合作夥伴及開發者三者互動間的安全防護，以提供安全無虞的行動支付服務。正當大家的目光焦點還在Android Pay時，Google又宣布下一代支付產品的原型—「Google Hands Free」，究竟這項號稱不需任何裝置、解放你的雙手的支付方式要如何運作，則有待時間的揭曉。
+

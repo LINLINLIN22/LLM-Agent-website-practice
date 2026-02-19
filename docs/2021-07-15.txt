@@ -1,0 +1,12 @@
+標題: Amazon 收購衛星團隊　與 SpaceX 角逐天空領域
+原文: https://www.ectimes.org.tw/2021/07/amazon-%e6%94%b6%e8%b3%bc%e8%a1%9b%e6%98%9f%e5%9c%98%e9%9a%8a%e3%80%80%e8%88%87-spacex-%e8%a7%92%e9%80%90%e5%a4%a9%e7%a9%ba%e9%a0%98%e5%9f%9f/
+根據外媒The Information報導，Amazon和Facebook雙方公司已證實，Facebook 衛星網路團隊已由 Amazon 收購。該團隊包含物理學家、航空和無線系統相關硬體和軟體工程師等，共 10 多名人員一同加入 Amazon 現有的 500 人團隊中。此舉讓外界認為，Amazon 有意拓展衛星網路領域，並與SpaceX競爭。
+
+￭Amazon收購Facebook衛星網路團隊。（截圖來源 /Amazon.com Facebook）
+
+Amazon 斥資 100 億美元的衛星網路計畫Project Kuiper已於去年 7 月獲得美國聯邦通訊委員會（Federal Communications Commission，FCC）的批准，可以發射 3,236 顆低地球軌道（Low Earth orbit，LEO）衛星，為全球範圍內提供衛星網路服務。
+
+根據 Facebook 向外媒Insider透露，Amazon 此次不僅只有人才的收購，還包含一些開發的著作權，以及設備和設施。雖然 Facebook 衛星網路研究工作早已在 2015 年開始，但遇到許多障礙，因此才允許 Amazon 收購其衛星網路團隊，讓團隊得以持續運作。不過，Facebook 將會與 Eutelsat 等公司合作，繼續努力衛星網路的研究。
+
+對於衛星發射的時程，競爭對手 SpaceX 曾表示預計於今年 9 月能覆蓋全球，而 Amazon 尚未公開說明。聯合發射聯盟（United Launch Alliance，ULA）總裁兼執行長Tory Bruno表示，Project Kuiper 的範圍與規模，將大幅提升美國在太空領域的領導地位，為發射服務提供穩定的需求，同時也創造更多的就業機會。
+

@@ -1,0 +1,14 @@
+標題: 用瀏覽器就可看電子書　亞馬遜推Kindle 網頁版App
+原文: https://www.ectimes.org.tw/2011/08/%e7%94%a8%e7%80%8f%e8%a6%bd%e5%99%a8%e5%b0%b1%e5%8f%af%e7%9c%8b%e9%9b%bb%e5%ad%90%e6%9b%b8%e3%80%80%e4%ba%9e%e9%a6%ac%e9%81%9c%e6%8e%a8kindle-%e7%b6%b2%e9%a0%81%e7%89%88app/
+記者／黃惟伶亞馬遜網路商店（Amazon）宣布推出網頁版應用程式「Kindle Cloud Reader」，讓使用者只要透過瀏覽器即可使用，不須再下載或安裝軟體就可從亞馬遜旗下熱門的Kindle商店直接購買和閱讀電子書，目前該應用程式支援的瀏覽器包括Safarion iPad、Safari on desktop及Chrome等。Kindle Cloud Reader程式完全是以HTML5撰寫，因此使用者透過瀏覽器就能及時閱讀Kindle電子書，而且此應用程式也與其他Kindle程式一樣，都具有可同步使用者書庫、書籤、筆記或標記，以及找到最後一次閱讀的地方的功能。Amazon Kindle總監Dorothy Nicholls進一步說明，Kindle Cloud Reader使用的HTML5技術除了可以讓使用者在離線時也能以瀏覽器儲存內容以外，也讓Amazon可以建立自動相容於Chrome與iOS的程式，更整合Kindle商店最佳化的功能，讓使用者能簡單地找到大量的書籍。由於日前蘋果（Apple）宣布要對透過App訂購內容的服務抽成30%，現在亞馬遜推出的Kindle Cloud Reader則可讓使用者從瀏覽器直接下載，不必使用蘋果iPhone和iPad內的 App，也不必讓蘋果抽取費用，而亞馬遜也是第一家繞過蘋果新規定的企業，其網頁版App的推出將可能帶動其他業者的跟進。
+
+記者／黃惟伶
+
+亞馬遜網路商店（Amazon）宣布推出網頁版應用程式「Kindle Cloud Reader」，讓使用者只要透過瀏覽器即可使用，不須再下載或安裝軟體就可從亞馬遜旗下熱門的Kindle商店直接購買和閱讀電子書，目前該應用程式支援的瀏覽器包括Safarion iPad、Safari on desktop及Chrome等。
+
+Kindle Cloud Reader程式完全是以HTML5撰寫，因此使用者透過瀏覽器就能及時閱讀Kindle電子書，而且此應用程式也與其他Kindle程式一樣，都具有可同步使用者書庫、書籤、筆記或標記，以及找到最後一次閱讀的地方的功能。
+
+Amazon Kindle總監Dorothy Nicholls進一步說明，Kindle Cloud Reader使用的HTML5技術除了可以讓使用者在離線時也能以瀏覽器儲存內容以外，也讓Amazon可以建立自動相容於Chrome與iOS的程式，更整合Kindle商店最佳化的功能，讓使用者能簡單地找到大量的書籍。
+
+由於日前蘋果（Apple）宣布要對透過App訂購內容的服務抽成30%，現在亞馬遜推出的Kindle Cloud Reader則可讓使用者從瀏覽器直接下載，不必使用蘋果iPhone和iPad內的 App，也不必讓蘋果抽取費用，而亞馬遜也是第一家繞過蘋果新規定的企業，其網頁版App的推出將可能帶動其他業者的跟進。
+

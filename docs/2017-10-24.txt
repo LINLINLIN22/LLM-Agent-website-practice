@@ -1,0 +1,14 @@
+標題: Google Play推出試用鍵　應用程式免安裝先體驗
+原文: https://www.ectimes.org.tw/2017/10/google-play%e6%8e%a8%e5%87%ba%e8%a9%a6%e7%94%a8%e9%8d%b5%e3%80%80%e6%87%89%e7%94%a8%e7%a8%8b%e5%bc%8f%e5%85%8d%e5%ae%89%e8%a3%9d%e5%85%88%e9%ab%94%e9%a9%97/
+記者／陳亭瑄
+
+Google在今年的Playtime開發者大會上，宣布Google Play有多項新變更，例如遊戲列表優化、應用程式 (App) 除錯獎勵計畫等，同時也將Instant Apps整合至Play商店，推出App免下載試用鍵「Try it Now」，讓使用者可以在購買前先行體驗，藉此降低買錯退費的情況，以及省去等待安裝的時間。
+
+■Google Play新增多項新功能。（截圖自／Google官網）
+
+Instant Apps是2016年Google IO大會上提出的開發計畫，在App中加入Instant技術，在沒有安裝特定App的情況下，經由下載對應的模組，無需安裝就能先行體驗App部分的核心功能，讓用戶免於網頁與App跳轉所造成的不便。「Try it Now」為Google將Instant Apps技術整合至Google Play後推出的新功能，在Play商店的App下載頁面上，新增試用鍵，讓使用者可以先體驗後再決定是否下載。
+
+在開發者大會上，Google也積極推動除錯獎勵計畫，希望安全研究人員能為在Google Play上架的第三方App尋找出問題的地方，並連繫第三方廠商與向Google回報狀況，以此協助開發廠商能盡快解決問題，研究人員也能從中獲得Google提供的獎勵金。此外，Google發布了最新的Android Vitals資訊中心，幫助開發廠商改善App的穩定性與其他性能，以及分析數據，優化其應用質量。
+
+根據Google數據顯示，Google Play過去一年約有820億個應用程式被下載，同時付費程式用戶也成長30%， Google持續投入發展資源，協助開發者抓住更多發展機會，讓他們透過Google Play這個平台讓App邁向全球市場。
+

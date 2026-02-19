@@ -1,0 +1,14 @@
+標題: “OK，Google”　Google Assistant專屬於你的語音助理
+原文: https://www.ectimes.org.tw/2017/03/ok%ef%bc%8cgoogle%e3%80%80google-assistant%e5%b0%88%e5%b1%ac%e6%96%bc%e4%bd%a0%e7%9a%84%e8%aa%9e%e9%9f%b3%e5%8a%a9%e7%90%86/
+記者／朱顗如
+
+Google在去年發表了具網路搜尋、播放影片及音樂等功能的人工智能助理Google Assistant，但僅提供給Google Pixel系列手機、Google Home、Google Alloapp及Android Wear裝置使用。而本週起將陸續支援系統版本為Android6.0 或以上的智慧型手機。
+
+￭ GoogleAssistant，專為你設計的語音助理。（截圖自／Google Assistant官網）
+
+Google Assistant，和Apple 的Siri、Amazon 的Alexa一樣都是語音助理，只要輕觸home鍵並說聲「OK，Google」，就可以讓「她」幫你查看行事曆、查詢行車路線、附近店家、拍照、翻譯等功能。亦可以結合Google旗下裝置如Google Home，請她為你播放音樂；整合Google搜尋功能及Google聊天軟體Allo，讓你在和朋友聊天時能及時將搜尋的資訊傳給對方等服務。
+
+雖然這些功能十分方便，且號稱能與用戶進行較長語句的對話。但目前GoogleAssistant僅支援美國、澳洲、加拿大及英國的英、美語及德國的德語服務，其他語言及國家之服務計劃在未來陸續推出，想體驗繁體中文版的服務需要再等等了。
+
+另外，根據Google的統計，目前僅31%的Android裝置配備Android 6.0，而搭載Android7.0的裝置更是僅佔1.2%。若Google Assistant要追上Siri及Alexa的腳步，需要開放讓更多的Android系統及開發更廣泛的語言服務，讓用戶能以最方便的方式體驗她的魅力。
+

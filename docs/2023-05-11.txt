@@ -1,0 +1,12 @@
+標題: Google 出手了！　美國溫蒂漢堡 AI 為您點餐
+原文: https://www.ectimes.org.tw/2023/05/google-%e5%87%ba%e6%89%8b%e4%ba%86%ef%bc%81%e3%80%80%e7%be%8e%e5%9c%8b%e6%ba%ab%e8%92%82%e6%bc%a2%e5%a0%a1-ai-%e7%82%ba%e6%82%a8%e9%bb%9e%e9%a4%90%e3%80%80/
+跨國科技公司Google於 5 月 9 日宣布，將攜手美國連鎖速食餐飲溫蒂漢堡 (Wendy’s)，推出得來速 (Drive Through) 聊天機器人為顧客點餐，預計於今年 6 月在美國俄亥俄州哥倫布 (Columbus, Ohio) 的直營店，作為首次示範的據點。相關服務的更新內容，Google 將於加州時間 5 月 10 日舉行的Google I/O 網路開發者年會，做更多詳細的說明。
+
+￭Google攜手溫蒂漢堡，推出得來速 Wendy’s FreshAI 為顧客點餐。（圖片來源 /溫蒂漢堡）
+
+溫蒂漢堡與Google Cloud合作，透過「大型語言模型 (Large Language Models, LLMs)」，配合溫蒂漢堡的菜單，量身打造 Wendy’s FreshAI，該機器人能夠認知消費者點餐的習慣用語，例如 JBC 代表 Juinor Bacon Cheeseburger、Frosty 代表奶昔 (milkshake)、biggie bags 代表薯條、雞塊和飲料的套餐等。
+
+除此之外，辨識正確點餐的聲音是最艱難的任務之一。Google Cloud 執行長 Thomas Kurian 表示，Wendy’s FreshAI 必須辨識來自車內的音樂、小孩及路邊噪音，也必須能夠應付突然變更的餐點內容，此外還須進行大份餐點或加購的推銷。溫蒂漢堡資訊科技主管 (Chief Information Officer, CIO) Kevin Vasconi 表示，Wendy’s FreshAI 提供比最優秀的接待人員更好的服務，更加速且一致化了服務的標準。
+
+儘管 Wendy’s FreshAI 能夠替代點餐的職務，但溫蒂漢堡執行長 Todd Penegor 說明，此項技術並不會取代員工，只會透過科技協助，減少員工負擔，並更精專於餐點製作及收銀上，以此增加銷售。生成式 AI 紛紛投入市場，雖然增加效率、提升利潤，但是否會對人力資源造成威脅？有待我們繼續觀察下去。
+

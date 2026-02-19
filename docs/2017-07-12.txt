@@ -1,0 +1,16 @@
+標題: 微軟綑綁企業推新招　三合一Microsoft 365誰中招
+原文: https://www.ectimes.org.tw/2017/07/%e5%be%ae%e8%bb%9f%e7%b6%91%e7%b6%81%e4%bc%81%e6%a5%ad%e6%8e%a8%e6%96%b0%e6%8b%9b%e3%80%80%e4%b8%89%e5%90%88%e4%b8%80microsoft-365%e8%aa%b0%e4%b8%ad%e6%8b%9b/
+記者／廖冠聿
+
+微軟昨日（11日）在美國華盛頓舉行「微軟Inspire全球合作夥伴大會」，執行長Nadella宣佈推出全新整合方案Microsoft365，結合以往分開訂購的雲端辦公室工具Office365、Windows 10作業系統，還有企業行動和資安防護功能。此超值組合也針對企業規模推出2種版本：Microsoft 365Enterprise、Microsoft 365Business，讓企業用戶能夠更簡單使用所需的軟體服務。
+
+針對大型企業用戶的Microsoft 365 Enterprise分為E3、E5，皆配有AI和機器學習相關的技術，辨識手寫、語音和觸控輸入，並且還有裝置和人員管理功能。其內容和去年推出的套餐式方案SecureProductive Enterprise一樣，提供office 365 Enterprise、Windows 10 Enterprise、EnterpriseMobility+ Security。雖然推出日期尚未確定，但預計8月1日開放預購，而企業必須經由微軟企業授權合約（Enterprise Agreements），或是向微軟雲端解決方案夥伴（Cloud Solution Provider, CSP）採購。
+
+￭2016微軟安全企業生產力套餐(SPE)，與即將推出Microsoft 365 Enterprise套餐內容比一比。（圖/作者自行繪製)
+
+微軟為了讓小公司也能享用大企業級的服務，員工人數在300人以下的中小企業可以選擇Microsoft 365 Business，內容包含Office365 Business Premium、Windows 10、Enterprise Mobility+Security的安全及管理功能，預計8月2日釋出公眾預覽版，秋季陸續在世界各地上市，企業可直接向微軟或CSP經銷商購買，每用戶每月定價20美元（約新台幣600元）。在Office 365 Business Premium Pack中，用戶可獲得三個新的應用程式，還有具外務需求的企業，也能使用「MileIQ」，這款應用程式可以自動記錄里程數，以及分辨里程是屬於個人或公務用途。
+
+￭Microsoft 365 Business Office三合一方案，還提供中小企業三款新應用程式。（圖/作者自行繪製）
+
+微軟表示Microsoft 365不僅是為了讓商務用戶掏出更多錢，這種多服務的雲端整合解決方案，也可以提供想要以「綜合方式來確保生產力」的公司一個更好的方式，這也反映產品設計和行銷有重大的轉變，從過往分開作業轉變為更全面的環境觀點，讓夥伴可以增賣產品增加收入。雖然這項商務方案並不會在市面的零售通路販售，但官方仍會持續提供獨立的Windows 10 企業版給用戶訂購。
+

@@ -1,0 +1,8 @@
+標題: 使用Apple Vision Pro頭戴裝置  巴西醫師成功進行肩關節鏡手術
+原文: https://www.ectimes.org.tw/2024/04/78941/
+自從 Apple 蘋果推出 Vision Pro 頭戴裝置以來，已經有外科醫生嘗試使用這項新裝置。據外媒報導，巴西骨科醫生 Bruno Gobbato 成功利用 Vision Pro 頭戴裝置為一位肩袖撕裂（又名旋轉肌撕裂傷）患者進行了手術。
+
+巴西 Jaraguá 醫院的 Bruno Gobbato 醫生向《MacMagazine》雜誌透露，他使用蘋果 Apple Vision Pro 為旋轉肌撕裂傷進行肩關節鏡手術。Bruno Gobbato 醫生表示，肩關節鏡手術需要在關節內部使用攝影鏡頭，外科醫生透過直接觀看螢幕來執行手術。有了這個裝置，我能夠以高解析度在螢幕上觀察圖像，同時即時瀏覽患者的檢查和 3D 模型。Bruno Gobbato 醫生對蘋果 Vision Pro 的動態範圍表示讚賞。在手術過程中，手術室內的明亮燈光照亮要進行手術的部位，這可能導致其他地方變得太暗。但實際上 Apple Vision Pro 的表現讓他對此不再擔心。
+
+Bruno Gobbato 醫生還分享了一段影片，展示他如何在使用 Vision Pro 的同時輕鬆瀏覽筆記、患者的 X 光片以及即時攝影鏡頭。而在幾年前，他曾經在手術中使用過微軟 HoloLens。不過，Bruno Gobbato 醫生不是第一位使用 Apple Vision Pro 開刀的醫生，先前 Apple 蘋果在 2024 年 3 月曾詳細介紹了 Vision Pro App 在機器進行輔助膝蓋和髖關節手術，先前一位英國神經外科醫生也使用 Vision Pro 進行脊椎手術。
+

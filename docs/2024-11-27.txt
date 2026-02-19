@@ -1,0 +1,22 @@
+標題: AI競爭成為影響關鍵？美司法部要求Google出售Chrome
+原文: https://www.ectimes.org.tw/2024/11/ai%e7%ab%b6%e7%88%ad%e6%88%90%e7%82%ba%e5%bd%b1%e9%9f%bf%e9%97%9c%e9%8d%b5%ef%bc%9f%e7%be%8e%e5%8f%b8%e6%b3%95%e9%83%a8%e8%a6%81%e6%b1%82google%e5%87%ba%e5%94%aechrome/
+記者／Linus
+
+圖片取自：Google官網
+
+美國司法部要求Google出售Chrome網頁瀏覽器，以解決Google壟斷搜尋市場的問題。「大西洋月刊」（The Atlantic）今天分析指出，司法部反壟斷行動可能對阻止Google運用其生態系取得AI領先，產生實際影響。
+
+科技巨頭近兩年在生成式人工智慧（AI）領域競逐激烈。Google之外，Meta、亞馬遜（Amazon）紛紛投入巨額資金，試圖取得領先地位。新創公司OpenAI、Anthropic、Perplexity對AI的整體投資，可能快要超越把第一批太空人送上月球的成本。
+
+這些公司要取得成功，不僅要比技術，還必須讓大眾持續使用其產品。科技界一直以來的最佳策略，都是致力打造穩固的生態系，提升用戶黏著度和產品依賴性。
+
+Google旗下15款產品，每款產品的用戶群體規模都達到了至少5億，建構出龐大的生態系，在這些產品置入的AI工具最可能被用戶廣泛使用。Google也將旗艦AI模型Gemini整合至Android、Chrome、Play商店和YouTube等產品，這些產品都擁有至少20億用戶。
+
+其他公司也具競爭優勢；蘋果公司（Apple）將AI技術Apple Intelligence整合到iPhone、iPad、Mac；Meta則是擁有Facebook、Instagram、WhatsApp等平台來助AI一臂之力。
+
+不過，科技巨頭之中，Google的優勢最為明顯。
+
+美國司法部對Google施加阻力，不僅要求公司出售Chrome，也阻擋Google在Android作業系統裝置上把Chrome設做預設搜尋引擎，並禁止Google付費將其搜尋引擎設為其他公司如蘋果和三星產品的預設選項，這些請求都是針對Google龐大的生態系。
+
+預期Google將在下個月提交建議，美國法官將在明年4月開庭審理，之後做出裁決。
+

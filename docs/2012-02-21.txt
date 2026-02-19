@@ -1,0 +1,14 @@
+標題: 蘋果Safari用戶提控　Google侵犯隱私設定
+原文: https://www.ectimes.org.tw/2012/02/%e8%98%8b%e6%9e%9csafari%e7%94%a8%e6%88%b6%e6%8f%90%e6%8e%a7%e3%80%80google%e4%be%b5%e7%8a%af%e9%9a%b1%e7%a7%81%e8%a8%ad%e5%ae%9a/
+記者／潘萱文
+
+全球最大網路搜尋引擎Google疑似繞過蘋果的Safari，以躲過網站監看使用者線上行為的隱私設定，侵犯了蘋果用戶的個人隱私而引發爭議。Safari是蘋果公司旗下智慧型手機iPhone和平板電腦iPad主要互連網所使用的瀏覽器。其原設有隱私設定，用來封鎖外界監視使用者的網路行為，如今，Safari用戶指出Google利用技術繞過此瀏覽器的隱私保護機制，使用者經由下載cookie即開始被追蹤線上活動的一舉一動。史丹福大學研究員Jonathan Mayer認為，Google透過類似Facebook「讚」的+1功能將其本身內容出現在非Google的網站上，蘋果使用Safari的使用者造訪了該網頁後不自覺地安裝來自Google的cookie，藉此能進一步追蹤蘋果用戶。Google官方也做出回應，Google並非蓄意追蹤使用者，而是利用已知的Safari功能來針對Google登入用戶提供個人化服務。針對此事，美國國會議員已要求兩名Google主管進行簡報；消費者保護組織Consumer Watchdog則督促這些國會議員要求Google執行長Larry Page出面說明。
+
+全球最大網路搜尋引擎Google疑似繞過蘋果的Safari，以躲過網站監看使用者線上行為的隱私設定，侵犯了蘋果用戶的個人隱私而引發爭議。
+
+Safari是蘋果公司旗下智慧型手機iPhone和平板電腦iPad主要互連網所使用的瀏覽器。其原設有隱私設定，用來封鎖外界監視使用者的網路行為，如今，Safari用戶指出Google利用技術繞過此瀏覽器的隱私保護機制，使用者經由下載cookie即開始被追蹤線上活動的一舉一動。
+
+史丹福大學研究員Jonathan Mayer認為，Google透過類似Facebook「讚」的+1功能將其本身內容出現在非Google的網站上，蘋果使用Safari的使用者造訪了該網頁後不自覺地安裝來自Google的cookie，藉此能進一步追蹤蘋果用戶。
+
+Google官方也做出回應，Google並非蓄意追蹤使用者，而是利用已知的Safari功能來針對Google登入用戶提供個人化服務。針對此事，美國國會議員已要求兩名Google主管進行簡報；消費者保護組織Consumer Watchdog則督促這些國會議員要求Google執行長Larry Page出面說明。
+

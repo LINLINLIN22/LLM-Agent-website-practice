@@ -1,0 +1,14 @@
+標題: 駭客送的聖誕大禮　Kindle加密裝置遭破解
+原文: https://www.ectimes.org.tw/2009/12/%e9%a7%ad%e5%ae%a2%e9%80%81%e7%9a%84%e8%81%96%e8%aa%95%e5%a4%a7%e7%a6%ae%e3%80%80kindle%e5%8a%a0%e5%af%86%e8%a3%9d%e7%bd%ae%e9%81%ad%e7%a0%b4%e8%a7%a3/
+記者／張 萱亞馬遜（Amazon）今年的聖誕節可不好過，該公司出產的Kindle電子書閱讀器的「數位版權管理機制」（Digital Rights Management，DRM），在耶誕節前夕遭到兩名駭客破解，將其獨特的AZW格式轉換為其他一般電腦可讀的檔案，可讓電子書輸出到其他裝置上。來自以色列的駭客Labba在以國的論壇hacking.org發表了自製的工具，可將Kindle獨有的AZW格式轉為PDF等常見的檔案，適用於各種電腦裝置。同時在美國，化名I LOVE CABBAGES的網友發明一個Unswindle程式，也能把Kindle for PC應用程式裡的電子書內容，轉換成方便傳輸的格式。I LOVE CABBAGES表示，Kindle和Kindle for iPhone與另外兩個電子書授權裝置—-蘋果（Apple）的iTunes與iPod一樣，都只採單一機關來防止盜拷。但是給個人電腦用戶的Kindle for PC賦予每一本電子書不同的鎖碼，加密過程較為精密。要使用Unswindle破解此加密機制，必須搭配另一個名叫mobidedrm的駭客工具。I LOVE CABBAGES說，破解完後他對這件事感到無趣，也沒打算繼續攻擊亞馬遜，他只是把Unswindle貢獻出來，網友可以挑選自己喜歡的電子書，轉檔成自己喜歡的格式閱讀。而Labba則澄清，破解Kindle的工具只是用來移除合法購買產品的保護機制，如果用來散播或是藉此獲利，皆屬違法。
+
+記者／張 萱
+
+亞馬遜（Amazon）今年的聖誕節可不好過，該公司出產的Kindle電子書閱讀器的「數位版權管理機制」（Digital Rights Management，DRM），在耶誕節前夕遭到兩名駭客破解，將其獨特的AZW格式轉換為其他一般電腦可讀的檔案，可讓電子書輸出到其他裝置上。
+
+來自以色列的駭客Labba在以國的論壇hacking.org發表了自製的工具，可將Kindle獨有的AZW格式轉為PDF等常見的檔案，適用於各種電腦裝置。同時在美國，化名I LOVE CABBAGES的網友發明一個Unswindle程式，也能把Kindle for PC應用程式裡的電子書內容，轉換成方便傳輸的格式。
+
+I LOVE CABBAGES表示，Kindle和Kindle for iPhone與另外兩個電子書授權裝置—-蘋果（Apple）的iTunes與iPod一樣，都只採單一機關來防止盜拷。但是給個人電腦用戶的Kindle for PC賦予每一本電子書不同的鎖碼，加密過程較為精密。要使用Unswindle破解此加密機制，必須搭配另一個名叫mobidedrm的駭客工具。
+
+I LOVE CABBAGES說，破解完後他對這件事感到無趣，也沒打算繼續攻擊亞馬遜，他只是把Unswindle貢獻出來，網友可以挑選自己喜歡的電子書，轉檔成自己喜歡的格式閱讀。而Labba則澄清，破解Kindle的工具只是用來移除合法購買產品的保護機制，如果用來散播或是藉此獲利，皆屬違法。
+

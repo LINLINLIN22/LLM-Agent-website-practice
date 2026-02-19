@@ -1,0 +1,12 @@
+標題: Google Map Maker　人人都可編輯Google Map
+原文: https://www.ectimes.org.tw/2011/04/google-map-maker%e3%80%80%e4%ba%ba%e4%ba%ba%e9%83%bd%e5%8f%af%e7%b7%a8%e8%bc%afgoogle-map/
+記者／洪千堉Google公司日前針對Google Map Maker有了更進一步的開放更新，本次釋出的地圖區域為美國，未來使用者將可參與編輯美國區的Google Map，此次開放期望可以增加Google Map美國區的地圖資料完整性和豐富性。Google Map Maker為美國搜尋引擎Google旗下的線上網路地圖編輯服務，透過此項服務，使用者可以共筆編輯Google Map網路地圖，只要選擇服務當中所提供的地圖區域，便可以進行地圖編輯。目前全球已有183個國家與地區擁有Google Map Maker的服務。與Google搜尋引擎排行榜的道理相同，Google希望再一次透過群眾的力量，加強Google Map的地圖資料完整性。Google表示，全球只有15％的人擁有住家附近的詳細地圖，且一些當地的街道資料，如：自行車路線、公園裡的棒球場、街角的咖啡店，這些都是得透過當地的居民幫忙編輯才能獲得的詳細地圖資訊。Google Map Maker產品經理馬尼克古普塔認為，只有當地的用戶才會非常的了解且關注當地的地圖資料，因此Google希望將所有的Google Map使用者都變成地圖製作者。使用者編輯後的資料會先經由Google審核，確認後馬上就會更新至Google Map，不過Google Map Maker目前尚未提供台灣區域的地圖編輯服務。
+
+記者／洪千堉
+
+Google公司日前針對Google Map Maker有了更進一步的開放更新，本次釋出的地圖區域為美國，未來使用者將可參與編輯美國區的Google Map，此次開放期望可以增加Google Map美國區的地圖資料完整性和豐富性。
+
+Google Map Maker為美國搜尋引擎Google旗下的線上網路地圖編輯服務，透過此項服務，使用者可以共筆編輯Google Map網路地圖，只要選擇服務當中所提供的地圖區域，便可以進行地圖編輯。目前全球已有183個國家與地區擁有Google Map Maker的服務。
+
+與Google搜尋引擎排行榜的道理相同，Google希望再一次透過群眾的力量，加強Google Map的地圖資料完整性。Google表示，全球只有15％的人擁有住家附近的詳細地圖，且一些當地的街道資料，如：自行車路線、公園裡的棒球場、街角的咖啡店，這些都是得透過當地的居民幫忙編輯才能獲得的詳細地圖資訊。
+

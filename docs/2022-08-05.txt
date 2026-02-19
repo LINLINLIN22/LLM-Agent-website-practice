@@ -1,0 +1,12 @@
+標題: Amazon Drive即將終止服務　2023年起停止備份功能
+原文: https://www.ectimes.org.tw/2022/08/amazon-drive%e5%8d%b3%e5%b0%87%e7%b5%82%e6%ad%a2%e6%9c%8d%e5%8b%99%e3%80%802023%e5%b9%b4%e8%b5%b7%e5%81%9c%e6%ad%a2%e5%82%99%e4%bb%bd%e5%8a%9f%e8%83%bd/
+本週亞馬遜發出消息表示，旗下服務逾十年的線上儲存空間Amazon Drive將於2023年終止，並於今年將Amazon Drive在Android及IOS系統上的應用程式從Google play商店及Apple store下架，呼籲原先的使用者盡快將資料轉移。
+
+Amazon Drive於2011年3月推出，初始提供5GB的線上儲存空間供使用者存放私人相片、檔案以及文件，與當時微軟和Google的雲端儲存服務相互競爭。如今釋出消息，Amazon Drive之應用程式將於今年10月底後下架，並在2023年1月底停止開放檔案上傳，使用者應於2023年底前將資料轉移，否則將會被永久刪除。
+
+￭Amazon Drive即將終止服務。(取自/Christian WiedigeronUnsplash)
+
+然而亞馬遜在宣布停止Amazon Drive服務之餘，同時宣布將以Amazon Photos取代Amazon Drive，並表示可以提供更優質及安全的相片影片共享儲存之解決方案，且原先儲存在Amazon Drive中的相片及影片也會自動移轉至Amazon Photos，目前Amazon Photos提供了100GB、1TB以及2TB的付費儲存空間，訂閱費用分別為每月1.99美元、6.99美元及11.99美元。
+
+科技世代之下，人們越來越仰賴雲端硬碟儲存海量的個人資訊，且當前越來越多競爭者加入這個市場，並提供不同級別的免費儲存空間以吸引消費者使用，亞馬遜在這個市場之中無論是價格或使用的廣泛度來說並無太大優勢，此時停止Amazon Drive服務對亞馬遜而言似乎是個好的停損點。
+

@@ -1,0 +1,14 @@
+標題: 什麼都買什麼都不奇怪　Yahoo!再購IQ Engines
+原文: https://www.ectimes.org.tw/2013/08/%e4%bb%80%e9%ba%bc%e9%83%bd%e8%b2%b7%e4%bb%80%e9%ba%bc%e9%83%bd%e4%b8%8d%e5%a5%87%e6%80%aa%e3%80%80yahoo%e5%86%8d%e8%b3%bciq-engines/
+記者／葉閔宏
+
+Yahoo!去年自Google挖角Marissa Mayer擔任執行長後，對外收購動作頻傳，總計收購近20家業者，是Yahoo!歷年來收購次數最為頻繁的一段時間，其中收購業者更高達11家屬於行動相關應用，今年5月花費11億美元買下微型部落格Tumblr後，持續攻城掠地，收購圖像識別創業公司IQ Engine，以改善旗下Flickr的網路相片服務。
+
+■ Yahoo!收購IQ Engines，改善自家Flickr相片分類功能。（圖／IQ Engines）
+
+IQ Engines主要是提供自動分類相片的視覺系統服務，能自動辨認相片中的場景再進行分類，而該項技術也在2010年投資開發成應用程式介面（API），協助提供應用程式開發者，提供視覺搜索引擎服務。此外，IQ Engines也開發行動相簿應用Glow，幫助用戶在智慧型手機上，能自動以標籤與位置的方式管理相片，無論是API或是Glow技術，未來很可能被整合至Flickr應用中。
+
+Yahoo!並未對外透露此次收購細節，僅由IQ Engines公告未來將加入Flickr以提供相片整理與搜尋功能，兩家公司對交易金額等收購資訊並無多加說明，IQ Engines目前已經不再接受新用戶註冊，預計9月將關閉所有服務。IQ Engine早於2010年受到各界矚目，並被業內人士認為是最值得關注的創業公司，進而成為有意強化行動領域的Yahoo!，在這波收購潮的對象之一。
+
+執行長Marissa Mayer認為改版後的Flickr是Yahoo!的創新之作，並請來Google前任高層Bernardo Hernández González擔任Flickr的新主管，具有豐富的執行管理經驗的他，原本在Google是負責營運美食指南Zagat的服務。此次收購IQ Engines，Flickr試圖以更精簡的相片分類服務，吸引更多行動用戶，以利Yahoo!後續跨足行動領域。
+

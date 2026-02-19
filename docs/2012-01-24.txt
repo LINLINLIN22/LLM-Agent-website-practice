@@ -1,0 +1,14 @@
+標題: Twitter收購Summify　強化社交過濾競爭力
+原文: https://www.ectimes.org.tw/2012/01/twitter%e6%94%b6%e8%b3%bcsummify%e3%80%80%e5%bc%b7%e5%8c%96%e7%a4%be%e4%ba%a4%e9%81%8e%e6%bf%be%e7%ab%b6%e7%88%ad%e5%8a%9b/
+記者／彭采薇知名社交網站Twitter本月19日宣布收購社交過濾服務商Summify。Summify目前已經停止新帳號的註冊，並撤下舊有服務，待未來與Twitter整併後以全新面貌呈現，此次合作對Summify來說是找到發揮專才的舞台，而Twitter在社交過濾（Social Filtering）上的競爭力也有顯著提升。社交過濾（Social Filtering）源於協同過濾（Collaborative Filtering），誕生之初是為了解決資訊超載的問題，當時Xerox公司為處理數量龐雜的電子郵件，發明了電子郵件的過濾器，記錄喜好的郵件類型並依此管理郵件送達信箱的順序。隨著近年社群網站當道，觀看社交網站友人所推薦的轉貼連結成為人們獲取資訊的重要方式。Summify成立於2009年，其所提供的社交過濾服務，建立在社交網站中緊密的人際信任網絡基礎，試圖從點選、按讚(like)、轉推（retweet）的連結中蒐集個人化的資訊，建立一套篩選資訊的系統，意即使用者在登入社交網站如Facebook、Twitter、Google Reader後，可利用Summify篩選出最受使用者友人關注的內容。Summify共同創辦人Mircea Paşoi表示，Summify致力於研發社交過濾技術使之能夠找出人們真正感興趣的內容，並在人氣和相關性之間取得平衡，提供更個人化、更精準的資訊。Summify團隊也表示，全球有數億使用者的Twitter將是合作的最佳選擇。此次整併顯現出Twitter強化使用者黏性所付出的努力，而提供個人化的服務仍是未來的趨勢。
+
+記者／彭采薇
+
+知名社交網站Twitter本月19日宣布收購社交過濾服務商Summify。Summify目前已經停止新帳號的註冊，並撤下舊有服務，待未來與Twitter整併後以全新面貌呈現，此次合作對Summify來說是找到發揮專才的舞台，而Twitter在社交過濾（Social Filtering）上的競爭力也有顯著提升。
+
+社交過濾（Social Filtering）源於協同過濾（Collaborative Filtering），誕生之初是為了解決資訊超載的問題，當時Xerox公司為處理數量龐雜的電子郵件，發明了電子郵件的過濾器，記錄喜好的郵件類型並依此管理郵件送達信箱的順序。隨著近年社群網站當道，觀看社交網站友人所推薦的轉貼連結成為人們獲取資訊的重要方式。
+
+Summify成立於2009年，其所提供的社交過濾服務，建立在社交網站中緊密的人際信任網絡基礎，試圖從點選、按讚(like)、轉推（retweet）的連結中蒐集個人化的資訊，建立一套篩選資訊的系統，意即使用者在登入社交網站如Facebook、Twitter、Google Reader後，可利用Summify篩選出最受使用者友人關注的內容。
+
+Summify共同創辦人Mircea Paşoi表示，Summify致力於研發社交過濾技術使之能夠找出人們真正感興趣的內容，並在人氣和相關性之間取得平衡，提供更個人化、更精準的資訊。Summify團隊也表示，全球有數億使用者的Twitter將是合作的最佳選擇。此次整併顯現出Twitter強化使用者黏性所付出的努力，而提供個人化的服務仍是未來的趨勢。
+

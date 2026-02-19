@@ -1,0 +1,14 @@
+標題: 聚焦資源　Google Labs走入歷史
+原文: https://www.ectimes.org.tw/2011/07/%e8%81%9a%e7%84%a6%e8%b3%87%e6%ba%90%e3%80%80google-labs%e8%b5%b0%e5%85%a5%e6%ad%b7%e5%8f%b2/
+記者／劉桂君Google計畫關閉Google實驗室（Google Labs），以開發新服務為優先。這是Google執行長Larry Page繼Google+之後，所提出的策略之一，希望藉此優先處理谷歌加州總部的計畫，將全副精力集中於少數工作。Google研究及系統架構副總裁Bill Coughran亦指出，如果Google欲掌握未來各種機會，集中資源乃是重要之事。Google實驗室為Google提供給工程師「20%」的自由時間，開放工程師於每星期中的其中一天，從事自己有興趣的其他專案，因此Google實驗室遂扮演專案的意見互動平台一角，包括Google News、Google Reader、Google Trends和Google Maps，全都來自這個平台，且使用者也可在Google Labs上嘗鮮。目前Google實驗室中擁有56種實驗性服務。Bill Coughran在公司網站上的部落格張貼文章表示，部份Google Labs的實驗性產品將關閉，但這些服務並不會直接消失，而是把相關的服務與技術整合至不同的產品中。而屬於Android應用程式的實驗性產品，將繼續透過Android Market提供。不過，Google實驗室的關閉並不影響Google於產品中嵌入的實驗室功能，包括Gmail實驗室（Gmail Labs）或Google地圖實驗室等（Maps Labs）都將持續存在，以繼續開發並測試Google產品的新服務。
+
+記者／劉桂君
+
+Google計畫關閉Google實驗室（Google Labs），以開發新服務為優先。這是Google執行長Larry Page繼Google+之後，所提出的策略之一，希望藉此優先處理谷歌加州總部的計畫，將全副精力集中於少數工作。Google研究及系統架構副總裁Bill Coughran亦指出，如果Google欲掌握未來各種機會，集中資源乃是重要之事。
+
+Google實驗室為Google提供給工程師「20%」的自由時間，開放工程師於每星期中的其中一天，從事自己有興趣的其他專案，因此Google實驗室遂扮演專案的意見互動平台一角，包括Google News、Google Reader、Google Trends和Google Maps，全都來自這個平台，且使用者也可在Google Labs上嘗鮮。目前Google實驗室中擁有56種實驗性服務。
+
+Bill Coughran在公司網站上的部落格張貼文章表示，部份Google Labs的實驗性產品將關閉，但這些服務並不會直接消失，而是把相關的服務與技術整合至不同的產品中。而屬於Android應用程式的實驗性產品，將繼續透過Android Market提供。
+
+不過，Google實驗室的關閉並不影響Google於產品中嵌入的實驗室功能，包括Gmail實驗室（Gmail Labs）或Google地圖實驗室等（Maps Labs）都將持續存在，以繼續開發並測試Google產品的新服務。
+

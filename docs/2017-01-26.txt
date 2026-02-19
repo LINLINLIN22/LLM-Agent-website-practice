@@ -1,0 +1,14 @@
+標題: 下載前先體驗 ！　Android Instant Apps正式上線
+原文: https://www.ectimes.org.tw/2017/01/%e4%b8%8b%e8%bc%89%e5%89%8d%e5%85%88%e9%ab%94%e9%a9%97-%ef%bc%81%e3%80%80android-instant-apps%e6%ad%a3%e5%bc%8f%e4%b8%8a%e7%b7%9a/
+記者／雷勝雲
+
+你會不會覺得嘗試一個新的App是一件麻煩事呢？必須經過下載、安裝和使用，最後再決定是否將它留下。而去年在Google I/O大會上亮相的Android Instant Apps就是為了解決這樣繁瑣的過程！而Google終於在24日宣布Instant Apps已經正式上線！目前開放四家App開發商對美國用戶進行測試。
+
+■Android Instant Apps為針對Google Play所提供的服務。（截圖自／Android Developer Blog）
+
+Android Instant Apps是一種無需安裝就能率先體驗App功能的新程序。過去我們使用行動裝置來搜尋購物網站時，點擊連結後經常會自動跳轉至其應用程式的下載畫面，若拒絕下載，就只能透過網頁版介面來使用，而Instant Apps的應用會促使系統點擊後下載對應的模組，無需安裝完整的應用程式就可以提供給使用者相同體驗，也能避免網頁和App轉換時而造成使用經驗的中斷。
+
+Google表示，他們一直都與少數的開發者進行合作，改善用戶和開發人員的體驗，而現在有幾款Instant Apps將首次開放給Android的用戶來做有限的測試，提供測試的四款Apps分別為BuzzFeed、Wish、Periscope和Viki，再收集用戶對產品的反饋後，就會將這樣的體驗延伸到更多的Apps和用戶身上。如果想嘗試Instant Apps的開發，更新自身App的要做的第一件事就是簡化程式，並將其「模組化」，分成各不大於4MB的獨立部分，Google也提到在未來幾個月內將會提供完整的軟體開發套件。
+
+Instant Apps的開發並不是為了取代原先的App，只是以試用的方式讓用戶在體驗部分功能後，主動前往Google Play下載完整的App，因此Google也對其做出部分限制。Instant Apps可以提高網頁版的使用效率，但本身並不會提高載入速度，而下載模組所需要的流量也不少，是否真的能解決問題，還須等待用戶測試後給予回應。
+

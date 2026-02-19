@@ -1,0 +1,10 @@
+標題: 軟體巨人微軟  分食電訊產業大餅
+原文: https://www.ectimes.org.tw/2003/08/%e8%bb%9f%e9%ab%94%e5%b7%a8%e4%ba%ba%e5%be%ae%e8%bb%9f-%e5%88%86%e9%a3%9f%e9%9b%bb%e8%a8%8a%e7%94%a2%e6%a5%ad%e5%a4%a7%e9%a4%85/
+記者／許梅鈺
+
+根據研究公司IDC調查，微軟Microsoft Corp.將涉入電信產業的市場，並可能成為在連結電話、企業網路軟體和其服務市場中，成為舉足輕重的角色，而此舉勢必將會與思科Cisco Systems Inc.與Avaya Inc.成為勁敵，預計今年秋天將會在美國推出電訊會議軟體OfficeLive Meeting。
+
+IDC認為目前微軟正在進行幾項關於連結電話的計畫都非常具有市場開發的潛力，包括利用個人電腦PC可以接打電話，利用固定網路（land-line）或是行動電話與客戶的電話相連結，甚至進一步架設電訊會議，使得用戶間可以了解彼此間何時有空。而微軟對於電信市場的野心，對於其他的製造商也逐漸造成威脅，包括阿爾卡特Alcatel SA、西門子Siemens AG、北電網絡NortelNetworks Corp.以及網康3Com Corp.等。
+
+事實上，微軟在今年一月時即以對外公開將要進行相關電信的研發計畫，為此並收購電訊會議軟體開發商PlaceWare Inc.，將原本PlaceWare產品改名為OfficeLive Meeting，OfficeLive Meeting 這項軟體主要針對企業用戶，利用網路瀏覽軟體還架設電訊會議，使得員工甚至可以藉此以影音聊天，預計將在今年秋天在美國首先推出，目前JetBlueAirways Corp.、惠普Hewlett-PackardCo.，及戴爾Dell Inc.等公司在使用此軟體。
+

@@ -1,0 +1,14 @@
+標題: 微軟Office 365　攻佔雲端商業服務
+原文: https://www.ectimes.org.tw/2010/10/%e5%be%ae%e8%bb%9foffice-365%e3%80%80%e6%94%bb%e4%bd%94%e9%9b%b2%e7%ab%af%e5%95%86%e6%a5%ad%e6%9c%8d%e5%8b%99/
+記者／黃惟伶微軟在19日宣布推出運用雲端技術的「Office」線上版「Office 365」，加強微軟現有的雲端服務，並可與多數瀏覽器、行動設備系統相容，現已在13個國家提供試用版，正式版預計明年推出，期盼藉由租用服務的新銷售模式鞏固、拓展既有市場規模及影響力。微軟表示，Office 365軟體不但可與Firefox、蘋果Safari與GoogleChorme瀏覽器相容，也可以在黑莓機、Android及iPhone等智慧型手機上使用，用戶不需要先安裝軟體，即可在線上使用Outlook、SharePoint及簡化版Word和Excel等Office程式，若是安裝軟體則可享受更多功能。不同於過去的銷售模式，Office 365以提供軟體租用服務的方式推出，企業只要根據自身規模及使用需求，每月（每人）繳交2～27美元（約新台幣62～831元）不等的月租費，即可使用Office、SharePoint Online、Exchange Online及Lync Online等軟體的雲端服務，不需再為安裝、維護等事務煩惱。Office是微軟的指標產品之一，每年為微軟賺進130億美元（約4000億台幣）的營收，市佔率高達94％。此次大幅改變產品定位及銷售方式被視為與Google的Google Doc和Google Apps服務相抗衡。科技網站CNET.com記者Ina Fried認為，雲端版Office服務的推出代表微軟在銷售和營收模式上都開始產生轉變。
+
+記者／黃惟伶
+
+微軟在19日宣布推出運用雲端技術的「Office」線上版「Office 365」，加強微軟現有的雲端服務，並可與多數瀏覽器、行動設備系統相容，現已在13個國家提供試用版，正式版預計明年推出，期盼藉由租用服務的新銷售模式鞏固、拓展既有市場規模及影響力。
+
+微軟表示，Office 365軟體不但可與Firefox、蘋果Safari與GoogleChorme瀏覽器相容，也可以在黑莓機、Android及iPhone等智慧型手機上使用，用戶不需要先安裝軟體，即可在線上使用Outlook、SharePoint及簡化版Word和Excel等Office程式，若是安裝軟體則可享受更多功能。
+
+不同於過去的銷售模式，Office 365以提供軟體租用服務的方式推出，企業只要根據自身規模及使用需求，每月（每人）繳交2～27美元（約新台幣62～831元）不等的月租費，即可使用Office、SharePoint Online、Exchange Online及Lync Online等軟體的雲端服務，不需再為安裝、維護等事務煩惱。
+
+Office是微軟的指標產品之一，每年為微軟賺進130億美元（約4000億台幣）的營收，市佔率高達94％。此次大幅改變產品定位及銷售方式被視為與Google的Google Doc和Google Apps服務相抗衡。科技網站CNET.com記者Ina Fried認為，雲端版Office服務的推出代表微軟在銷售和營收模式上都開始產生轉變。
+

@@ -1,0 +1,10 @@
+標題: 手機付帳機制逐漸成形
+原文: https://www.ectimes.org.tw/2003/05/%e6%89%8b%e6%a9%9f%e4%bb%98%e5%b8%b3%e6%a9%9f%e5%88%b6%e9%80%90%e6%bc%b8%e6%88%90%e5%bd%a2/
+記者／蘇伯方
+
+暨日本電信公司Docomo、VISA、Nippon Shinpan以及KDDI、JCB相繼在日本測試行動小額付款的機制以後，Nokia與MasterCard發卡組織又在美國Dallas測試了名為PayPass的行動付款系統。MasterCard曾經在Orlando測試過內嵌在卡片裡的無接觸感應晶片，而這次則裝在Nokia稱為Smartcover的手機上。
+
+在不久的將來，Dallas的居民將可以利用手機來購買熱狗與照相機。這個測試將把手機變成信用卡。「透過無接觸晶片以及射頻天線」MasterCard資深總裁表示「使用者只要在特別設置的PayPass讀取系統前搖一搖或者輕拍一下他們的Nokia特別設計的smartcover手機就可以進行付款。」由於內建了預先登錄的MasterCard付款帳戶資訊，因此付款的資訊會如同一般的信用卡付款制度一般，但是不需要再隨身帶著一堆卡片，經由讀卡機來進行刷卡的動作。他們形容整個系統為「無接觸」（contactless）付款機制。
+
+Nokia目前已經在Dallas推出500台配有這個付費技術的行動電話以及1500副外掛的付費裝置。而參與測試的廠商除了可以得到快速付款的便利之外，他們也可以將廣告透過SMS（Short Message Service，短訊服務）傳送給購買的使用者，將來甚至可以透過聲光動畫的MMS（Multimedia Message Service，多媒體訊息服務）傳送相關廣告給消費者，打通顧客關係管理的重要環節。
+

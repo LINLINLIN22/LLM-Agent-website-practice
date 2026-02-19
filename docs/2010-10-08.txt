@@ -1,0 +1,14 @@
+標題: iPhone與AT&T分手　Verizon成為第三者？
+原文: https://www.ectimes.org.tw/2010/10/iphone%e8%88%87att%e5%88%86%e6%89%8b%e3%80%80verizon%e6%88%90%e7%82%ba%e7%ac%ac%e4%b8%89%e8%80%85%ef%bc%9f/
+記者／洪千堉Apple公司開始進行新款CDMA iPhone的研發計畫，預計在明年第一季上市，未來將由Verizon Wireless電信公司販售，此項改變，結束從2007年以來Apple iPhone和AT&T電信公司在美國獨家電信合作的關係。AT&T自2007年開始，與Apple iPhone在美國進行電信合作計畫。美國使用者若要購買iPhone只能向AT&T購得。因為iPhone由AT&T獨家代理，所以使用者無法於其他電信公司購得iPhone，就像是iPhone剛在台上市時，由中華電信獨家代理的狀況一樣。但這樣的關係要結束了，Verizon Wireless將成為下一個販賣新款iPhone的電信公司。日前傳出iPhone 4的設計缺失造成收訊不良，導致獨家代理的AT&T收到很多使用者的抱怨。但AT&T表示在代理iPhone 4前，公司很少發生收訊不好的狀況，認為iPhone 4正在破壞AT&T的公司形象，考慮未來將不再繼續代理iPhone，但失去獨家代理將會讓AT&T流失37%的用戶。UBS AG證券分析師John Hodulik表示，明年開始販售新款iPhone的Verizon Wireless，目前擁有9,280萬位用戶，預計每季可以向這些用戶賣出300萬支iPhone。另，Apple則預定新款CDMA iPhone在2010年產量為600萬到700萬支。新款iPhone與AT&T販售的iPhone 4相似，不一樣的是，新的iPhone所採用的是CDMA分碼多工﹝Code Division Multiple Access﹞無線技術，目前的iPhone透過GMS無線網路系統來收發訊息。在美國只能使用AT&T的無線網路收發訊號，而新的CDMA iPhone，讓使用者能夠選擇，使用不同的通訊業者﹝carriers﹞所提供無線網路來進行訊號的收發，雖然新款CDMA iPhone由Verizon Wireless進行販售，但使用者不一定要使用Verizon Wireless的通訊網路。未來，iPhone使用者將會有更多的選擇。
+
+記者／洪千堉
+
+Apple公司開始進行新款CDMA iPhone的研發計畫，預計在明年第一季上市，未來將由Verizon Wireless電信公司販售，此項改變，結束從2007年以來Apple iPhone和AT&T電信公司在美國獨家電信合作的關係。
+
+AT&T自2007年開始，與Apple iPhone在美國進行電信合作計畫。美國使用者若要購買iPhone只能向AT&T購得。因為iPhone由AT&T獨家代理，所以使用者無法於其他電信公司購得iPhone，就像是iPhone剛在台上市時，由中華電信獨家代理的狀況一樣。但這樣的關係要結束了，Verizon Wireless將成為下一個販賣新款iPhone的電信公司。
+
+日前傳出iPhone 4的設計缺失造成收訊不良，導致獨家代理的AT&T收到很多使用者的抱怨。但AT&T表示在代理iPhone 4前，公司很少發生收訊不好的狀況，認為iPhone 4正在破壞AT&T的公司形象，考慮未來將不再繼續代理iPhone，但失去獨家代理將會讓AT&T流失37%的用戶。UBS AG證券分析師John Hodulik表示，明年開始販售新款iPhone的Verizon Wireless，目前擁有9,280萬位用戶，預計每季可以向這些用戶賣出300萬支iPhone。另，Apple則預定新款CDMA iPhone在2010年產量為600萬到700萬支。
+
+新款iPhone與AT&T販售的iPhone 4相似，不一樣的是，新的iPhone所採用的是CDMA分碼多工﹝Code Division Multiple Access﹞無線技術，目前的iPhone透過GMS無線網路系統來收發訊息。在美國只能使用AT&T的無線網路收發訊號，而新的CDMA iPhone，讓使用者能夠選擇，使用不同的通訊業者﹝carriers﹞所提供無線網路來進行訊號的收發，雖然新款CDMA iPhone由Verizon Wireless進行販售，但使用者不一定要使用Verizon Wireless的通訊網路。未來，iPhone使用者將會有更多的選擇。
+

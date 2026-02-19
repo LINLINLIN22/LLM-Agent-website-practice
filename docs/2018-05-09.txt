@@ -1,0 +1,14 @@
+標題: Microsoft Pay與電子郵件服務Outlook整合　簡化付款流程
+原文: https://www.ectimes.org.tw/2018/05/microsoft-pay%e8%88%87%e9%9b%bb%e5%ad%90%e9%83%b5%e4%bb%b6%e6%9c%8d%e5%8b%99outlook%e6%95%b4%e5%90%88%e3%80%80%e7%b0%a1%e5%8c%96%e4%bb%98%e6%ac%be%e6%b5%81%e7%a8%8b/
+記者／李欣怡
+
+2018年微軟開發者大會在台北時間 7 日晚上 11 點半於西雅圖登場。每年大會中都會宣布許多的重大政策與發明，而今年微軟即宣布，要將數位付款工具Microsoft Pay與電子郵件服務Outlook整合，簡化付款流程。
+
+Microsoft Pay是一款微軟在2016年所發展出的數位付款工具， 目前可以在Lumia 950，Lumia 950 XL和Lumia 650等微軟所開發的智慧型手機上使用。至於Outlook，則是Microsoft Office內的個人資訊管理系統軟體，其主要功能包括了傳送電子郵件，甚至是任務管理、記事本等。
+
+￭2018年開發者大會，微軟宣布要將數位付款工具Microsoft Pay與電子郵件服務Outlook整合。（截圖自╱Microsoft Pay官網）
+
+過去如果用戶在Outlook內收到網路帳單，必須離開Outlook頁面，使用其他支付平台才能進行付款。多數的Outlook用戶為企業員工，一來一往的頁面轉換增加了不少時間成本。在整合後，用戶可以在不離開Outlook的情況下，透過主頁右方的服務面板Adaptive Cards，完成付款，大幅提升工作效率。
+
+微軟表示，透過Stripe以及Braintree等支付服務公司的技術，將可以降低自家產品與第三方服務之間的隔閡。Stripe也說明，與Microsoft Pay合作後，只要是其所服務的企業，將一樣擁有Outlook付款功能。而這樣的整合所增加的付款便利性，也被預期能強化Outlook用戶黏著度，就像Google Pay、Apple Pay一樣。
+

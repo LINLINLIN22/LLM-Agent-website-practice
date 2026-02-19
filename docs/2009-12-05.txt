@@ -1,0 +1,14 @@
+標題: 微軟再槓Google　網路地圖成為新戰地
+原文: https://www.ectimes.org.tw/2009/12/%e5%be%ae%e8%bb%9f%e5%86%8d%e6%a7%93google%e3%80%80%e7%b6%b2%e8%b7%af%e5%9c%b0%e5%9c%96%e6%88%90%e7%82%ba%e6%96%b0%e6%88%b0%e5%9c%b0/
+記者／陳珮嘉微軟2日發表全新的Bing Maps測試版，透過空中高解析度以360度視角鳥瞰(Birds Eyes)街景、大樓，使用者可獲得各地確實道路交通情況，並可自由加入新的街景圖片，微軟技術專家Chris Pendleton認為新的Bing Maps必定會獲得市場高度注意。Bing Maps街景透過Microsoft Silverlight技術，以3D模擬方式讓使用者如同身歷其境，藉著羅盤功能轉動檢視方位，並可查詢歷史紀錄。除了一般街景影像，用戶也能經由3D衛星圖、空照圖鳥瞰城市景觀，順暢轉換衛星和街景影像模式。微軟也仿照Google，在美國主要城市利用專車收集景象資訊，建立地圖影像庫，目前Bing Maps已擁有100個美國主要城市資料。Bing應用程式專區新增許多功能，利用Newsewn應用程式，可閱讀地方新聞頭版以及獲得當地交通狀況資訊，另外使用者可上傳照片到地圖資料庫中，透過Phtosynth技術可使平片照片合成3D模式，而Bing Maps應用程式會將新照片與資料庫中相關照片結合。Bing Maps也結合Twitter Maps標籤功能，用戶可看到鄰近地區的twitter簡訊，甚至可找到熱門地點的物件影像，例如大英博物館正在展示的藝術品。微軟Bing搜索引擎團隊主管Stefan Weitz強調，Bing Maps重點在於提升網路地圖實用性。Bing Maps的問世代表微軟和Google又增加新戰線，對此Google Maps副總裁John Hanke回應，Bing許多新功能都是在追趕Google，而斯特林市場情報公司（Sterling Market Intelligence）公司分析師Greg Sterling認為，Bing把Google所做的一切又向前提升一大步。
+
+記者／陳珮嘉
+
+微軟2日發表全新的Bing Maps測試版，透過空中高解析度以360度視角鳥瞰(Birds Eyes)街景、大樓，使用者可獲得各地確實道路交通情況，並可自由加入新的街景圖片，微軟技術專家Chris Pendleton認為新的Bing Maps必定會獲得市場高度注意。
+
+Bing Maps街景透過Microsoft Silverlight技術，以3D模擬方式讓使用者如同身歷其境，藉著羅盤功能轉動檢視方位，並可查詢歷史紀錄。除了一般街景影像，用戶也能經由3D衛星圖、空照圖鳥瞰城市景觀，順暢轉換衛星和街景影像模式。微軟也仿照Google，在美國主要城市利用專車收集景象資訊，建立地圖影像庫，目前Bing Maps已擁有100個美國主要城市資料。
+
+Bing應用程式專區新增許多功能，利用Newsewn應用程式，可閱讀地方新聞頭版以及獲得當地交通狀況資訊，另外使用者可上傳照片到地圖資料庫中，透過Phtosynth技術可使平片照片合成3D模式，而Bing Maps應用程式會將新照片與資料庫中相關照片結合。Bing Maps也結合Twitter Maps標籤功能，用戶可看到鄰近地區的twitter簡訊，甚至可找到熱門地點的物件影像，例如大英博物館正在展示的藝術品。
+
+微軟Bing搜索引擎團隊主管Stefan Weitz強調，Bing Maps重點在於提升網路地圖實用性。Bing Maps的問世代表微軟和Google又增加新戰線，對此Google Maps副總裁John Hanke回應，Bing許多新功能都是在追趕Google，而斯特林市場情報公司（Sterling Market Intelligence）公司分析師Greg Sterling認為，Bing把Google所做的一切又向前提升一大步。
+

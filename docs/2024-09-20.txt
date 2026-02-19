@@ -1,0 +1,12 @@
+標題: ChatGPT 企業版用戶數量突破！OpenAI 近期又有哪些動態呢？
+原文: https://www.ectimes.org.tw/2024/09/chatgpt-%e4%bc%81%e6%a5%ad%e7%89%88%e7%94%a8%e6%88%b6%e6%95%b8%e9%87%8f%e7%aa%81%e7%a0%b4%ef%bc%81openai-%e8%bf%91%e6%9c%9f%e5%8f%88%e6%9c%89%e5%93%aa%e4%ba%9b%e5%8b%95%e6%85%8b%e5%91%a2%ef%bc%9f/
+ChatGPT 企業版用戶數突破
+
+OpenAI於2022年推出了ChatGPT引發了全球對於生成式聊天機器人的關注，然而 ChatGPT  的風靡卻也引發了一些問題，例如企業員工在工作時使用ChatGPT ，可能會導致企業內部資料外洩，因此過去有許多企業都禁止員工使用如 ChatGPT 這類型的生成式聊天機器人。為因應此問題，OpenAI 也推出了ChatGPT 企業版，增強了安全以及隱私性，例如不會使用企業的資料進行模型的訓練等，另外更量身定做了適合企業的應用場景，提供了比一般版本更強大的功能。而 OpenAI 在九月初也表示，ChatGPT 企業版的付費用戶人數已突破100萬人，顯示出企業內部確實對生成式聊天機器人有一定的需求。
+
+這100萬人包含了使用ChatGPT Team、ChatGPT Enterprise以及ChatGPT Edu這三項服的用戶，然而究竟實際上有多少企業使用 ChatGPT 企業版，OpenAI 並沒有對外公布，外界僅知道這些企業用戶中，以美、德、英、日佔比最多。
+
+OpenAI發布兩款全新模型
+
+另外，OpenAI 也在九月發布了兩款o1模型–OpenAI o1-preview 和 o1-mini，主要是專注於STEM方面、專注於推理能力的模型。o1-preview 的優點是擁有強大的推理能力，並且能解決複雜、深度的數學以及科學問題 ; o1-mini 則是專注於性能方面，主打快速回答問題的功能。從現在開始，只要是ChatGPT Plus 或 Team 用戶即可以使用 o1 模型，但針對使用的次數仍有所限制。
+

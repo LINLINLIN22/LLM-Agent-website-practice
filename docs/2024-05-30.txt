@@ -1,0 +1,10 @@
+標題: Apple全球開發者大會6/11登場 逾百場講座眾所期盼發表AI應用
+原文: https://www.ectimes.org.tw/2024/05/apple%e5%85%a8%e7%90%83%e9%96%8b%e7%99%bc%e8%80%85%e5%a4%a7%e6%9c%836-11%e7%99%bb%e5%a0%b4-%e9%80%be%e7%99%be%e5%a0%b4%e8%ac%9b%e5%ba%a7%e7%9c%be%e6%89%80%e6%9c%9f%e7%9b%bc%e7%99%bc%e8%a1%a8ai/
+蘋果公司於官網揭曉其年度全球開發者大會的活動內容，預告台灣時間6月11日將以Keynote發表會揭開序幕。（翻攝自WWDC24官網）
+
+蘋果公司（Apple）今（29日）於官網揭曉其年度全球開發者大會（WWDC）的活動內容，將以Keynote發表會揭開序幕，並進一步分享開發者可於一整週活動中學習和體驗到的內容。外界預測，在AI浪潮下，蘋果公司將推出相關應用。Keynote發表會演講將透過apple.com/tw、Apple Developer app、Apple TV app及Apple YouTube頻道等平台直播，並將於串流直播結束後以隨選播放方式提供。在Keynote發表會之後，Platforms State of the Union將深入探討iOS、iPadOS、macOS、tvOS、visionOS和watchOS等系統的最新發展，以及將進一步幫助Apple開發者的新工具。
+
+蘋果指出，今年的開發者大會WWDC24每週舉辦100多場技術講座，讓開發者有機會聽聽Apple工程師、設計師和其他專家怎麼說，藉此更深入地瞭解最新的技術和框架。今年，開發者還能取得精選指南，引導他們一覽會議的重大公告，例如新文件與講座等。
+
+蘋果也提供與Appple專家的深度諮詢。Apple Developer Program成員和Apple Developer Enterprise Program成員可以透過線上實驗室直接與Apple專家交流，針對應用最新技術、遵循最佳實踐、以及讓app和遊戲更上一層樓，獲得相關指引。Apple工程師和設計師也將透過即時的Apple Developer Forums論壇提供技術協助。
+

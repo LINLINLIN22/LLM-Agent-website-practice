@@ -1,0 +1,22 @@
+標題: Apple Intelligence於WWDC登場 新版Siri加入ChatGPT
+原文: https://www.ectimes.org.tw/2024/06/wwdc%e9%96%8b%e7%99%bc%e8%80%85%e5%a4%a7%e6%9c%83apple-intelligence%e7%99%bb%e5%a0%b4-%e6%96%b0%e7%89%88siri%e5%8a%a0%e5%85%a5chatgpt/
+蘋果（Apple）今年的開發者大會（WWDC）於台灣時間6月11日凌晨1:00盛大展開，最引人矚目的當屬於「蘋果智慧（Apple Intelligence）」登場，宣告蘋果正式進軍AI市場。
+
+蘋果在今年的開發者大會WWDC正式宣布推出「蘋果智慧（Apple Intelligence）」。（翻攝蘋果YouTube頻道）
+
+蘋果在此次WWDC上推出了一系列跨足多項產品的AI功能，無論是在iPhone、Mac、iPad等裝置上都能使用。蘋果更宣布與OpenAI合作，新版語音助理Siri將支援ChatGPT-4o。當使用者問問題時，Siri可以直接展示ChatGPT給出的答案。蘋果也表示，Siri使用的OpenAI是免費的，因此用戶無須創建新帳號，ChatGPT付費使用者也可以直接在Siri登入，已使用進階版功能。
+
+新版的智慧助手Siri透過大型語言模型的更新，即使用戶說話時結巴，Siri也能夠理解用戶修正後的語音內容。此外，Siri新增了「文字」輸入方式，使得在無法說話的情況下仍可輕鬆使用。
+
+而Siri的更大升級在於，它現在能夠跨越不同的應用程式，完成多步驟的任務。例如，當用戶詢問「我跟媽媽是約下週幾點吃飯？幫我記在行事曆上。」時，Siri能夠從Message中準確搜出當時約好的時間地點對話紀錄，並開啟行事曆寫下內容。
+
+蘋果還加入了許多AI圖像生成技術，包括Genmoji自創貼圖、Image Playground、Image Wand等功能。Genmoji讓用戶透過輸入文字指令，甚至使用朋友照片，生成出新的emoji。Image Playground讓使用者能夠在iMessage等軟體中快速生成圖片，並以圖像化界面為主，提供用戶更多靈感與風格建議。Image Wand則是可以以備忘錄草稿中的文字為素材，生成精美插圖。
+
+在文字生成方面，蘋果也推出了Rewrite功能，讓AI能夠協助重新潤飾文章、改變語氣、體裁，並在郵件、備忘錄、Pages及第三方應用程式等各種寫作工具中使用這項功能。另外，幾乎所有通知都可以用摘要的形式呈現，減少用戶閱讀時間。
+
+Apple Intelligence在「備忘錄」和「電話」App中亦有新增功能，當通話期間啟動錄音時，參與通話者會自動收到通知；通話結束後，Apple Intelligence會進行摘要，協助用戶回顧重點資訊。
+
+搜尋照片及影片也可借助Apple Intelligence，使用者可以借助自然語言搜尋特定照片。搜尋影片時，則可以在影片中找到特定時刻，並直接跳轉至相關段落。
+
+另外，使用者可以輸入文字，讓AI協助創作回憶影片。Apple Intelligence將根據描述挑選出最適合的照片和影片，接著從照片中辨識，生成具備獨特劇情發展的影片。
+

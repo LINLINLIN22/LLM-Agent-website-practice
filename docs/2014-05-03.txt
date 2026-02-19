@@ -1,0 +1,14 @@
+標題: Google大發威　雙推語音助理和找車服務
+原文: https://www.ectimes.org.tw/2014/05/google%e5%a4%a7%e7%99%bc%e5%a8%81%e3%80%80%e9%9b%99%e6%8e%a8%e8%aa%9e%e9%9f%b3%e5%8a%a9%e7%90%86%e5%92%8c%e6%89%be%e8%bb%8a%e6%9c%8d%e5%8b%99/
+記者／趙惠雯
+
+行動商機人人搶，繼微軟推出語音助理Cortana後，就剩下Google的Andr​​oid系統沒有正式的語音助理功能，面對各家業者來勢洶洶，外傳Google已經計畫要推出真正的語音助理「Google Everywhere」，同時在四月底所更新的Google Search版本中，為「Google Now」新增了自動停車追蹤功能，希望搶下百家爭鳴的行動商機。
+
+￭ 外傳Google計畫推出語音助理「Google Everywhere」。（圖／Android Police）
+
+據Android Police報導，Google正準備把旗下的助理軟體進行大統整，重新推出煥然一新的語音助理「Google Everywhere」，如跟它的名稱一樣「無所不在」，這個語音助理並不會被限制在主螢幕或是搜尋程式裡面，只要輕鬆使用語音的方式來下達指令，語音助理就能精準接收使用者的需求、並且執行任務，提供使用者更方便的使用經驗。
+
+除了強打「動口不動手」的語音助理，四月底發布更新的Google Search for Android v.3.4版本中，Google Now也增加了「自動停車追蹤」功能，使用者停好車後，只要打開Google Search頁面，Google Now就會自動跑出Parking Location的標誌卡，使用者根據標誌卡的位置就能輕鬆找到愛車最後停放的位置，不必在大街小巷繞半天苦尋愛車。
+
+儘管「Google Everywhere」正式的和大家見面的時間還沒訂定，但已經有消息指出，即將於今年6月舉行的Google I/O開發者大會很可能就是宣布這項服務的舞台，另外，用戶如果還沒看到Google Search for Android v.3.4版本的更新檔，也不必著急，Android Police已經在他們的網站上提供APK檔案供使用者下載。
+

@@ -1,0 +1,14 @@
+標題: 起死回生有幾回　用Google Keep住地位
+原文: https://www.ectimes.org.tw/2013/03/%e8%b5%b7%e6%ad%bb%e5%9b%9e%e7%94%9f%e6%9c%89%e5%b9%be%e5%9b%9e%e3%80%80%e7%94%a8google-keep%e4%bd%8f%e5%9c%b0%e4%bd%8d/
+記者／黃盈慈
+
+前陣子鄉民廣為流傳的The Google Graveyard，網頁中列出Google以不復存在的產品。如今Google新推出Google Keep雲端筆記服務，不免令人想到短命的Google Notebook，及今年關閉的Reader。而Keep在面對Evernote優勢環擊下，未來壽命能多長，令人拭目以待。目前Google Keep已正式上線，只要是Android4.0以上皆可下載使用，可惜目前Keep仍未支援iOS等其他系統。TechCrunch訪問Keep開發工程師表示，Keep的設計理念來自於，在沒有紙筆下可隨時記錄想法。Google Keep的輸入介面簡潔明瞭，強調色彩做標識分類，可建立備忘錄，以圖片與錄音方式，快速建立筆記，而Android 4.2以上系統還可在螢幕鎖定時，輸入筆記、紀錄相關事項。其實Google Keep的推出並非具有絕對優勢，因市場上類似的筆記應用程式早已屢見不鮮，其中又以Evernote與OneNote為最大競爭對手，不過以目前Keep功能，相對於Evernote的品牌化經營，與便於操作的雲端筆記功能，以及OneNote全面的筆記功能，Keep仍有進步空間。因此，Keep也極力與Google Drive整合，達到行動雲端的服務優勢。面對Google Keep的推出，許多Google支持者卻因此卻步，因Google Reader關閉讓支持者們失望了！再加上類似於Keep產品，Google Notebook於2006年推出，僅維持六年運轉則隨即關閉。而諸多網友也表示，「竟然Google產品壽命之短，何不如起初就不要接觸」。所以Keep的推出是否真能挽回使用者信心，為目前Google首要考量課題。
+
+前陣子鄉民廣為流傳的The Google Graveyard，網頁中列出Google以不復存在的產品。如今Google新推出Google Keep雲端筆記服務，不免令人想到短命的Google Notebook，及今年關閉的Reader。而Keep在面對Evernote優勢環擊下，未來壽命能多長，令人拭目以待。
+
+目前Google Keep已正式上線，只要是Android4.0以上皆可下載使用，可惜目前Keep仍未支援iOS等其他系統。TechCrunch訪問Keep開發工程師表示，Keep的設計理念來自於，在沒有紙筆下可隨時記錄想法。Google Keep的輸入介面簡潔明瞭，強調色彩做標識分類，可建立備忘錄，以圖片與錄音方式，快速建立筆記，而Android 4.2以上系統還可在螢幕鎖定時，輸入筆記、紀錄相關事項。
+
+其實Google Keep的推出並非具有絕對優勢，因市場上類似的筆記應用程式早已屢見不鮮，其中又以Evernote與OneNote為最大競爭對手，不過以目前Keep功能，相對於Evernote的品牌化經營，與便於操作的雲端筆記功能，以及OneNote全面的筆記功能，Keep仍有進步空間。因此，Keep也極力與Google Drive整合，達到行動雲端的服務優勢。
+
+面對Google Keep的推出，許多Google支持者卻因此卻步，因Google Reader關閉讓支持者們失望了！再加上類似於Keep產品，Google Notebook於2006年推出，僅維持六年運轉則隨即關閉。而諸多網友也表示，「竟然Google產品壽命之短，何不如起初就不要接觸」。所以Keep的推出是否真能挽回使用者信心，為目前Google首要考量課題。
+

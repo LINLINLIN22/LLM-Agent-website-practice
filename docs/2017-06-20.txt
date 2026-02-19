@@ -1,0 +1,14 @@
+標題: 透過Search Console健檢　以防未來在Google Chrome消失滅跡
+原文: https://www.ectimes.org.tw/2017/06/%e9%80%8f%e9%81%8esearch-console%e5%81%a5%e6%aa%a2%e3%80%80%e4%bb%a5%e9%98%b2%e6%9c%aa%e4%be%86%e5%9c%a8google-chrome%e6%b6%88%e5%a4%b1%e6%bb%85%e8%b7%a1/
+記者／張宛淳
+
+Google Chrome將2018年添加廣告封鎖功能，經審查後若被評為不合格，將無法在任何網頁投放廣告，企業主應趁盡快透過Search Console中的廣告體驗報告，自我檢視，以防未來在Chrome之中消失滅跡。
+
+￭任何可能破壞閱聽眾瀏覽網頁的廣告，未來將被封鎖。（截圖自／Coalition for Better Ad官方網站）
+
+Google宣布加入Coalition for Better Ad，組織中的「初始優質廣告標準（Initial Better Ads Standard）」，目的為改善閱聽眾對於線上廣告的體驗，未來任何可能破壞消費者瀏覽品質的廣告，舉凡是彈出式廣告、倒數計時廣告、自動播放影片的廣告等，皆有被阻擋在外的機會，即使使用Google Adsense也包含在內。
+
+此廣告標準相當嚴格，審查結果是影響所有網站，非單一網頁，若某些網頁不符規定，所有廣告將被禁止，但電腦版與行動裝置版是分開評級的，企業主可在Search Console上，清楚了解網站目前狀態與在搜尋引擎中的樣貌，便於維護與監控廣告成效。
+
+雖目前未進入過濾廣告的階段，但Google Chrome為主流瀏覽器之一，若能提早做好接受審查的準備與相關應對，未來才能繼續在網路廣告中佔有一席之地。
+

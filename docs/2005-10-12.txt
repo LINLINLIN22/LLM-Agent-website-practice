@@ -1,0 +1,14 @@
+標題: 部落格當道  VeriSign砸現金買下Weblog.com
+原文: https://www.ectimes.org.tw/2005/10/%e9%83%a8%e8%90%bd%e6%a0%bc%e7%95%b6%e9%81%93-verisign%e7%a0%b8%e7%8f%be%e9%87%91%e8%b2%b7%e4%b8%8bweblog-com/
+記者／林雯君
+
+美國提供智慧型網路、通訊建設服務的大廠VeriSign，7號宣布以現金二百三十萬美元買下Weblog.com的「Ping」技術，為部落格群體(blogosphere)提供更穩定可靠的通訊環境。
+
+VeriSign表示，在過去一到兩年間，使用部落格(blog)及RSS(ReallySimple Syndication)的人數大幅增加，但支援的網路通訊建設卻尚未跨出步伐。而VeriSign能提供部落格群體所需，既安全且具擴充性的建設服務。
+
+Ping伺服器能夠自動通知網站或部落格的訂閱者有新文章發布，Weblog.com目前掌控了將近每天兩百萬的發布訊息，同時，每個部落格訂閱者可接受上千則RSS訂閱，彷若專業的新聞出版業者。
+
+試圖搶一口部落格大餅的VersiSign，從ScriptingNews買下Weblog.com，往後將持續提供開放服務，從個人用戶到購買加值服務的廣大使用者都能受惠。
+
+(註：Ping，程式名，用來偵測網路上的遠端主機是否存在,並判斷網路狀況是否正常的網路偵測工具)
+

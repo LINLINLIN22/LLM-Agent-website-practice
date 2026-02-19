@@ -1,0 +1,10 @@
+標題: 英國eXeX和Cromwell醫院率先在手術中使用 Apple Vision Pro
+原文: https://www.ectimes.org.tw/2024/03/78780/
+英國倫敦 Cromwell Hospital 醫療團隊在手術過程中，使用 Apple Vision Pro 輔助手術進行。（照片取自：eXeX）
+
+Apple Vision Pro推出以後，以個人生活輔助使用或娛樂體驗為先行的主線，隨著時間推移開始出現於各式環境應用上。近期英國倫敦 Cromwell Hospital 醫療團隊在手術過程中，使用 Apple Vision Pro 輔助手術進行，亦成英國和歐洲第一家使用 Apple Vision Pro 作為外科後勤和協作工具的醫院。
+
+英國倫敦 Cromwell Hospital 醫療團隊利用 Vision Pro 協助進行了兩項外科脊柱手術，一名護士在手術過程中戴著 Vision Pro，配合美國公司 eXeX 提供的應用方案，協助醫生準備適當工具及追蹤整個手術進度，空間計算技術配合擴增實境（AR），令數據視覺化並提升開刀效率。醫療團隊中護士指出利用 Vision Pro 可突出顯示重要信息，避免人為錯誤及猜測，提升手術進行的信心。
+
+Vision Pro 打入醫學領域已有跡可尋，如稍早時間 Stryker 開發出 myMako 應用程式，以 Vision Pro 協助外科醫生利用 3D 模型及其他工具，檢視關節置換手術計劃，令患者獲得更好的治療，如減少疼痛及縮短復原時間。
+

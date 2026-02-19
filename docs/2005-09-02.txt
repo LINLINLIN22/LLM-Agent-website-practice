@@ -1,0 +1,14 @@
+標題: 微軟將添加Unix功能
+原文: https://www.ectimes.org.tw/2005/09/%e5%be%ae%e8%bb%9f%e5%b0%87%e6%b7%bb%e5%8a%a0unix%e5%8a%9f%e8%83%bd/
+記者／文馨
+
+微軟公司計劃把更多的Unix功能引進未來的Windows Server作業系統版本，同時停止開發自家的Services For Unix產品。
+
+往年微軟透過Services For Unix (SFU)，提供協助企業整合Windows與Unix機器的軟體工具。Services For Unix曾經要賣錢，但去年初微軟開始把這套工具免費提供給Windows客戶。
+
+微軟計劃把其中一部分的功能納入今年底預定推出的Windows Server更新版，即Windows Server 2003 R2。同時，微軟表示，不打算進一步發布獨立式的Services For Unix產品。 微軟已費了很多工夫，讓這些功能與作業系統更緊密地整合。R2採用一種新的架構，允許應用程式在Windows平台上執行，兼用Windows與Unix的程式設計介面。
+
+微軟也計劃在R2以外的產品中內建Unix工具，但不排除日後除了作業系統內附之外，再供應一些獨立的工具。 如同SFU的例子，微軟的目標是對採用Windows與Unix兩種設定的客戶提供支援，並協助尋求把Unix應用程式移往Windows平台的用戶。 在核心作業系統裡內建Unix服務，可協助企業在混用Windows與Unix機器的電腦網路上，執行共通的身分管理等任務。
+
+雖然內建Unix服務的基本目的相同–讓Windows在混合式的電腦網路中也能運作–客戶的一些需求正在轉變之中。客戶需要的是從專屬的Unix轉移到Windows，現在則是轉移許多功能，使能與Linux並存。
+

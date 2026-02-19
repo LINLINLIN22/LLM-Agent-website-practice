@@ -1,0 +1,14 @@
+標題: Dropbox斥資2.3億美元　收購電子簽名新創HelloSign
+原文: https://www.ectimes.org.tw/2019/01/dropbox%e6%96%a5%e8%b3%872-3%e5%84%84%e7%be%8e%e5%85%83%e3%80%80%e6%94%b6%e8%b3%bc%e9%9b%bb%e5%ad%90%e7%b0%bd%e5%90%8d%e6%96%b0%e5%89%b5hellosign/
+記者／謝宗憲
+
+雲端儲存與文件服務商Dropbox於28日宣布，將以2.3億美元（約合新台幣70.7億元）收購電子簽名公司HelloSign，交易預計於今年第一季完成，這也是Dropbox有史以來最大金額的併購案，目前HelloSign將會繼續獨立運作而非和Dropbox 整併，繼續支援Google、Salesforce和Dropbox等公司的文件服務。
+
+￭ 未來Dropbox會向客戶推薦自家的HelloSign，但仍會繼續與其他提供電子簽名服務的廠商合作。（截圖自／HelloSign）
+
+HelloSign成立於2010年，當時公司名稱為HelloFax，總部位於美國舊金山，致力於提供電子簽名、線上傳真等技術服務，協助企業達成無紙化的目標，目前擁有約8萬個客戶，包括財會軟體公司Intuit、共享乘車平台服務Lyft、電子大廠Samsung，以及社群媒體Twitter，其中HelloSign最為知名的技術就是電子簽名，用戶可以在電子文件上簽名並儲存至數位文件中，企業也能把HelloSign的電子簽名系統整合至自家軟體中應用，將文件處理完整數位化。
+
+日常生活中許多文件仰賴紙筆簽名和填寫表格，為了能夠改善這些作業流程，Dropbox透過導入行動裝置簡化文件服務HelloWorks和電子簽名HelloSign，協助用戶更快速完成交易，不僅提供創新的服務，更改變傳統大眾的工作模式，大幅提升工作效率。
+
+此次的收購行動，Dropbox儼然與HelloSign提供類似服務的Adobe以及DocuSign成為競爭對手，同時Dropbox期望吸引更多的大型企業採用其檔案共享和協作服務，也因此會在該產業當中，直接與Google、Apple，以及Microsoft共同競爭。
+

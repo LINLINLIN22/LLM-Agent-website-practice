@@ -1,0 +1,12 @@
+標題: Google集結軟體商　雲端市集開張
+原文: https://www.ectimes.org.tw/2010/03/google%e9%9b%86%e7%b5%90%e8%bb%9f%e9%ab%94%e5%95%86%e3%80%80%e9%9b%b2%e7%ab%af%e5%b8%82%e9%9b%86%e9%96%8b%e5%bc%b5/
+記者／王玉潔全球搜尋網站龍頭Google，於週二（9日）宣布推出Google Apps Marketplace，提供第三者軟體製造商在Google線上軟體商店販賣軟體，並可與Google的雲端運算服務結合。除了可以增加使用者依賴度及營收外，Google也將其視為削弱競爭對手微軟（microsoft）勢力的一項武器。Google Apps Marketplace產品經理Chris Vander Mey表示，Google使用者在享受雲端運算的好處後，要求提供更多樣化的企業應用程式，例如：會計軟體、人力資源管理軟體等。但Google本身並沒有這樣的技術，無法滿足顧客的需求。因此，Google決定發表Google Apps Marketplace以提供整合各種企業應用程式。其他軟體製造商將軟體放到Google Apps Marketplace，就可與Google行事曆、電子郵件、文件或聯絡人名單整合，並藉由整合Open ID，使用者只需一組的帳號及密碼就能登入不同的應用程式。這套整合企業應用軟體的網路商店，可讓使用者和軟體供應商在雲端交易更方便。軟體供應商透過Google Apps Marketplace銷售軟體，Google將可得到20％的收入，預估每位使用者每年消費的金額，將從50美元成長至數百美元不等。現在已有50家軟體供應商同意在Google Apps Marketplace販售產品，其中包括提供小型企業會計軟體的Intuit，及費用撥補軟體製造商Concur Technologies。
+
+記者／王玉潔
+
+全球搜尋網站龍頭Google，於週二（9日）宣布推出Google Apps Marketplace，提供第三者軟體製造商在Google線上軟體商店販賣軟體，並可與Google的雲端運算服務結合。除了可以增加使用者依賴度及營收外，Google也將其視為削弱競爭對手微軟（microsoft）勢力的一項武器。
+
+Google Apps Marketplace產品經理Chris Vander Mey表示，Google使用者在享受雲端運算的好處後，要求提供更多樣化的企業應用程式，例如：會計軟體、人力資源管理軟體等。但Google本身並沒有這樣的技術，無法滿足顧客的需求。因此，Google決定發表Google Apps Marketplace以提供整合各種企業應用程式。
+
+其他軟體製造商將軟體放到Google Apps Marketplace，就可與Google行事曆、電子郵件、文件或聯絡人名單整合，並藉由整合Open ID，使用者只需一組的帳號及密碼就能登入不同的應用程式。這套整合企業應用軟體的網路商店，可讓使用者和軟體供應商在雲端交易更方便。
+

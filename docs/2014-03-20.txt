@@ -1,0 +1,14 @@
+標題: 穿戴裝置熱門　Google推出Android Wear
+原文: https://www.ectimes.org.tw/2014/03/%e7%a9%bf%e6%88%b4%e8%a3%9d%e7%bd%ae%e7%86%b1%e9%96%80%e3%80%80google%e6%8e%a8%e5%87%baandroid-wear/
+記者／陳思穎
+
+Google正式發表眾所盼望的「Android Wear」，此作業系統是專門為穿戴型裝置開發的作業系統。許多手機業者，包含HTC、三星、LG等大廠，都推出Android的智慧型手錶。手機大廠LG的G Watch智慧手錶計畫將於第二季推出，而Motorola的Moto 360智慧手錶計畫將在今年盛夏推出。
+
+■Android Wear可以記錄使用者消耗的卡路里。（圖／Android Wear官網）
+
+Android Wear裝置將有以下主要功能，使用者可以有相片應用、通訊軟體、社交、新聞、購物的最新動態訊息。更可以使用觸控螢幕，整合Google Now在此裝置之中，使用者可運用手錶接受通知。Android 手機上安裝的軟體，使用者可在手錶上得到即時通知。
+
+除此之外，Android Wear還添加了活動監測的功能，可以記錄使用者跑步的時間、距離長短、活動量、消耗的卡路里。Android Wear具有多螢幕，更可以讓使用者以手錶存取手機的音樂、電視影片。不僅如此，只要使用者說出「OK Google」，即可搜尋資訊、導航、音樂撥放和回覆訊息等。
+
+現今Android Wear合作夥伴有三星、華碩、HTC、LG、Motorola，其中，Motorola將在夏季推出具有高雅金屬、圓形外觀的經典設計，並預計先在美國推出。而Fossil最快將於年底加入，讓使用者擁有外型更優雅的選擇。此外，LG將推出G Watch，該手錶設計簡單，以俐落的LCD螢幕呈現。穿戴型裝置已然成為行動裝置大廠下個競逐之地，未來發展讓人拭目以待。
+

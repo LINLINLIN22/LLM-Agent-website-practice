@@ -1,0 +1,14 @@
+標題: 「Shopping Tag」　Instagram測試新廣告功能
+原文: https://www.ectimes.org.tw/2016/11/%e3%80%8cshopping-tag%e3%80%8d%e3%80%80instagram%e6%b8%ac%e8%a9%a6%e6%96%b0%e5%bb%a3%e5%91%8a%e5%8a%9f%e8%83%bd/
+記者／雷勝雲
+
+Instagram2日在官網上宣布將在美國iOS用戶中，開始測試新的廣告功能，讓使用者可以在自己喜愛品牌的Instagram頁面上，擁有更簡單的購物經驗，並透過即時的商品資訊，縮短顧客做出購買決定的時間。
+
+■加上「Shoppable photo tags」的照片與其開啟的內頁。（截圖自／Instagram）
+
+此功能稱為「Shoppable photo tags」，和標註朋友的方法類似，品牌可以選擇為商品照片加上標籤（tag），而被標註的照片，在左下角會顯示一個「檢視標籤」的小圖示，當用戶點擊照片後，才會出現標籤內容，此方式能避免破壞照片的整體美感。而在點進標籤後，會在App內開啟一個新內頁，顯示商品的詳細資訊，包含定價、商品說明、更多相關照片等，省去使用者離開App去進行額外搜尋的動作，期望在不打斷使用經驗的情況下，完成顧客歷程。
+
+「Shoppable photo tags」雖然是Instagram剛推出的新功能，但在App中直接開啟頁面的方式，和臉書（Facebook）去年5月釋出的新聞推播功能Instant Article非常類似，當使用者點選動態上的新聞連結時，會直接於Instant Articles頁面顯示，不會再引導到外部新聞網站。而「Shoppable photo tags」在所開啟的內頁中，放置的「直接購買」按鈕，在推特和臉書上也都推出許久。另外，Instagram於今年八月推出的「Stories」限時動態，也與Snapchat的主要賣點「閱後即焚」相似，質疑Instagram追隨其他社群腳步的聲音越來越多，面對疑慮，Instagram總監Kevin Systrom表示，這些創新功能的先行者並非是最重要的，而是它能以什麼樣的新手法被運用在社群中。
+
+未來「Shoppable photo tags」還有可能會運用到影片廣告上，Instagram期望能提高品牌廣告功能的導入速度，並運用其簡單乾淨且具視覺美感的介面優勢，創造全新的消費體驗與廣告模式。
+

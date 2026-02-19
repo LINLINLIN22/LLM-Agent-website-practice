@@ -1,0 +1,22 @@
+標題: Raspberry Pi主打5美元電腦　行銷話術掀話題
+原文: https://www.ectimes.org.tw/2015/11/raspberry-pi%e4%b8%bb%e6%89%935%e7%be%8e%e5%85%83%e9%9b%bb%e8%85%a6%e3%80%80%e8%a1%8c%e9%8a%b7%e8%a9%b1%e8%a1%93%e6%8e%80%e8%a9%b1%e9%a1%8c/
+記者／孟祥瑄
+
+真的有這麼便宜的電腦嗎？喝一杯焦糖瑪奇朵的價錢，就能買到一部電腦？Raspberry Pi樹莓派於美國時間26日推出新款電腦“Zero”，標榜售價只要5美元，打破其原最低售價電腦款式20美元的記錄。不過其實這只是行銷話術，如果想要讓它正常運作，必須額外添購連接線、電源及SD記憶卡等設備，總額依然要價近30美元。
+
+即使如此，Zero依然掀起一股話題，除了低價吸睛之外，迷你的尺寸（65mm x 30mm x 5mm）也比過去Raspberry Pi的產品更加嬌小。Zero雖然幾乎比信用卡還小，仍可謂麻雀雖小、五臟俱全，不管是看影片、傳檔案或玩遊戲都沒有問題。
+
+￭標榜只要5美元的新款電腦Zero。（截圖自／Raspberry Pi官方部落格）Raspberry Pi的創辦人Eben Upton甚至於官方部落格中宣稱，比5美元電腦更美好的就是「免費的電腦」，並趁勢在12月的《The MagPi》雜誌（市售5.99英鎊）中隨刊贈送Zero，搭著話題的熱潮持續提升Zero和Raspberry Pi的曝光度。Eben Upton也在部落格中寫道，Raspberry Pi一直以來所追求的目標，就是降低成本，讓更多人能負擔起購買電腦的費用，這也就是5美元電腦Zero因應而生的背後理由。但需要特別注意的是，目前Zero只在英國及美國能夠購買得到。Introducing PIZEROfromRaspberry Pi FoundationonVimeo.￭創辦人Eben Upton簡紹Zero。（影片／Raspberry Pi官方部落格）※本影片來源為Raspberry Pi官方部落格公開影片，若遭移除請見諒。分享此新聞：
+
+￭標榜只要5美元的新款電腦Zero。（截圖自／Raspberry Pi官方部落格）
+
+Raspberry Pi的創辦人Eben Upton甚至於官方部落格中宣稱，比5美元電腦更美好的就是「免費的電腦」，並趁勢在12月的《The MagPi》雜誌（市售5.99英鎊）中隨刊贈送Zero，搭著話題的熱潮持續提升Zero和Raspberry Pi的曝光度。
+
+Eben Upton也在部落格中寫道，Raspberry Pi一直以來所追求的目標，就是降低成本，讓更多人能負擔起購買電腦的費用，這也就是5美元電腦Zero因應而生的背後理由。但需要特別注意的是，目前Zero只在英國及美國能夠購買得到。
+
+Introducing PIZEROfromRaspberry Pi FoundationonVimeo.
+
+￭創辦人Eben Upton簡紹Zero。（影片／Raspberry Pi官方部落格）
+
+※本影片來源為Raspberry Pi官方部落格公開影片，若遭移除請見諒。
+

@@ -1,0 +1,24 @@
+標題: 2006第四季TechNet巡迴講座 12/07
+原文: https://www.ectimes.org.tw/2006/12/2006%e7%ac%ac%e5%9b%9b%e5%ad%a3technet%e5%b7%a1%e8%bf%b4%e8%ac%9b%e5%ba%a7-12-07/
+記者／林姿吟
+
+上午的講座，我們將以 Systems Management Server 為主題，說明並展示 SMS 2003 R2 所提供的弱點評估掃描工具 (Scan Tool for Vulnerability Assessment，STVA)，透過 Microsoft Baseline Security Analyzer（MBSA）2.0 引擎，替常見的軟體錯誤設定提供弱點評估報告，可有效減少組態上的錯誤，並協助您建立更安全的基礎結構。此外，SMS 所提供 Inventory Tool for Microsoft Updates（ITMU）還可用來判斷更新是否與受管理的系統相容，讓您提早一步，主動更新所需要的安全補充程式，以降低風險。
+
+下午的講座，我們將深入探討微軟虛擬化技術及 Server Consolidation 的應用實務。透過微軟虛擬技術，讓組織可以更有效率地利用其硬體資源。它也讓 IT 組織能夠提升它們整體的產能，快速部署新伺服器及 Desktop 端應用，以因應企業的變更需求。我們也將實做示範如何進行 Server Consolidate。主辦單位：Microsoft活動對象：不限活動時間：2006.12.07 09:30~16:30活動地點：台北國際會議中心 201DEF (台北市信義路五段 1 號 2 樓)活動費用：免費活動網址：http://www.microsoft.com/taiwan/events/technet06q4/reg.htm分享此新聞：
+
+下午的講座，我們將深入探討微軟虛擬化技術及 Server Consolidation 的應用實務。透過微軟虛擬技術，讓組織可以更有效率地利用其硬體資源。它也讓 IT 組織能夠提升它們整體的產能，快速部署新伺服器及 Desktop 端應用，以因應企業的變更需求。我們也將實做示範如何進行 Server Consolidate。
+
+主辦單位：Microsoft活動對象：不限活動時間：2006.12.07 09:30~16:30活動地點：台北國際會議中心 201DEF (台北市信義路五段 1 號 2 樓)活動費用：免費活動網址：http://www.microsoft.com/taiwan/events/technet06q4/reg.htm分享此新聞：
+
+主辦單位：Microsoft
+
+活動對象：不限
+
+活動時間：2006.12.07 09:30~16:30
+
+活動地點：台北國際會議中心 201DEF (台北市信義路五段 1 號 2 樓)
+
+活動費用：免費
+
+活動網址：http://www.microsoft.com/taiwan/events/technet06q4/reg.htm
+

@@ -1,0 +1,12 @@
+標題: 改朝換代　跟Chrome App說再見
+原文: https://www.ectimes.org.tw/2016/08/%e6%94%b9%e6%9c%9d%e6%8f%9b%e4%bb%a3%e3%80%80%e8%b7%9fchrome-app%e8%aa%aa%e5%86%8d%e8%a6%8b/
+記者／楊晴
+
+上週，Google宣佈將於2018年前，陸續終止Windows、Linux、Mac的Chrome App服務，根據「科技新報報導」，今年底開始，Chrome App將不會有新發表，接著將在2017年下半於Chrome Web Store的類別中消失，直至2018年，使用者將無法再使用Chrome App。
+
+Google產品開發管理副總裁Rahul Roy-Chowdhury表示，會做出這樣的決策，是因為Web App技術發展逐漸純熟，且目前只有1%的人為Google App的活躍使用戶，為了簡化Chrome的使用者體驗，將淘汰Chrome App，並轉站Web App的開發。
+
+什麼事Web App？根據「維基百科」，Web App是以瀏覽器執行的應用程式，過去Web App因技術關係，難以支援離線服務，然而近年技術逐漸純熟，愈來愈多App轉型成Web App的形式，Google暫停Chrome App一舉，或許正暗示了未來將會是Web App的全新時代。
+
+雖然2018年後，Windows、Linux、Mac平台將無法使用Chrome App，但根據「中國時報報導」，Chrome OS的用戶仍能持續使用Chrome App的服務，因此Chrome App的愛用者也不需要太擔心。
+

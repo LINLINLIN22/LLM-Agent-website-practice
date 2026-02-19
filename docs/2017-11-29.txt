@@ -1,0 +1,10 @@
+標題: 新工具Amazon Sumerian 　不用寫程式也能開發VR
+原文: https://www.ectimes.org.tw/2017/11/%e6%96%b0%e5%b7%a5%e5%85%b7amazon-sumerian-%e3%80%80%e4%b8%8d%e7%94%a8%e5%af%ab%e7%a8%8b%e5%bc%8f%e4%b9%9f%e8%83%bd%e9%96%8b%e7%99%bcvr/
+記者／蔡馨儀
+
+亞馬遜網絡服務公司 (AWS)27日發表新的瀏覽器開發工具Amazon Sumerian，使用者不需有深度寫程式知識，僅需通過簡單的點擊操作，就能建構逼真的虛擬環境，創造虛擬實境 (VR)、擴增實境 (AR)等3D畫面，透過此工具建立之應用程式可以支援大部分的瀏覽器和行動裝置，降低AR和VR的製作門檻。
+
+■Amazon Sumerian介面示意圖。（截圖自／Amazon Sumerian官網）
+
+Amazon Sumerian主打介面操作的便利性，類似於傳統的照片編輯軟體，如Adobe Photoshop，使用者可以從工具列中的圖型庫選擇樹木和地毯等物件，匯入自己創造的物件或從第三方資源庫Sketchfab、Turbosquid下載，透過點擊拖曳方式，將物件放在各種如辦公室、房間等場景，建立想要的3D畫面內容。Amazon Sumerian為跨平台開發工具，使用者無須下載其他任何軟體，完成的設計內容更能直接輸出至Google Daydream、HTC Vive、Oculus Rift、iOS等裝置上使用。AWS表示，未來將與Google的ARCore工具合作，提高各平台間的相容度。雖然Sumeria本身免費，但使用者必需註冊及支付AWS的雲端儲存服務費，才能使用完整功能版。AR、VR在各領域的應用非常廣泛，例如IKEA、Amazon讓消費者網路購物前，先用App看產品擺設於家中的樣貌，或是員工教育訓練。AWS技術副總裁Marco Argenti表示，雖然VR帶來的服務非常便利，但是剛開始構建VR或AR應用程序所需要的專業技能和前期投資龐大，會讓許多企業感到不安，因此Sumerian將會提供更多服務，讓更多人體驗便捷的3D互動體驗。
+

@@ -1,0 +1,12 @@
+標題: 零背景也能開始寫程式 Google與Udacity推出線上學習平台課程
+原文: https://www.ectimes.org.tw/2016/06/%e9%9b%b6%e8%83%8c%e6%99%af%e4%b9%9f%e8%83%bd%e9%96%8b%e5%a7%8b%e5%af%ab%e7%a8%8b%e5%bc%8f-google%e8%88%87udacity%e6%8e%a8%e5%87%ba%e7%b7%9a%e4%b8%8a%e5%ad%b8%e7%bf%92%e5%b9%b3%e5%8f%b0%e8%aa%b2/
+記者／蘇子倞
+
+近年來Google希望能讓更多人有機會學習Android平台的系統開發，於今年（2016）一月開始就與線上學習課程平台Udacity合作，陸續提供一些程式編寫課程，並且主打學生族群希望讓更多學生有機會開始編寫自己的網站程式。而就在今天，Google與Udacity正式宣布“ Google Android Basics Nanodegree class”整套線上基礎微課程，這個課程全由Google一手設計，且適用於任何任何人包括完全零經驗的初學者。
+
+而Udacity學習平台是如何運作的呢？使用者可以登入Udacity去選擇想要學習的課程，學習課程多元廣泛，包含程式語言學習、前台後台網站架設、數據分析、程式設計等等。過程中系統會提供適當的指示與幫助讓使用者能安心且循序漸進的學習，同時也能參加線上論壇與教學者跟一同學習的好友們相交流，以提升學習品質與吸收能力。在課程學習結束後，Google會頒發一份學業證書證明已經完成所有的課程且證明你已經具備程式語言的開發技能。
+
+▲Google Android線上課程。（截圖自／Udacity官網）
+
+Google已經與Udacity組成一個專業團隊，並預計提供一個免費的Android開發課程，名為“Developing Android Apps: Android Fundamentals”的課程，教導如何製作Android App，而前提是學員必須事先具備基本的程式操作能力。Google看準全球超過10億的Android使用戶，想必學習如何製作專屬App的需求也將會是未來一大趨勢。
+

@@ -1,0 +1,14 @@
+標題: 微軟不藏私　釋出Edge核心ChakraCore
+原文: https://www.ectimes.org.tw/2015/12/%e5%be%ae%e8%bb%9f%e4%b8%8d%e8%97%8f%e7%a7%81%e3%80%80%e9%87%8b%e5%87%baedge%e6%a0%b8%e5%bf%83chakracore/
+記者／黃郁翔
+
+微軟上週五（4日）宣佈將於明年1月於雲端代碼資料庫GitHub分享Chakra核心原始碼，即包含Win10作業系統Edge瀏覽器內的JavaScript引擎元件。微軟此舉是希望ChakraCore可以更廣泛地被運用，以提供人們更便利的服務，如應用於遊戲引擎、物聯網建立及雲端服務等。
+
+￭Chakra是應用於Edge瀏覽器上的JavaScript引擎。（截圖自／Microsoft官網）
+
+儘管微軟所釋出的ChakraCore並不是瀏覽器，而無法瀏覽網頁，但它不再只是用來支援編譯的JavaScript引擎，而是一項可以從事伺服器端、NoSQL資料庫、前端工具運用等多用途的器具。微軟自身不僅將在ChakraCore運用於Edge瀏覽器，更包含XBOX、Windows Phone、Outlook.com以微軟的物聯網平台Windows 10 IoT Core內。
+
+ChakraCore可以嵌入任何需要編譯能力的產品或應用，其他瀏覽器開發者也能透過此原始碼改善自身的JavaScript引擎，不需再借助Edge瀏覽器。同時ChakraCore亦支援新一代的API，利於使用者跨平台建構物聯網。微軟開放原始碼，不僅是希望能獲得外部開發者隊ChakraCore所做的改善回饋外，更大的目的則是讓更多人接觸自家產品。
+
+早在微軟釋出ChakraCore之前，微軟就已致力於自由軟體運動。從去年發表的Visual Studio .NET，可支援跨平台編寫Android和 iOS 程式，並免費提供給兩邊陣營的個別開發者，及這次ChakraCore原始碼的釋出，皆可發現微軟改變以往販賣軟體的獲利方式，而是把目標放大到整體用戶。雖然微軟這樣的改變，獲利可能會因此降低，但更能得到正面的企業形象並吸引更多開發者加入微軟陣營，進一步活化軟體開發生態。
+

@@ -1,0 +1,12 @@
+標題: 網購也能 Gen AI　Amazon 購物助理 Rufus 陪你聊
+原文: https://www.ectimes.org.tw/2024/07/%e7%b6%b2%e8%b3%bc%e4%b9%9f%e8%83%bd-gen-ai%e3%80%80amazon-%e8%b3%bc%e7%89%a9%e5%8a%a9%e7%90%86-rufus-%e9%99%aa%e4%bd%a0%e8%81%8a/
+美國跨國科技公司Amazon於 12 日宣布，即日起將開放生成式 AI 購物助理 Rufus 服務，所有美國使用者都可以在 Amazon 購物應用程式Amazon Shopping使用。使用者可用口語化的方式詢問購物相關問題，例如「舉辦泳池派對需要準備什麼」，「不同種類的烤箱差在哪裡」、「這件商品的平價好嗎」等。
+
+￭AmazonAIRufus購物助理，美國使用者可在Amazon Shopping使用。（圖片來源 /Amazon）
+
+Rufus 是一種生成式人工智慧工具 (Gen AI)，它負責運算 Amazon 購物網站上的資訊，其訓練的素材包含 Amazon 產品目錄、買家評論、社群問答、網路資訊等。Rufus 能根據消費者輸入的上下文，回答關於購物和商品的各種問題。
+
+Amazon Rufus AI 購物助理於今年 2 月發表，並於 7 月 12 日開放給所有美國市場 Amazon Shopping 使用者。使用者只需要更新 APP 並重啟，即可在畫面右下角看見 Rufus，點擊之後，畫面會進入一個聊天室窗，就可以開始詢問囉！
+
+除了 Rufus 購物助理之外，Amazon 也有為企業設計的聊天機器人Amazon Q，同時據傳也正在為一般消費者打造聊天機器人 Metis，準備與OpenAIChatGPT及GoogleGemini競爭生成式 AI 市場。
+

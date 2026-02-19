@@ -1,0 +1,12 @@
+標題: eBay退出Passport服務Microsoft痛失戰友
+原文: https://www.ectimes.org.tw/2005/01/ebay%e9%80%80%e5%87%bapassport%e6%9c%8d%e5%8b%99microsoft%e7%97%9b%e5%a4%b1%e6%88%b0%e5%8f%8b/
+記者／何羚瑋
+
+近日eBay宣布未來不再支援透過Microsoft的Passport或.Net服務登入的客戶。eBay方面表示，由於Microsoft在這個線上身份辨識服務作了「架構性的變動」，故決定停止支援該服務。Microsoft在Passport身份辨識技術的戰場中又失去一名超級戰友。
+
+Microsoft在聲明稿中回應，eBay的退出與現階段Passport所做的變更，仍在預料中。公司從夥伴與客戶那邊學習了許多，因此決定把Passport服務的重心轉為當作MSN與Microsoft線上服務客戶的單一登入解決方案。
+
+Microsoft於1998年4月收購Firefly Network藉此取得Passport技術，他們認為該服務可補足線上購物最令人擔心之處，遂於隔年重新推出這項服務，作為電子商務策略的一環。2004年3月，全球著名的拍賣網站eBay宣佈與Microsoft合作，企圖藉由身份辨識技術的相輔相成，聯手打下一片江山。Microsoft曾矢志成為當網友在線上商務領域上，最值得信賴，且無所不在的嚮導。這份承諾言猶在言，但局勢的轉變卻不如當初所預期。先前原與Microsoft結盟的廠商也紛紛退場，究竟還剩多少Passport夥伴目前難以估計。
+
+目前多數公司選擇支持「聯邦式身份辨識標準」，即由每一家公司自行管理用戶的線上身份。現今最受支持的聯邦式身份辨識是Liberty Alliance，旗下已有150名會員，包括Fidelity與American Express。eBay目前還非自由聯盟的會員，但解除與Microsoft那合作關係之後，eBay的動向令人期待。
+

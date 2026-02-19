@@ -1,0 +1,12 @@
+標題: PChome 攜手 Google 雲端運算　將推「以圖找物」功能
+原文: https://www.ectimes.org.tw/2023/09/pchome-%e6%94%9c%e6%89%8b-google-%e9%9b%b2%e7%ab%af%e9%81%8b%e7%ae%97%e3%80%80%e5%b0%87%e6%8e%a8%e3%80%8c%e4%bb%a5%e5%9c%96%e6%89%be%e7%89%a9%e3%80%8d%e5%8a%9f%e8%83%bd/
+臺灣老字號電商平台PChome Online 網路家庭，與Google Cloud雲端運算服務合作，重新調整後臺運作方式，為消費者提供更流暢且優質的消費體驗。今年第三季，PChome 將運用更多 Google Cloud AI 技術，為新零售風險找到解決方案，甚至預計提供「以圖找物」的新功能。
+
+￭PChome將透過Vision AI智慧影像辨識技術，推出「以圖找物」功能。（圖片來源 /PChome）
+
+Google Cloud 雲端運算服務 12 日的新聞稿說明，PChome 將透過Vision AI智慧影像辨識技術，推出「以圖找物」功能，讓消費者以更快速的方式找到想購買的物品，提升消費者的使用體驗，進而創造更高的品牌價值。
+
+除新增功能以外，PChome 面對存放資料和運行服務的傳統地端機房恐老舊、故障或停擺等問題，將PChome 24h購物、企業資源規劃系統、入口網站皆部署於Google Cloud Platform(GCP)，皆由高速運算和人工智慧，時刻掌握效費者需求。
+
+為因應電商檔期 10 至 15 倍高流量人潮，PChome 使用Google Kubernetes Engine及Compute Engine運算服務，能模擬在 10 至 15 分鐘內迅速開啟數萬個虛擬消費者進行網站壓力測試，事前確保網站穩定性，讓消費者不再因為爆流量而空等。接下來的 PChome 發展，值得讓所有消費者期待！
+

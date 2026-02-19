@@ -1,0 +1,14 @@
+標題: 豐田汽車宣布　導入亞馬遜Alexa智慧語音系統
+原文: https://www.ectimes.org.tw/2018/01/%e8%b1%90%e7%94%b0%e6%b1%bd%e8%bb%8a%e5%ae%a3%e5%b8%83%e3%80%80%e5%b0%8e%e5%85%a5%e4%ba%9e%e9%a6%ac%e9%81%9calexa%e6%99%ba%e6%85%a7%e8%aa%9e%e9%9f%b3%e7%b3%bb%e7%b5%b1/
+記者／范鈞凱
+
+日本豐田汽車(Toyota) 於 9日在美國消費電子展(Consumer TechnologyAssociation) 上宣布，美國境內部分的Toyota及Lexus車種，將於今年導入Amazon的智慧語音助理Alexa。
+
+Alexa為Amazon所開發的語音辨識系統，豐田汽車導入Alexa系統後，讓駕駛者以語音控制的方式去完成詢問天氣、編輯購物清單等以往需要手動操作的事項，使駕駛過程更安全也更方便，並且能與家用的語音系統做連結，在車內就可以控制家中的智慧家庭裝置。
+
+￭豐田汽車將導入智慧語音助理Alexa。（截圖自／Toyota USA youtube）
+
+豐田汽車過去就已著手發展有關共享汽車服務或人工智慧開發等方向，如2016年整合的MSPF(Mobility Service Platform) 行動服務平台，以及2017年與Toyota Entune 3.0及Lexus Enform2.0應用軟體的車種，可以藉由軟體更新的方式，獲得Alexa的相關功能，並且預期2019將擴展到更多車種上。
+
+語音助理系統除了是汽車製造業上的趨勢外，也成為今年美國電子消費展上的重點，Google在今年發表了Assistant系統也在展場上備受注目，而不同車商品牌也接續公布與相關軟體公司合作的消息，南韓KIA的UVO車用娛樂資訊系統就結合Google Assistant語音系統，另外BMW去年九月就宣布將在今年推出的部分車款上安裝Alexa系統，更多的廠牌將會進駐科技汽車的市場。
+

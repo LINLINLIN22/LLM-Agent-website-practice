@@ -1,0 +1,10 @@
+標題: MICROSOFT進軍手機軟體市場受挫
+原文: https://www.ectimes.org.tw/2003/12/microsoft%e9%80%b2%e8%bb%8d%e6%89%8b%e6%a9%9f%e8%bb%9f%e9%ab%94%e5%b8%82%e5%a0%b4%e5%8f%97%e6%8c%ab/
+記者／陳詠詩
+
+英國VODAFONE公司發布將延後採用由Microsoft所研發的手機專用之作業系統，而全球最大行動電話系統公司VODAFONE做出此一聲明，使後者欲進軍通訊產業者之信心受挫。
+
+VODAFONE執行長SARIN在接受金融時報專訪時表示：「Microsoft的手機作業系統還須改善，且Microsoft應要盡速地解決VODAFONE所遭遇的一些問題，若這些問題都能順利解決，則VODAFONE很樂意和Microsoft進行協商。此外SARIN表示，其不反對Microsoft成為下一代手機作業系統的供應商，但對於品質的確保是必要的。」
+
+Microsoft希望進入手機產業市場，計畫利用其電腦軟體上之優勢，再度稱霸於手機系統市場。但目前看來還未成氣候。雖然Microsoft於今年9月時已和MOTOROLA及英國ORANGE達成協意，將銷售裝有Microsoft作業系統的手機。但其他手機大廠對於Microsoft的手機作業系統，接受度依舊不高。如Nokia本身已有手機軟體公司SYMBIAN，無須再與Microsoft合作，而日本DOCOMO行動電話業者也表示，其3G手機系統傾向於使用LINUX系統及SYMBIAN軟體，還未考慮使用Microsoft的作業系統。
+

@@ -1,0 +1,12 @@
+標題: BlackBerry黑莓服務正式登台！
+原文: https://www.ectimes.org.tw/2006/12/blackberry%e9%bb%91%e8%8e%93%e6%9c%8d%e5%8b%99%e6%ad%a3%e5%bc%8f%e7%99%bb%e5%8f%b0%ef%bc%81/
+記者／洪于婕
+
+喜歡網路線上聊天，甚至收發電子郵件的使用者，未來可以不必再苦苦坐在電腦前， 因為台灣大哥大在通過國內NCC的審核後，正式引進一款外形像黑草莓的手機電腦。黑莓機，是手機也是PDA，擁有線上及時聊天與收發E-mai的功能，其實它就是在國外風行很久的行動商務辦公室－Blackberry。黑莓機背面有喇叭，直接手指鍵盤點選或透過跟滑鼠一樣功能的轉輪操作，七國七網隨用戶漫游到爽，預料將在台造成風潮。
+
+BlackBerry是迄今Push Mail服務最成功的故事。加拿大RIM（Research in Motion）公司以提供BlackBerry wireless e-mail服務崛起於北美。自1999年推出至今，全球已有超過180個電信業者於超過60個國家引進該產品，客戶總數超過550萬，全球超過7萬間企業使用。
+
+所謂的Push Mail（行動郵件），意指透過郵件伺服器的自動更新(Always up-to date, AUTO)功能，電信供應商(Carrier)將到達的郵件自動傳送到使用者手持設備中。這不似Pull般，要先向伺服器發出收信請求。
+
+相較於其他行動電信業者Push Mail服務，例如中華電採用微軟Exchange Server 2003 SP2的Direct Push技術，並推出具備MPro商務服務的3G手機CHT9000；遠傳電信在2005年六月，與軟體服務商Seven Network推出的Push Mail加值通訊服務；以及台灣大哥大在2005年三月業已與微軟合作，推出企業Push Mail服務，Blackberry最強調的除了裝置使用人性化外，加密功能也是其訴求重點，標榜美國白宮亦採用此服務。
+

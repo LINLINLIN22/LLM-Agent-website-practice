@@ -1,0 +1,12 @@
+標題: 時尚Oura Ring邁向主流市場，與健身應用Strava展開合作
+原文: https://www.ectimes.org.tw/2022/07/oura-ring-strava/
+因2018年英國哈利王子配戴而引起話題的智慧量測戒指Oura Ring，近期除了與高端品牌 GUCCI 合作推出潮流外觀的新設計之外，也與運動主流 App –Strava展開數據整合服務。
+
+相較於智慧手環或手錶，簡約高貴的 Oura Ring能讓人更無感地記錄睡眠和活動數據，為了讓廣大使用者更能無痛同步各項數據，Oura 終於首次與Apple HealthKit 和 Google Fit 之外的第三方應用程式 – Strava 開放資訊整合。
+
+這項整合可以雙向同步進行，Oura 的使用者能將 Strava 內的數據導入 Oura 的原生應用，確保這些運動紀錄都能作為 Oura 身體恢復 (Readiness) 及活動 (Activity) 成績的計算基礎，讓使用者能更明確得知自己在劇烈運動後的恢復狀況，並藉此評估是否已達到設定的鍛鍊目標。此外，這也代表使用者即便沒有佩戴Oura Ring，也能獲知自己身體恢復數據，對於常運用手部進行運動或健身(例如舉重)的使用者來說更有吸引力。
+
+受到時尚名人及專業運動員青睞的Oura，以及普羅大眾常用來追蹤軌跡和健身數據的 Strava，兩大知名健身領域的公司整合可謂一大躍進，在本月 16 號前，成為 Strava 的會員還能享有 Oura Ring 的訂購折扣，值得喜愛金屬感配件、重視健身和身體質量的朋友們考慮！
+
+編譯來源：The Oura Ring goes a little more mainstream with Strava integration
+

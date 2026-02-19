@@ -1,0 +1,14 @@
+標題: Facebook Home失敗關鍵　誤解行動用戶經驗
+原文: https://www.ectimes.org.tw/2013/05/facebook-home%e5%a4%b1%e6%95%97%e9%97%9c%e9%8d%b5%e3%80%80%e8%aa%a4%e8%a7%a3%e8%a1%8c%e5%8b%95%e7%94%a8%e6%88%b6%e7%b6%93%e9%a9%97/
+記者／蘇安妮Facebook Home四月初風光上市後，其革命性的社群理念，在Android 手機用戶中，隨即引起一陣話題風潮。然而，在用戶相際體驗後，Facebook Home劣評如潮，不但產品評價低迷，甚而拖累採用Home軟件的HTC First 手機銷售量。針對疲軟的市場反應，部份分析師指出，Facebook Home失敗關鍵在於誤解行動用戶需求。Facebook Home研發目的，在於改變臉書用戶使用途徑，進而加深對Facebook之依賴性與黏著性。藉由增加封面動態（cover feed）與聊天大頭貼（chat head）等人性化功能，強化「社交」在日常生活的滲透性。然而，被執行長馬克祖克柏喻為「智慧型手機靈魂」的Facebook Home，雖背後擁有億萬臉書用戶，下載量至今才緩慢到達100萬次，於Google Play的評價也僅獲得2.5顆星，正式宣告Facebook Home社群革命失敗。Enders Analysis移動行業分析師Benedict Evans表示，Facebook Home市場反應不如預期，理因錯估用戶理想的社群體驗。以封面動態來說，Facebook Home雖有助使用者即時更新朋友動態，然而，普通用戶未必如Facebook工程師預想般，隨時上載值得注意的訊息或高畫質圖像，導致使用戶也不樂見此類訊息出現在手機屏幕上。此外，Facebook Home不具足夠的客製化功能，讓用戶依個人喜好，調整界面，設定欲顯示的訊息，也是無法受市場青睞的主因。Facebook Home市場反應不佳似乎並未動搖臉書對此產品的信心。Facebook 行動技術總監 Cory Ondrejka 則指出，Facebook Home不儘讓臉書使用時間增加25%，按「讚」數量也提升25%。面對市場批評， Cory Ondrejka與產品總監Adam Mosseri也承認，欲將原臉書使用者切換至Facebook Home使用模式，是相當艱難的任務，並表示未來將會改良介面，新增簡單易懂導引說明，讓使用者更好上手。
+
+記者／蘇安妮
+
+Facebook Home四月初風光上市後，其革命性的社群理念，在Android 手機用戶中，隨即引起一陣話題風潮。然而，在用戶相際體驗後，Facebook Home劣評如潮，不但產品評價低迷，甚而拖累採用Home軟件的HTC First 手機銷售量。針對疲軟的市場反應，部份分析師指出，Facebook Home失敗關鍵在於誤解行動用戶需求。
+
+Facebook Home研發目的，在於改變臉書用戶使用途徑，進而加深對Facebook之依賴性與黏著性。藉由增加封面動態（cover feed）與聊天大頭貼（chat head）等人性化功能，強化「社交」在日常生活的滲透性。然而，被執行長馬克祖克柏喻為「智慧型手機靈魂」的Facebook Home，雖背後擁有億萬臉書用戶，下載量至今才緩慢到達100萬次，於Google Play的評價也僅獲得2.5顆星，正式宣告Facebook Home社群革命失敗。
+
+Enders Analysis移動行業分析師Benedict Evans表示，Facebook Home市場反應不如預期，理因錯估用戶理想的社群體驗。以封面動態來說，Facebook Home雖有助使用者即時更新朋友動態，然而，普通用戶未必如Facebook工程師預想般，隨時上載值得注意的訊息或高畫質圖像，導致使用戶也不樂見此類訊息出現在手機屏幕上。此外，Facebook Home不具足夠的客製化功能，讓用戶依個人喜好，調整界面，設定欲顯示的訊息，也是無法受市場青睞的主因。
+
+Facebook Home市場反應不佳似乎並未動搖臉書對此產品的信心。Facebook 行動技術總監 Cory Ondrejka 則指出，Facebook Home不儘讓臉書使用時間增加25%，按「讚」數量也提升25%。面對市場批評， Cory Ondrejka與產品總監Adam Mosseri也承認，欲將原臉書使用者切換至Facebook Home使用模式，是相當艱難的任務，並表示未來將會改良介面，新增簡單易懂導引說明，讓使用者更好上手。
+

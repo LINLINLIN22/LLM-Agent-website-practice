@@ -1,0 +1,12 @@
+標題: Apple 支付 16 億授權金訓練 AI　2024 WWDC 可期待
+原文: https://www.ectimes.org.tw/2024/04/apple-%e6%94%af%e4%bb%98-16-%e5%84%84%e6%8e%88%e6%ac%8a%e9%87%91%e8%a8%93%e7%b7%b4-ai%e3%80%802024-wwdc-%e5%8f%af%e6%9c%9f%e5%be%85/
+根據外媒《9to5mac》及《Reuters reports》報導，美國科技公司Apple向美國大型圖片供應商Shutterstock購買圖片，用於訓練 AI 模型，交易金額預估高達 5,000 億美元（約 16 億新台幣）。不僅如此，Apple 下一位合作目標可能為影音寄存及分享網站PhotoBucket，加強 AI 影像識別、場景分析及理解能力。Apple 於 AI 領域上，正在急起直追。
+
+￭Apple向Shutterstock購買圖片，用於訓練 AI 模型，交易金額預估高達 5,000 億美元。（圖片來源 /Shutterstock官方網站）
+
+AI 應用當道，訓練 AI 的資料來源及授權，為各家科技巨頭首要面對的問題。Shutterstock 約莫擁有 2 億張免版稅的平面內容及約莫 1,000 萬個影音內容，其合作對象不只 Apple，還包含Meta、Google、Amazon。
+
+除此之外，Apple 先前已和多家出版商洽談合作，授權文章內容來訓練 AI 模型。相關合作的出版業者包含：國際期刊出版集團Condé Nast（出版《New Yorker》、《Vogue》、《GQ》等）、美國網際網路公司IAC（持有《The Daily Beast》、《Better Homes and Gardens》等）、美國國家廣播公司(NBC News)。
+
+Apple 行銷主管 Greg Jozwiak 在相關公開文章中表示，2024 Apple 全球開發者大會(Apple Worldwide Developers Conference, WWDC) 的 AI 表現絕對是難以置信的。Apple 將於 WWDC 發布 iOS18，該作業系統將大力支援 AI 功能，讓全球消費者拭目以待。
+

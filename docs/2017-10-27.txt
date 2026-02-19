@@ -1,0 +1,16 @@
+標題: 佈局無線充電　Apple收購PowerbyProxi
+原文: https://www.ectimes.org.tw/2017/10/%e4%bd%88%e5%b1%80%e7%84%a1%e7%b7%9a%e5%85%85%e9%9b%bb%e3%80%80apple%e6%94%b6%e8%b3%bcpowerbyproxi/
+記者／范鈞凱
+
+Apple公司於周三10月25日宣布，收購紐西蘭的ProwerbyProxi公司。希望藉助其研發的小型QI充電模組及技術，應用到未來AirPower無線充電座或是其他的大型硬體設備上，為拓展無線充電領域奠定穩固基石。
+
+ProwerbyProxi公司成立於2007年，至今共擁有300多項無線充電專利，主要開發有關QI等無線充電的技術設備，即不用連接線路的情況下，為手機或是各種大型電器用品充電。其開發的無線充電模組號稱電力密度最高，點對點傳輸功率高達91％，大幅減少能量散失，在無線充電市場佔有了領導性的地位。
+
+￭無線充電示意圖。(截圖自／Apple官網)
+
+Apple預計未來要推出的AirPower，其能夠給玻璃背板的iPhone、AirPods、AppleWatch等相關產品充電，透過整合ProwerbyProxi公司所提供的技術模組，能進一步提升產品的效能表現，並延伸到更大型的Mac電腦商品上。
+
+Apple預計未來要推出的AirPower，其能夠給玻璃背板的iPhone、AirPods、AppleWatch等相關產品充電，透過整合ProwerbyProxi公司所提供的技術模組，能進一步提升產品的效能表現，並延伸到更大型的Mac電腦商品上。
+
+隨著iPhone7、iPhone7 Plus移除耳機孔的設定開始，直至今年九月iPhone8、iPhone8 Plus的相繼問世，可以注意到硬體設備越來越簡化，無線充電勢必成為手機硬體應用設備的趨勢。收購PowerbyProxi可為Apple帶來了更穩定的技術基礎去開發新的產品，如同Apple硬體工程師副總裁所稱，「這將是Apple創造無限未來的一大步」。
+

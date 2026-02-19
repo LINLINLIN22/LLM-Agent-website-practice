@@ -1,0 +1,14 @@
+標題: Google發表Cloud Connect　線上同步Office文件
+原文: https://www.ectimes.org.tw/2010/11/google%e7%99%bc%e8%a1%a8cloud-connect%e3%80%80%e7%b7%9a%e4%b8%8a%e5%90%8c%e6%ad%a5office%e6%96%87%e4%bb%b6/
+記者／馬千惠Google繼先前自家的Android平台與蘋果（Apple）iOS合作，推出線上編輯Google文件的功能後，於昨日（23日）又發表了「Cloud Connect」外掛程式，可讓使用者編輯Office文件時，將文件內容同步、儲存到網路上的Google Docs空間，並有特定網址。此次推出的「Cloud Connect」，是針對微軟（Microsoft）Office軟體所打造的，電腦安裝此程式後，在編輯完Word、Excel等文件，按下儲存的同時，就會將文件內容同步發佈至使用者的Google Docs空間。除了可以容易共享編輯文件之外，也能隨時隨地透過網路存取文件，更能避免檔案格式不同的開啟問題。此一技術來自Google今年3月買下的微軟DocVerse。DocVerse提供一個可編輯與分享微軟Office文件的外掛程式，支援微軟Word、PowerPoint及Excel等，後Google將此程式更名為「Google Cloud Connect for Microsoft Office」，並與Google Docs作整合。讓Office 2003、2007及2010的使用者都可文件同步至Google Docs上。目前Cloud Connect功能尚在調整當中，例如使用者透過微軟Office編輯文件並同步至Google Docs，若再利用Docs進行線上編輯，只能另外重新儲存一份新的文件檔案，而不是儲存成原來的編輯檔案。另外，微軟也提供SharePoint技術，在新版本的Office中強化線上共同編輯、分享的功能。
+
+記者／馬千惠
+
+Google繼先前自家的Android平台與蘋果（Apple）iOS合作，推出線上編輯Google文件的功能後，於昨日（23日）又發表了「Cloud Connect」外掛程式，可讓使用者編輯Office文件時，將文件內容同步、儲存到網路上的Google Docs空間，並有特定網址。
+
+此次推出的「Cloud Connect」，是針對微軟（Microsoft）Office軟體所打造的，電腦安裝此程式後，在編輯完Word、Excel等文件，按下儲存的同時，就會將文件內容同步發佈至使用者的Google Docs空間。除了可以容易共享編輯文件之外，也能隨時隨地透過網路存取文件，更能避免檔案格式不同的開啟問題。
+
+此一技術來自Google今年3月買下的微軟DocVerse。DocVerse提供一個可編輯與分享微軟Office文件的外掛程式，支援微軟Word、PowerPoint及Excel等，後Google將此程式更名為「Google Cloud Connect for Microsoft Office」，並與Google Docs作整合。讓Office 2003、2007及2010的使用者都可文件同步至Google Docs上。
+
+目前Cloud Connect功能尚在調整當中，例如使用者透過微軟Office編輯文件並同步至Google Docs，若再利用Docs進行線上編輯，只能另外重新儲存一份新的文件檔案，而不是儲存成原來的編輯檔案。另外，微軟也提供SharePoint技術，在新版本的Office中強化線上共同編輯、分享的功能。
+

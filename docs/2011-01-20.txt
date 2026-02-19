@@ -1,0 +1,14 @@
+標題: Symbian將功成身退？ 　新系統MeeGo蓄勢待發
+原文: https://www.ectimes.org.tw/2011/01/symbian%e5%b0%87%e5%8a%9f%e6%88%90%e8%ba%ab%e9%80%80%ef%bc%9f-%e3%80%80%e6%96%b0%e7%b3%bb%e7%b5%b1meego%e8%93%84%e5%8b%a2%e5%be%85%e7%99%bc/
+記者／邱晟傑據市場研究機構Gartner指出，2010年第三季智慧型手機系統的全球市佔率依然由Nokia的Symbian位居首位，但其36.6％的市佔率相較於2009年大幅下降了10.3％，Symbian基金會也在2010年11月初就宣布將轉型成為只負責軟體或商標的授權機構，並將Symbian平台開發權交還給Nokia。Nokia於2008年收購了Symbian，當時Nokia、Sony Ericsson、Motorola、Samsung、LG等手機廠商皆採用此系統，市佔率曾高達60％以上，但經過二年時光後市佔率急速下降，Motorola完全採用Android系統，Sony Ericsson改用Android與WP7，Samsung則轉投入Android與自己的Bada系統，Symbian陣營只剩下Nokia獨撐大局。Nokia於2010年10月宣布全球裁員1,800人，主要對象為Symbian與服務部門，而Symbian基金會於12月正式關閉相關網站，轉型為一個授權機構，不過Nokia依然持續開發系統，預計今年將會推出Symbian^4。另外，Nokia也與Intel聯手打造全新的MeeGo系統，並在2010年9月發佈N8機型後，宣佈今後所有上市的N系列旗艦手機將不再使用Symbian，轉為使用MeeGo系統。MeeGo為一個開放的系統平台，可讓開發者自由為其編寫程序與程式，Nokia預計將在2月份召開的MWC大會上正式發布第一款的MeeGo系統手機N9。不過其競爭對手Android也是採用相同開放式平台，除了已經形成强大的開發者社區，市佔率更節節攀升，MeeGo系統是否能為Nokia突破重圍，仍有待時間與市場的考驗。
+
+記者／邱晟傑
+
+據市場研究機構Gartner指出，2010年第三季智慧型手機系統的全球市佔率依然由Nokia的Symbian位居首位，但其36.6％的市佔率相較於2009年大幅下降了10.3％，Symbian基金會也在2010年11月初就宣布將轉型成為只負責軟體或商標的授權機構，並將Symbian平台開發權交還給Nokia。
+
+Nokia於2008年收購了Symbian，當時Nokia、Sony Ericsson、Motorola、Samsung、LG等手機廠商皆採用此系統，市佔率曾高達60％以上，但經過二年時光後市佔率急速下降，Motorola完全採用Android系統，Sony Ericsson改用Android與WP7，Samsung則轉投入Android與自己的Bada系統，Symbian陣營只剩下Nokia獨撐大局。
+
+Nokia於2010年10月宣布全球裁員1,800人，主要對象為Symbian與服務部門，而Symbian基金會於12月正式關閉相關網站，轉型為一個授權機構，不過Nokia依然持續開發系統，預計今年將會推出Symbian^4。另外，Nokia也與Intel聯手打造全新的MeeGo系統，並在2010年9月發佈N8機型後，宣佈今後所有上市的N系列旗艦手機將不再使用Symbian，轉為使用MeeGo系統。
+
+MeeGo為一個開放的系統平台，可讓開發者自由為其編寫程序與程式，Nokia預計將在2月份召開的MWC大會上正式發布第一款的MeeGo系統手機N9。不過其競爭對手Android也是採用相同開放式平台，除了已經形成强大的開發者社區，市佔率更節節攀升，MeeGo系統是否能為Nokia突破重圍，仍有待時間與市場的考驗。
+

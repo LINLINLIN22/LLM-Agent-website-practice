@@ -1,0 +1,12 @@
+標題: 跨足金融業　Apple Pay Later 讓你能夠分期付款
+原文: https://www.ectimes.org.tw/2023/03/%e8%b7%a8%e8%b6%b3%e9%87%91%e8%9e%8d%e6%a5%ad%e3%80%80apple-pay-later-%e8%ae%93%e4%bd%a0%e8%83%bd%e5%a4%a0%e5%88%86%e6%9c%9f%e4%bb%98%e6%ac%be/
+2022 年Apple WWDC（Apple Worldwide Developers Conference，蘋果開發者大會），蘋果宣布跨足金融市場，推出先買後付Apple Pay Later服務，與Affirm、Klarna、Afterpay等金融公司相互競爭。該項服務原預計於去年 9 月推出，不過遭遇工程及技術上問題，因此延至今年 6 月。然而，蘋果於 3 月 28 日釋出 iOS 16.4 作業系統的同時，也宣布Apple Pay Later 服務立即於美國上線「隨機挑選受試者」試用。
+
+￭ 蘋果宣布跨足金融市場，推出先買後付Apple Pay Later服務。（截圖來源 /Apple）
+
+Apple Pay Later 是iPhone、iPad應用程式「錢包」內建的服務內容，使用者於Apple Pay的實體和網路店家購物，可分成四筆款項攤還，並於六週內付清，無須額外支付利息或手續費，最高可借 50 至 1,000 美元（約新臺幣 1,516 至 30,338 元）。
+
+想享受 Apple Pay Later 的使用者，可直接於「錢包」申請，經蘋果子公司Apple Financing LLC負責軟性信貸查詢（soft credit pull，不會影響信貸評級），確認貸款前財務良好，就能通過審查機制。下次使用 Apple Pay 付款時，便會出現 Pay Later 的選項。
+
+Apple Pay Later 也攜手Mastercard、高盛銀行，讓商家無須進行任何改變，便可無縫為消費者提供此項服務。透過「錢包」，使用者可一手掌握未來 30 天所有貸款的分配與流動。必須注意的是，Apple Pay Later 僅能綁定銀行金融卡或現金卡作為還款方式，避免以債養債的情形出現。
+

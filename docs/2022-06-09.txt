@@ -1,0 +1,12 @@
+標題: Kakao借助「Kakao Universe」走向全球
+原文: https://www.ectimes.org.tw/2022/06/kakao%e5%80%9f%e5%8a%a9%e3%80%8ckakao-universe%e3%80%8d%e8%b5%b0%e5%90%91%e5%85%a8%e7%90%83/
+韓國科技巨頭Kakao的CEO於6月8日(周二)表示，未來將推出「Kakao Universe」元宇宙服務，元宇宙(Metaverse)是一個用戶可以相互交流和虛擬環境的虛擬空間，而Kakao的元宇宙願則景是將世界各地有相同興趣的人聯繫起來，因此Kakao預計將於2023年上半年推出「開放鏈接（OpenLink）」服務，用來連接用戶並實現元宇宙環境。
+
+「開放鏈接（OpenLink）」是一項基於KakaoTalk提供的服務，讓擁有相同興趣、愛好、地點和人物的用戶能夠聚在一起並進行交流。舉例來說，若「Piccoma」 (Kakao的網路漫畫平台)提供了一個OpenLink，來讓喜歡網漫《金秘書為何那樣》的人加入，用戶加入後就能與來自韓國、日本和印度的用戶，在一個聊天室裡相互交談。
+
+￭ Kakao Universe 願景。(擷自 /Kakao官網)
+
+Kakao過去以「Kakao Talk」行動通訊服務，來提供熟人和親友間的通訊服務，Kakao Talk的每月活躍用戶約為5000萬的韓國用戶，約佔世界人口數的1%。而現在Kakao的目標則是全球99%的用戶，因此未來將以Kakao Talk開放聊天爲基礎，使用 Open Link 服務將以熟人為基礎的交流拓展到非熟人之間的交流，創造一個共同興趣的人可以聚集的空間「Kakao Universe」，藉此來擴大目標客群（Target Audience）。
+
+為了增加Kakao Universe用戶的參與度，Kakao更計畫建立一個「B2C2C」的商業模式，以支付獎金的方式來培養「Web 3.0」市場。讓用戶在Kakao Universe不僅可以創造和共享內容，還可以將創造的內容用於商業活動，使開放聊天室的負責人提供用戶資訊時，能夠利用訂閱模式來獲利，而撰寫早午餐文章的創作者也將能夠從內容中獲取收入。
+

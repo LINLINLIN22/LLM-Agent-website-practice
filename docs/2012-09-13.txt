@@ -1,0 +1,14 @@
+標題: iOS 6不預載　專屬YouTube App出爐
+原文: https://www.ectimes.org.tw/2012/09/ios-6%e4%b8%8d%e9%a0%90%e8%bc%89%e3%80%80%e5%b0%88%e5%b1%acyoutube-app%e5%87%ba%e7%88%90/
+記者／梁容容在過去的搭載iOS作業系統的行動裝置上，Google Map和YouTube程式早已內建其中，但隨著今年六月的WWDC開發者大會上展示了取代Google地圖的新地圖服務，加上與Google簽署的授權期限在八月到期，YouTube也將被排除在最新iOS 6系統的內建程式名單之外。有鑑於此，Google於11日公開發表iOS專屬YouTube App讓使用者免費下載。在過去幾年從PC發展到行動裝置的過程中，蘋果和谷歌這兩大科技巨頭的競爭日趨激烈，關係也逐漸緊張，尤其是在Google推出Android智慧手機平台之後，令蘋果相當不悅，最新一代iPhone將以往內建於系統中，且刪不掉的Youtube程式直接砍掉，頗有像蘋果像谷歌表明「絕交」的意味。根據尼爾森以用戶數來計算的數據，包括預先安裝和手動下載的方式在內，今年6月YouTube是美國市場熱門程度排名第3的iPhone應用。谷歌也表示，目前每天藉由行動裝置瀏覽YouTube影片的次數超過10億次，已占YouTube每日總瀏覽量的四分之一，故在被剔除內建行列之後，Google立即推出YouTube的獨立程式來滿足廣大行動裝置用戶的需求。新版YouTube App主要是針對iPhone與iPod touch所設計，將強化清單介面、提供更豐富的影音頻道，並可在觀賞影片的同時發表評論，甚至立即分享到Google+、Twitter與Facebook平台。此外，新版YouTube App將引入廣告，成為谷歌另一營收來源。YouTube Mobile負責人Andrey Doronichev表示，研發團隊隨後也將推出適用於iPad的應用程式，請用戶耐心等待。
+
+記者／梁容容
+
+在過去的搭載iOS作業系統的行動裝置上，Google Map和YouTube程式早已內建其中，但隨著今年六月的WWDC開發者大會上展示了取代Google地圖的新地圖服務，加上與Google簽署的授權期限在八月到期，YouTube也將被排除在最新iOS 6系統的內建程式名單之外。有鑑於此，Google於11日公開發表iOS專屬YouTube App讓使用者免費下載。
+
+在過去幾年從PC發展到行動裝置的過程中，蘋果和谷歌這兩大科技巨頭的競爭日趨激烈，關係也逐漸緊張，尤其是在Google推出Android智慧手機平台之後，令蘋果相當不悅，最新一代iPhone將以往內建於系統中，且刪不掉的Youtube程式直接砍掉，頗有像蘋果像谷歌表明「絕交」的意味。
+
+根據尼爾森以用戶數來計算的數據，包括預先安裝和手動下載的方式在內，今年6月YouTube是美國市場熱門程度排名第3的iPhone應用。谷歌也表示，目前每天藉由行動裝置瀏覽YouTube影片的次數超過10億次，已占YouTube每日總瀏覽量的四分之一，故在被剔除內建行列之後，Google立即推出YouTube的獨立程式來滿足廣大行動裝置用戶的需求。
+
+新版YouTube App主要是針對iPhone與iPod touch所設計，將強化清單介面、提供更豐富的影音頻道，並可在觀賞影片的同時發表評論，甚至立即分享到Google+、Twitter與Facebook平台。此外，新版YouTube App將引入廣告，成為谷歌另一營收來源。YouTube Mobile負責人Andrey Doronichev表示，研發團隊隨後也將推出適用於iPad的應用程式，請用戶耐心等待。
+

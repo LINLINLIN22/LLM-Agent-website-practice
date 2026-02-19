@@ -1,0 +1,12 @@
+標題: 名列十大科技口水WebServices何時服務網路
+原文: https://www.ectimes.org.tw/2002/12/%e5%90%8d%e5%88%97%e5%8d%81%e5%a4%a7%e7%a7%91%e6%8a%80%e5%8f%a3%e6%b0%b4webservices%e4%bd%95%e6%99%82%e6%9c%8d%e5%8b%99%e7%b6%b2%e8%b7%af/
+記者／蘇伯方
+
+從去年炒的沸沸揚揚的網路服務Web Services一直在各大廠商的強力哄抬下，成為IT人員、CIO間的熱門話題，但是一直到今天(12/28)，仍然處於未明的狀態，技術仍然有許多問題，即使比較沒問題的SOAP、WSDL也面臨了專利問題，甚至被CNET評為今年的十大科技口水第十名，原本SUN、Microsoft的ONE、.Net兩大陣營各自拉人加入自家陣營，曾答應到台灣成立的技術中心如今也似乎前途未定。
+
+使用XML為協定，由讓網路服務透過IP溝通的SOAP(simple object access procotol)、讓企業註冊、廣告以及搜尋網路服務的UDDI(universal description discovery and integration)以及描述什麼是WS以及如何存取WS的WSDL(web services description language)所組成的web services這些名詞雖然已經早就存在夢想家以及開發人員的腦裡，也引起廣泛的討論。WS這個能夠讓電腦應用程式走出作業系統、程式語言以及middleware束縛，實現電腦間直接對話的技術依然沒有一個共通的標準出現。一開始是java vs. .Net的局面，現在則面臨專利技術的爭議，而且許多關鍵技術，如安全性問題、UUP(通用使用者檔案資料，Universal User Profiles)也尚未定義清楚。
+
+雖說Web Service可以將許多資訊從不同的廠商直接送到桌面，以一個新的媒體整合並傳送這些可能免費或者收費的服務，而且不論是何種平台，手機或者notebook，此舉可能造成價值鏈及產業的分散，同時讓企業更專注於某一項服務。目前雖有WS-I(web services interoperability organization)的成立來推動W3C以及OASIS所制定各項標準，但是根據IDC的報告指出，網路服務在2003年將只侷限在企業內部用作ERP等內部應用，一直要到2006年隨著軟體商業化、新的行動設備以及新的商業模式普及後，才會出現美麗如各大廠商描繪的美麗願景。
+
+CNET曾經指出，網路服務既不是新的發明，短期內不會實現，而且更重要的是，它並不是如想像中的萬靈丹，但是幸好，科技人員也只是聽了一下沒有受騙。
+

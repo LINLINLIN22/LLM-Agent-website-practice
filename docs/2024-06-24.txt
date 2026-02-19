@@ -1,0 +1,8 @@
+標題: Apple與Meta等AI合作？ 整合使用AI模型
+原文: https://www.ectimes.org.tw/2024/06/apple%e8%88%87meta%e7%ad%89ai%e5%90%88%e4%bd%9c%ef%bc%9f-%e6%95%b4%e5%90%88%e4%bd%bf%e7%94%a8ai%e6%a8%a1%e5%9e%8b/
+蘋果顯然在開發 Apple Intelligence 的過程中，比我們原先想像的還要更積極地四處尋求協助。除了已經正式公開的 OpenAI ChatGPT 和發表會中提到過的 Google Gemini 之外，據《華爾街日報》援引知情人士的消息報導，蘋果甚至還與 Meta 討論了使用該公司生成式 AI 模型的可能性。與此同時，蘋果也與初創公司 Anthropic 和 Perplexity 進行了類似的討論。不過，報導稱目前尚未與之敲定任何協議。
+
+在本月初的 WWDC 上，蘋果正式公開了與 OpenAI 的合作夥伴關係，並且即將在搭載新一代 OS 的 iPhone、iPad 和 Mac 上引入 ChatGPT。在活動中，蘋果軟體工程高級副總裁 Craig Federighi 還提到了Google 的 Gemini 模型，暗示其未來可能被添加到 Apple Intelligence 中。Federighi 當時表示：「我們最終希望能讓用戶選擇他們自己想要的 AI 模型。」由此進行延伸，蘋果向更多 AI 公司尋求合作夥伴關係，似乎也就不足為奇了。
+
+不過話雖如此，目前唯一確認的合作夥伴依然只有 OpenAI。 OpenAI 的 GPT-4o 將被整合到初代的 Apple Intelligence 系統中，以強化 Siri 和其他 AI 工具的功能。目前具體的上線時間還未定，只知道部分功能將會在今年晚些時候推出。
+

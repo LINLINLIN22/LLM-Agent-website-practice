@@ -1,0 +1,12 @@
+標題: 微軟WindowsLive推出OneCare
+原文: https://www.ectimes.org.tw/2006/05/%e5%be%ae%e8%bb%9fwindowslive%e6%8e%a8%e5%87%baonecare/
+記者／楊又青
+
+Microsoft的Windows Live將於下週四在美國推出OneCare，OneCare將集防毒、防間諜軟體、備份、防火牆、磁碟清理等多種功能於一身，收費為年費為49.95美元，可使用於三台電腦。微軟此一產品預期將對防毒軟體商帶來市場威脅。
+
+早在去年，微軟便宣稱Windows Live是它的「作業系統的網路版」，計畫未來的Windows Live將囊括防毒、信箱、網誌、搜尋、地圖、即時通訊…等二十餘種服務，競爭對手從防毒軟體到搜尋業者，乃至入口網站業者。而下週四，各防毒軟體商就要接受這樣的市場挑戰。
+
+目前在賽門鐵克方面，預計在秋天推出新式安全服務Genesis來迎戰，Genesis將包含所有Norton產品的重點功能，包括防毒、反垃圾郵件、反間諜軟體、IPS、線上備份、可用性(Utility)、PC調校技術(PC tuneup)工具等，並將進一步強化防護如犯罪軟體(crimeware)、網路釣魚詐騙及詐騙網站等新興種類的網路威脅。
+
+台灣微軟MSN行銷經理鍾婉珍表示，台灣將到2007年以後才會推出OneCare服務。
+

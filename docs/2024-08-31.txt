@@ -1,0 +1,12 @@
+標題: AI 運算龐大用電　Meta 購買地熱能源 0 碳排
+原文: https://www.ectimes.org.tw/2024/08/ai-%e9%81%8b%e7%ae%97%e9%be%90%e5%a4%a7%e7%94%a8%e9%9b%bb%e3%80%80meta-%e8%b3%bc%e8%b2%b7%e5%9c%b0%e7%86%b1%e8%83%bd%e6%ba%90-0-%e7%a2%b3%e6%8e%92/
+美國社群元宇宙公司Meta在 27 日參與美國能源部 (Department of Energy)舉辦的地熱能工作坊，並同時宣布與地熱發電業者Sage Geosystems簽訂合作，將購買其透過新型地壓地熱型系統 (Geopressured Geothermal System, GGS) 產生的無碳電，將近約 150 兆瓦 (Megawatt, MW) 地熱能源，用以供應 Meta 美國境內的資料中心。
+
+￭Meta與Sage Geosystems合作，購買其熱能生產的無碳電 。（圖片來源 /Sage Geosystems）
+
+近年對於人工智慧 (Artificial Intelligence, AI) 需求與日俱增，生成式 AI 發展熱絡，全球科技巨頭紛紛建置資料中心，因此對於電力需求也大幅提升。為因應美國政府正要求科技公司投資綠色能源發電項目，Meta 決定採購地熱發電，以達到綠色減碳目的。
+
+Sage Geosystems 為成立 4 年的新創公司，獲得石油和天然氣公司Chesapeake Energy、Nabors Industries和風險投資公司 Virya、Helium-3 Ventures等支持。相較於傳統的熱液型 (hydrothermal) 電熱發電，Sage 新型地熱電能以乾熱岩層 (Hot Dry Rock) 為主要資源，利用地球內部熱能產生電力和加熱水溫，更能生產豐沛電能。
+
+Meta 和 Sage 的合作將於 2027 年上線，預計將生產 150 兆瓦電力，約可供應 38,000 戶家庭使用。在推動乾淨能源領域，Meta 迄今已採購約 12,000 兆瓦可再生能源，Meta 承諾加速朝向淨零目標，並宣布將於 2030 年實現水資源正效益 (Water positive)。
+

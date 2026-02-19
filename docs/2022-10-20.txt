@@ -1,0 +1,12 @@
+標題: Google Cloud 全面升級資安服務　協助企業數位轉型
+原文: https://www.ectimes.org.tw/2022/10/google-cloud-%e5%85%a8%e9%9d%a2%e5%8d%87%e7%b4%9a%e8%b3%87%e5%ae%89%e6%9c%8d%e5%8b%99%e3%80%80%e5%8d%94%e5%8a%a9%e4%bc%81%e6%a5%ad%e6%95%b8%e4%bd%8d%e8%bd%89%e5%9e%8b/
+近年，隨著企業數位轉型與加強雲端運算的趨勢，資安防護成為一門重要的企業課題。因此，科技巨頭公司Google Cloud推出創新雲端安全解決方案，包含Chronicle Security Operations、Confidential Space、Software Delivery Shield 等進階安全性產品，協助企業資訊以更安全的方式，進行數位轉型。
+
+￭Google Cloud推出創新雲端安全解決方案，協助企業資訊以更安全的方式，進行數位轉型。（截圖來源 /Google Cloud）
+
+根據IDC（國際數據資訊有限公司） 2022 State of the CIO（Chief Information Officer，資訊長）研究顯示，企業首要的資訊科技投資項目為「安全與風險管理」，且高達 76% 的資訊長，預期明年資安參與行為將大幅增加，例如：投入時間和專業知識等。Google Cloud 表示，企業應從「數位韌性」的角度出發，完善資安防護網，以降低營運中斷、財務和商譽損失等風險，並達到永續經營的願景。
+
+儘管資安防護及數位轉型需求日益上升，Google Cloud 仍然堅守對開放原始碼的承諾，透過隱形安全防護 (Invisible Security) 原則，在既有產品中內建安全技術，降低資安防護運作的門檻。今年 5 月，Google Cloud 便已宣布Assured Open Source Software(Assured OSS)，讓開放原始碼軟體使用者都能將 OSS 套件輕鬆整合進自家開發的產品中，協助組織更簡單開發及執行安全管理的程序。
+
+此外，為提供更全面的資安服務，Google Cloud 於今年 9 月收購全球領導的資安企業Mandiant，強化即時的資安預警和顧問資訊服務。不僅如此，Google Cloud 持續與 20 多家資安企業，進行多元面向的合作，包含「零信任」、「身分管理」、「數位主權」及「改善端點安全性」。企業可依照需求，彈性化地選擇不同安全性的商品與服務！
+

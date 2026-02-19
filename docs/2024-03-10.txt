@@ -1,0 +1,10 @@
+標題: AI新創公司發表最新模型Inflection-2.5　超越GPT-4
+原文: https://www.ectimes.org.tw/2024/03/ai%e6%96%b0%e5%89%b5%e5%85%ac%e5%8f%b8%e7%99%bc%e8%a1%a8%e6%9c%80%e6%96%b0%e6%a8%a1%e5%9e%8binflection-2-5%e3%80%80%e8%b6%85%e8%b6%8agpt-4/
+在2022年由DeepMind聯合創辦人Mustafa Suleyman和LinkedIn的聯合創始人Reid Hoffman共同成立的AI新創公司Inflection AI，於週四（6日）正式發表最新一代大型語言模型Inflection-2.5。
+
+Inflection-2.5目前已被運用在旗下的人工智慧機器人Pi，，為用戶提供更智能、更靈活的服務。根據Inflection AI官網的說明，Inflection-2.5已接近了業界頂尖的GPT-4模型的性能水準，將為用戶帶來更加出色的體驗。
+
+Inflection AI的執行長兼共同創辦人Mustafa Suleyman表示，Inflection-2.5的推出將進一步提升Pi的功能和性能，為用戶提供更智慧、更便捷的AI服務。這次語言模型的更新將為人工智慧應用帶來新的可能性，並有望在各個領域取得更廣泛的應用。
+
+Inflection-2.5的發布不僅是Inflection AI的里程碑，也反映了人工智慧技術不斷演進的動態。隨著新一代AI模型的推出，我們有望看到更智慧、更便捷的AI應用，為人們的生活和工作帶來更多便利和效率。Inflection-2.5的成功發布，標誌著Inflection AI在人工智慧領域的領先地位，也為未來的發展奠定了堅實基礎。
+

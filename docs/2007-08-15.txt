@@ -1,0 +1,12 @@
+標題: Google做不到的事 : 網路影音搜尋廣告Blinkx Adhoc
+原文: https://www.ectimes.org.tw/2007/08/google%e5%81%9a%e4%b8%8d%e5%88%b0%e7%9a%84%e4%ba%8b-%e7%b6%b2%e8%b7%af%e5%bd%b1%e9%9f%b3%e6%90%9c%e5%b0%8b%e5%bb%a3%e5%91%8ablinkx-adhoc/
+記者／游子慶
+
+號稱Google潛在對手的影音搜尋公司Blinkx，即將推出了名稱為Blinkx Adhoc的網路廣告服務，是透過語音辨識技術偵測影音檔中的內容，嵌入與該影片相關廣告的一種新興網路廣告型態。Blinkx Adhoc就像是影音搜尋世界裡的AdSense，對於立志要做Google不能做的事的Blinkx來說，在數位內容日益遽增的未來，也許Blinkx會是下一個Google。
+
+Blinkx Adhoc是運用語音辨識技術(speech recognition)，透過電腦自動分析的方式，把影音轉換成文字(speech-to-text)，透過成熟的文字分析技術來判斷該影音的屬性，同時配合影片的標籤(tag)進行更精準的分析，再採取類似Google Adsense的方式將相關的廣告內容嵌入影片中。
+
+Blinkx是由畢業於劍橋電腦系的26歲青年Suranga Chandratillake，於2004年所創辦，初期提供網站介面的影音搜尋引擎服務外，還提供下載用戶端軟體，由於其搜尋的是影片的資訊，而非影片本身，本身僅提供約15秒的試看服務，若需繼續觀賞則要連回原網站收看，營運成本低廉，提供的是合法無虞的內容。其潛力向來受到矚目，媒體大亨Murdoch便曾在2005年時企圖以20億美元進行收購。
+
+Blinkx已經與高達130多家的內容提供業者合作，包括CNN、HBO、ESPN、Fox News、AOL等，目前可透過此平台取得超過1,400萬小時的影片內容，Blinkx亦可播客(podcast)頻道、視訊blog進行檢索，去年Blinkx還和微軟合作，使用者可在MSN Internet和Live.com上搜尋網站上的影像內容，試想在影音媒體崛起和寬頻升級的趨勢下，影音廣告未來將會是多麼大的商機！
+

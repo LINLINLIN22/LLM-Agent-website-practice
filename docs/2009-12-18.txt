@@ -1,0 +1,16 @@
+標題: Google Wave再創話題      預期顛覆使用習慣
+原文: https://www.ectimes.org.tw/2009/12/google-wave%e5%86%8d%e5%89%b5%e8%a9%b1%e9%a1%8c-%e9%a0%90%e6%9c%9f%e9%a1%9b%e8%a6%86%e4%bd%bf%e7%94%a8%e7%bf%92%e6%85%a3/
+特約撰稿／張雯琪在今年（2009）第四季，Google Labs開始提供部份使用者一項新的雲端計算（Cloud Computing）服務－Google Wave。推出不到半年，成為年度最熱門話題，使用人數不斷上昇。在強調實時性（real-time）的前提下，為下一代的即時溝通（online communication）與即時協同創作（collaboration）建構更完善的整合平台； Microsoft 公司也在眼看對手即將正式發佈該 Google Wave 的同年，也開始預告自已有相似的產品開始研發中 –Microsoft Vine。什麼是 Google Wave ?依據Google Wave 官方說明頁載，簡要而敍，Google Wave 或是將來的 Microsoft Vine 都將俱備下列幾點共同的特性：強調即時性，溝通討論與協同創作整合在單一頁面呈現的服務應用工具善用雲端計算的龐大的分散式電腦計算能力使用者不需安裝任何的軟體，只要能上網，就可以進行該項服務可在該服務中進行即時共筆協創的文件內製作包含格式化，插入圖片，影像，地圖 … 等等相關的應用程式介面（API）也將會提供給個人或是商業公司，來進行開發更多附加整合的服務於其中一樣保有類似 E-mail 的往返日誌的功能，且更具有類似歷程播放的先進設計產品定位網路上有不少的文章正熱烈討論 Google Wave / Microsoft Vine 的產品定位，下列幾篇Blog文章做出不少的分析，可供初步了解之用：羊男實驗の咖啡館：什麼是 Google Wave ?Tenz：Google Wave 會改變這個世界嗎？Google Wave 是「長得像Outlook的MSN」，但功能強大100倍！在上述的文章討論中，也提到了不少可能的發展趨勢，Google Wave 最大的理想化目標，就是取代擁有一個平台所需花費的龐大軟體授權費用，以及高額的IT技術建置費用。Google Wave 預期能在不久的未來成為平民化甚至完全免費的方式，來讓全球使用者或是組織團體擁有。另外，Google 更希望能更高度整合當前上百項產品服務於 Google Wave 中，例如 GMail，Google Docs（一項線上即時的辦公應用服務） … 等等。對未來IT應用趨勢的習慣變遷綜合上述，可見這類的雲端計算整合服務，將形成未來IT應用趨勢的習慣變遷，許多的IT服務大廠將逐漸視之為具競爭力的商機，進而有更多類似的服務產出，企業到個人都可以擁有這樣的協同合作平台，不再需要龐大的IT支出和建置管理，並且更即時協同創作過程，也可用於IT垂直甚至平行產業間的產品開發專案中，各大產業間甚至你我個人，都將面臨比以往更直接的全球競爭者時代。這些結果勢必為不久的商業公司，組織團體，個人社交關係等等，都帶來不少的衝擊。
+
+特約撰稿／張雯琪
+
+在今年（2009）第四季，Google Labs開始提供部份使用者一項新的雲端計算（Cloud Computing）服務－Google Wave。推出不到半年，成為年度最熱門話題，使用人數不斷上昇。在強調實時性（real-time）的前提下，為下一代的即時溝通（online communication）與即時協同創作（collaboration）建構更完善的整合平台； Microsoft 公司也在眼看對手即將正式發佈該 Google Wave 的同年，也開始預告自已有相似的產品開始研發中 –Microsoft Vine。
+
+什麼是 Google Wave ?
+
+依據Google Wave 官方說明頁載，簡要而敍，Google Wave 或是將來的 Microsoft Vine 都將俱備下列幾點共同的特性：
+
+產品定位
+
+網路上有不少的文章正熱烈討論 Google Wave / Microsoft Vine 的產品定位，下列幾篇Blog文章做出不少的分析，可供初步了解之用：
+

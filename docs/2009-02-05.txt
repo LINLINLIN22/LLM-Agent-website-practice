@@ -1,0 +1,14 @@
+標題: Google手機追蹤軟體　讓你的行蹤無所遁形
+原文: https://www.ectimes.org.tw/2009/02/google%e6%89%8b%e6%a9%9f%e8%bf%bd%e8%b9%a4%e8%bb%9f%e9%ab%94%e3%80%80%e8%ae%93%e4%bd%a0%e7%9a%84%e8%a1%8c%e8%b9%a4%e7%84%a1%e6%89%80%e9%81%81%e5%bd%a2/
+記者／張金安「我現在在路上，馬上就到了」，是否覺得耳熟且似曾相似呢？現在你有機會驗證是真是假了。網路搜尋引擎巨擘Google於本周二（三日），發表了一款可以讓手機用戶以及其他無線網路裝置的使用者，自動分享他們的行蹤給親朋好友的軟體Google Latitude。使用者目前將可在全球27個國家（包含台灣及香港）藉由使用Google Latitude來讓他人知道他們的下落。這是否意味著你的行蹤將被你的友人們隨時隨地監視著呢？根據Google官網上的介紹表示，使用者有選擇收訊者及隨時離線的權利。除此之外，你還可以選擇讓他們知道你在哪裡。所以使用者大可不用擔心被不想看到的人看到你的行蹤。不過事實上這已經不是新聞了，至少對Loopt來說。因為Google Latitude的服務與Loopt所提供的內容非常相似，都是在使用者的允許下使親友接收到其目前的所在處。目前包括Verizon Wireless、AT&T、Sprint、metroPCS、Nextel Communication及Boost Mobile等多家電信公司的多款手機皆採用Loopt的服務；另一方面，Google Latitude則將可在黑莓機和使用Symbian S60（Symbian Limited 公司針對智慧型手機所開發出來的作業系統，是目前市場佔有率最高的作業系統）、微軟Windows Mobil及Google Android等手機作業系統的手機上執行。從目前的趨勢來看，未來將有越來越多的智慧型手機支援Google Latitude及Loopt的服務。最終誰會稱王或許目前尚未明朗，不過可以確定的是，我們以後的行蹤將很難繼續成謎。分享此新聞：
+
+記者／張金安
+
+「我現在在路上，馬上就到了」，是否覺得耳熟且似曾相似呢？現在你有機會驗證是真是假了。網路搜尋引擎巨擘Google於本周二（三日），發表了一款可以讓手機用戶以及其他無線網路裝置的使用者，自動分享他們的行蹤給親朋好友的軟體Google Latitude。使用者目前將可在全球27個國家（包含台灣及香港）藉由使用Google Latitude來讓他人知道他們的下落。
+
+這是否意味著你的行蹤將被你的友人們隨時隨地監視著呢？根據Google官網上的介紹表示，使用者有選擇收訊者及隨時離線的權利。除此之外，你還可以選擇讓他們知道你在哪裡。所以使用者大可不用擔心被不想看到的人看到你的行蹤。
+
+不過事實上這已經不是新聞了，至少對Loopt來說。因為Google Latitude的服務與Loopt所提供的內容非常相似，都是在使用者的允許下使親友接收到其目前的所在處。目前包括Verizon Wireless、AT&T、Sprint、metroPCS、Nextel Communication及Boost Mobile等多家電信公司的多款手機皆採用Loopt的服務；另一方面，Google Latitude則將可在黑莓機和使用Symbian S60（Symbian Limited 公司針對智慧型手機所開發出來的作業系統，是目前市場佔有率最高的作業系統）、微軟Windows Mobil及Google Android等手機作業系統的手機上執行。
+
+從目前的趨勢來看，未來將有越來越多的智慧型手機支援Google Latitude及Loopt的服務。最終誰會稱王或許目前尚未明朗，不過可以確定的是，我們以後的行蹤將很難繼續成謎。
+

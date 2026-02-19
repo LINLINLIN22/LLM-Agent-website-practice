@@ -1,0 +1,14 @@
+標題: 利益衝突？　Facebook Lite無預警關閉
+原文: https://www.ectimes.org.tw/2010/04/%e5%88%a9%e7%9b%8a%e8%a1%9d%e7%aa%81%ef%bc%9f%e3%80%80facebook-lite%e7%84%a1%e9%a0%90%e8%ad%a6%e9%97%9c%e9%96%89/
+記者／王玉潔
+
+Facebook週二（20日）在官方帳號的粉絲塗鴉牆上宣布，將關閉去年9月在美國及印度推出的簡易版Facebook網站（Facebook Lite），關閉的理由並未說明，僅說明使用簡易版的用戶，將會自動被系統轉至Facebook.com的首頁上。Facebook在塗鴉牆上表示，「感謝每位試用過Facebook Lite的人，我們將不再支援Facebook Lite，但我們從測試的Facebook Lite中得到許多經驗。如果您繼續使用Facebook Lite，現在系統會自動轉到Facebook的首頁。」Facebook Lite當初的定位是要讓第一次使用的人，就可以輕易的上手，但不支援第三方開發應用程式，介面的設計比Facebook精簡、美觀，主要提供好友的最新動態與留言，類似推特（Twitter）的即時互動形式。Facebook Lite曾被視為是對抗Twitter的利器。如今關閉，有評論指出，可能是因為Facebook Lite的營運狀況不佳，使用人數過少而導致關閉，也有些不同的聲浪認為，關閉的主因是因為Facebook Lite不支援第三方開發應用程式，一旦使用人數增加，是必會影響應用程式的使用，Facebook的營收也會受到影響。另外，Facebook周三（21日）在Ｆ8開發者大會中宣布將更新多項重大服務，包括Facebook網站內現有的「讚（Like）」按鈕，將推廣至外部網站上，讓使者可以與好友分享Facebook網頁以外的訊息。許多人認為，facebook最可能推出的是即時搜尋功能，使用者發表的內容，可以出現在Google、Bing等搜尋結果之中。
+
+Facebook週二（20日）在官方帳號的粉絲塗鴉牆上宣布，將關閉去年9月在美國及印度推出的簡易版Facebook網站（Facebook Lite），關閉的理由並未說明，僅說明使用簡易版的用戶，將會自動被系統轉至Facebook.com的首頁上。
+
+Facebook在塗鴉牆上表示，「感謝每位試用過Facebook Lite的人，我們將不再支援Facebook Lite，但我們從測試的Facebook Lite中得到許多經驗。如果您繼續使用Facebook Lite，現在系統會自動轉到Facebook的首頁。」Facebook Lite當初的定位是要讓第一次使用的人，就可以輕易的上手，但不支援第三方開發應用程式，介面的設計比Facebook精簡、美觀，主要提供好友的最新動態與留言，類似推特（Twitter）的即時互動形式。
+
+Facebook Lite曾被視為是對抗Twitter的利器。如今關閉，有評論指出，可能是因為Facebook Lite的營運狀況不佳，使用人數過少而導致關閉，也有些不同的聲浪認為，關閉的主因是因為Facebook Lite不支援第三方開發應用程式，一旦使用人數增加，是必會影響應用程式的使用，Facebook的營收也會受到影響。
+
+另外，Facebook周三（21日）在Ｆ8開發者大會中宣布將更新多項重大服務，包括Facebook網站內現有的「讚（Like）」按鈕，將推廣至外部網站上，讓使者可以與好友分享Facebook網頁以外的訊息。許多人認為，facebook最可能推出的是即時搜尋功能，使用者發表的內容，可以出現在Google、Bing等搜尋結果之中。
+

@@ -1,0 +1,12 @@
+標題: 用PC玩手遊　BlueStacks聯手Steam
+原文: https://www.ectimes.org.tw/2019/06/%e7%94%a8pc%e7%8e%a9%e6%89%8b%e9%81%8a%e3%80%80bluestacks%e8%81%af%e6%89%8bsteam/
+全球Android模擬器品牌BlueStacks於今年3月推出一步式軟體開發套件 (1-step SDK) BlueStacks Inside後，宣布與Steam等遊戲平台合作，能夠讓全球的手遊開發商將遊戲直接發布在Steam、Discord等PC遊戲平台，也就是讓手機遊戲能在電腦PC上遊玩，希望搶攻大螢幕玩家。
+
+近年來遊戲玩家對於手機遊戲的品質、順暢度等方面要求越來越嚴苛，手遊開發商投入在遊戲的開發成本也越來越大，許多遊戲已經將手機的圖像和遊戲功能應用到手機運作的極限，玩家們也面臨為了追求遊戲所需的功能，而被迫不斷升級手機的困境。
+
+￭ BlueStacks把手機遊戲搬到電腦螢幕的大平台。（截圖自／BlueStacks官網）
+
+透過BlueStacks Inside可以讓手遊開發商不需要額外聘任其他個人電腦開發團隊，就可以透過BlueStacks Inside向廣大PC遊戲用戶提供服務的機會。而玩家同時也能使用個人電腦享受原本在手機上無法流暢使用的遊戲。且未來在Steam平台上的 BlueStacks Inside，同時整合Steam社群中心、推廣、管理者 (Curators)，以及收藏等功能，可藉由Staem支付系統在應用程式進行交易。
+
+目前BlueStacks Inside仍在邀請測試的階段，知名的韓國遊戲開發商KOG副總裁 Rafael Noh表示：「希望玩家能夠按照自身情況來玩遊戲，如果他們想在 PC 上玩遊戲，我們希望他們擁有最好的PC體驗。」透過BlueStacks Inside提供更順暢的PC遊戲體驗，也讓開方商能觸及Steam上每日活躍的1,500萬名玩家。
+

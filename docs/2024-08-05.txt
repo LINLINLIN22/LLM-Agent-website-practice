@@ -1,0 +1,22 @@
+標題: 台廠供應鏈已就位 Apple新iPhone人工智慧應用可期
+原文: https://www.ectimes.org.tw/2024/08/%e5%8f%b0%e5%bb%a0%e4%be%9b%e6%87%89%e9%8f%88%e5%b7%b2%e5%b0%b1%e4%bd%8d-apple%e6%96%b0iphone%e4%ba%ba%e5%b7%a5%e6%99%ba%e6%85%a7%e6%87%89%e7%94%a8%e5%8f%af%e6%9c%9f/
+蘋果（Apple）個人智慧系統Apple Intelligence在iPhone應用進展備受關注，市場評估，Apple Intelligence驅動iPhone出貨成長，關鍵零組件功能將升級因應新款iPhone 16系列生成式AI應用，台廠包括台積電、鴻海、和碩、大立光、玉晶光等將持續切入供應鏈。
+
+蘋果個人智慧系統Apple Intelligence在iPhone應用進展成為市場關注焦點，國外科技網站MacRumors報導，蘋果執行長庫克（Tim Cook）表示，蘋果樂觀看待AI帶來超乎預期的潛在商機，對於Apple Intelligence應用前景相當樂觀。
+
+Apple Intelligence可在iPhone 15 Pro及iPhone 15 Pro Max、搭載M1以上自研晶片的iPad和Mac電腦上應用。蘋果指出，今年秋季Apple Intelligence可支援美系英語並提升部分功能，更多功能、軟體平台和其他語言支援，將在2025年陸續推出。
+
+法人評估，Apple Intelligence將是驅動iPhone出貨成長的重要動能，包括電池、散熱模組、聲學元件等關鍵零組件功能將明顯升級，因應新款iPhone的生成式AI（Gen-AI）應用。
+
+市場預期新款iPhone 16系列最快將於9月中旬發表，觀察相關供應鏈，美系外資法人評估，鴻海仍是高階iPhone新機主要組裝代工供應商，預估鴻海占比約60%至65%，其中鴻海旗下工業富聯中國鄭州和贛州廠區，持續供應iPhone 16 Pro/Pro Max系列關鍵鈦金屬中框件。
+
+和碩也積極切入iPhone 16 Pro組裝供應鏈，法人指出，和碩持續是iPhone Plus和iPhone Pro主要組裝供應商之一。
+
+此外，包括電源供應商台達電、IC載板廠景碩、南電、欣興、被動元件廠國巨、印刷電路板供應商臻鼎-KY、華通、砷化鎵廠穩懋等，市場預期也將持續切入iPhone 16系列供應鏈。
+
+針對下半年iPhone備貨狀況，法人評估，今年下半年iPhone 16系列備貨量落在8500萬支至9000萬支區間，較2023年同期iPhone 15備貨量約8300萬支成長約5%。
+
+展望2025年iPhone設計趨勢，天風國際證券分析師郭明錤預估，蘋果在2025年下半年可能移除iPhone 17 Plus產品，他分析，目前Plus機種僅占新款iPhone整體出貨比重約5%至10%，另外3款機型包括標準型、Pro和Pro Max已有高覆蓋率和產品區隔度。
+
+郭明錤也推測，2025年下半年蘋果可能推出新款超薄機型，除了內建蘋果自研A19處理器，也可能搭配蘋果自己研發的5G通訊晶片，此外中框可能採用鈦鋁合金，鈦金屬比重可能低於目前的iPhone Pro和Pro Max機種所使用的鈦金屬。
+

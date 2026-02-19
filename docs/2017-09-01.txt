@@ -1,0 +1,14 @@
+標題: Amazon與Microsoft攜手合作　智慧語音助理跨平台連結
+原文: https://www.ectimes.org.tw/2017/09/amazon%e8%88%87microsoft%e6%94%9c%e6%89%8b%e5%90%88%e4%bd%9c%e3%80%80%e6%99%ba%e6%85%a7%e8%aa%9e%e9%9f%b3%e5%8a%a9%e7%90%86%e8%b7%a8%e5%b9%b3%e5%8f%b0%e9%80%a3%e7%b5%90/
+記者／雷勝雲
+
+Amazon與Microsoft於30日在各自的官方部落格上，宣布將攜手整合旗下智慧語音助理Alexa和Cortana，未來Alexa和Cortana將能互相呼叫，讓用戶可以同時享有其分別擅長的特色功能。
+
+■Microsoft和Amazon的智慧語音助理合作計畫預計於今年底上線。（截圖自／Official Microsoft Blog）
+
+雖然同為語音助理，Amazon Alexa與Microsoft Cortana的長處還是有所差異，因此它們擅長處理的事情與適用場合也不同。根據Microsoft發布的訊息表示，Alexa可以透過良好的購物經驗讓生活更加簡單，用戶可以對Alexa下達商品訂購指令，並經由Amazon帳戶來使用偏好的付款方式；Cortana適合用於行程安排與提醒功能設置，不僅讓用戶不會遺忘重要行程，還能計算出在會議時間開始前，是否還有額外的時間去一趟乾洗店。
+
+這項合作計畫預計在今年底上線，根據Amazon官方發布的訊息，當Alexa和Cortana完成跨平台連結後，Alexa的用戶將可以使用Cortana的特有功能，像是Microsoft Office系列的辦公功能，如設置會議提醒、查詢工作行事曆及工作郵件等，而Cortana的用戶則能在Windows 10設備上呼叫Alexa，並在Amazon上進行購物，此外，還可以與超過20000項由第三方開發人員所建立的技術進行互動。
+
+Amazon與Microsoft選擇以合作取代競爭關係，讓語音助理的功能彼此互補，為用戶帶來更豐富且實用的體驗，並藉此創造雙贏的局面。
+

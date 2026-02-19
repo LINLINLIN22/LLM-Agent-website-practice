@@ -1,0 +1,16 @@
+標題: Backup and Sync　備份無煩惱
+原文: https://www.ectimes.org.tw/2017/06/backup-and-sync%e3%80%80%e5%82%99%e4%bb%bd%e7%84%a1%e7%85%a9%e6%83%b1/
+記者／朱顗如
+
+Google將於6月28日釋出名為「Backup and Sync from Google」的新版電腦版Google Drive，讓每位使用者可以直接把電腦中的資料夾及照片備份至雲端。
+
+￭ Google釋出的Backup and Sync介面。（取自／Google官方部落格）
+
+現行的Google Drive版本需要使用者將要備份的檔案移至Google Drive程式的文件夾中，才會與雲端的Google Drive連結，而新版Backup and Sync則讓使用者可以勾選想要在桌面、文件夾裡想備份的資料，加上與Google相簿桌面備份軟體整合，相片亦可以在同一個軟體中與雲端連結，讓備份更方便。
+
+Backup and Sync是針對一般用戶，且適用於Mac及PC兩作業系統的軟體，而Google仍建議G Suite的用戶繼續使用具Google Drive直到今年底針對企業設計的Drive File Stream釋出，未來Drive File Stream將能讓使用者可以在線上使用大量的企業數據，而不佔用硬碟空間。
+
+雖然Backup and Sync對使用者來說非常方便，但由於Google Drive免費的雲端空間只有15GB，雖較同為提供雲端服務的iCloud多出許多，但若要備份整台電腦資料稍嫌不足，需要購買額外的儲存空間。
+
+後續補充：Google已於2017年9月8日宣布，將自12月11日起停止支援桌面版Google Drive應用程式更新，並且在明年3月將正式停止服務。未來一般用戶將使用Backup and Sync、企業版的用戶則是使用將於9月26日正式發表的DriveFile Stream作為雲端備份工具。
+

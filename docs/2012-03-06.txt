@@ -1,0 +1,14 @@
+標題: Siri逢敵手　Android聲控特助年底現聲
+原文: https://www.ectimes.org.tw/2012/03/siri%e9%80%a2%e6%95%b5%e6%89%8b%e3%80%80android%e8%81%b2%e6%8e%a7%e7%89%b9%e5%8a%a9%e5%b9%b4%e5%ba%95%e7%8f%be%e8%81%b2/
+記者／賴誼禎蘋果Siri將不再一「支」獨秀！Android 5.0「糖豆」(Jelly Bean) 甜品還未端出，Google先洩殺手級程式Assistant聲控助理消息引人耳目，市場盛傳其性能更勝蘋果Siri，可望年底問世。市場專家表示，Google正在打造的Google Assistant聲控助理，隨其隱私權政策的改變，可有系統且大量收集用戶使用Google+、搜尋引擎等的行為資料，比起蘋果Siri，將提供更精確的個人化互動，不僅是單純接收命令，且能積極解決生活中的實際任務。事實上，Android作業系統目前已存有語音功能，可聲控手機撥打電話、發送簡訊和mail、檢視地圖與上網等，但功能上仍遭蘋果Siri狠甩在後，而Google未大力推廣，大部分用戶也未曾使用過。Google為掃前陰霾，並破Android 4.0市場普及率低的困境，Google聲控助理的功能，除針對蘋果Siri弱項而設計，未來並打算開放第三方開發商參與設計相關App。Google Assistant聲控助理能否如期現聲Android 5.0？使用者都等著被驚艷。
+
+記者／賴誼禎
+
+蘋果Siri將不再一「支」獨秀！Android 5.0「糖豆」(Jelly Bean) 甜品還未端出，Google先洩殺手級程式Assistant聲控助理消息引人耳目，市場盛傳其性能更勝蘋果Siri，可望年底問世。
+
+市場專家表示，Google正在打造的Google Assistant聲控助理，隨其隱私權政策的改變，可有系統且大量收集用戶使用Google+、搜尋引擎等的行為資料，比起蘋果Siri，將提供更精確的個人化互動，不僅是單純接收命令，且能積極解決生活中的實際任務。
+
+事實上，Android作業系統目前已存有語音功能，可聲控手機撥打電話、發送簡訊和mail、檢視地圖與上網等，但功能上仍遭蘋果Siri狠甩在後，而Google未大力推廣，大部分用戶也未曾使用過。
+
+Google為掃前陰霾，並破Android 4.0市場普及率低的困境，Google聲控助理的功能，除針對蘋果Siri弱項而設計，未來並打算開放第三方開發商參與設計相關App。Google Assistant聲控助理能否如期現聲Android 5.0？使用者都等著被驚艷。
+

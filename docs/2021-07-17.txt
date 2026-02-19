@@ -1,0 +1,10 @@
+標題: 搶攻先買後付市場　Apple 推出「Apple Pay Later」服務
+原文: https://www.ectimes.org.tw/2021/07/%e6%90%b6%e6%94%bb%e5%85%88%e8%b2%b7%e5%be%8c%e4%bb%98%e5%b8%82%e5%a0%b4%e3%80%80apple-%e6%8e%a8%e5%87%ba%e3%80%8capple-pay-later%e3%80%8d%e6%9c%8d%e5%8b%99/
+Apple近期將與高盛銀行 (Goldman Sachs)合作推出新服務「Apple Pay Later」，讓消費者在使用Apple Pay購物時，不用申辦Apple Card，就能體驗先購買後付款的支付方式。
+
+「Apple Pay Later」的運作模式是由高盛銀行作為貸方，讓消費者在使用Apple Pay購物時能選擇兩種支付方案。一種是「Apple Pay in 4」，以四期零利率的方式分期付款，並在2個月的繳費期限中繳清。如果消費者擔心無法在2個月內繳清，也可以選擇另一種「Apple Pay Monthly Installments」方案，此方案讓消費者在有利息的情況下，能用更長的繳費期限將帳單結清。
+
+Apple改變了以往消費者只能透過傳統金融機構申請延後付款的模式，雖然消費者使用「Apple Pay Later」仍需要事先向銀行申請並通過審核，不過Apple將此申請流程直接整合在Apple錢包裡，讓沒有辦理 Apple Card 的用戶也可以體驗信用卡的分期付款功能，用更彈性的支付方式享受購物的樂趣。
+
+「Apple Pay Later」的推出，代表著Apple將與Affirm、PayPal等同樣推出先買後付功能的支付業者競爭，搶攻因爲疫情和電商而興起的先買後付市場。而Apple的目的不外乎是希望能藉由「Apple Pay Later」提高Apple Pay的普及率，並吸引更多的消費者購買自家產品，也藉此讓Apple的生態系更加完整，提供消費者一站式的便利服務。
+

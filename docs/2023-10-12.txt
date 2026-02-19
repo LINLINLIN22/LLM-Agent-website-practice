@@ -1,0 +1,12 @@
+標題: 不用再「忘記密碼」了！　Google 按指紋、掃臉就可登入！
+原文: https://www.ectimes.org.tw/2023/10/%e4%b8%8d%e7%94%a8%e5%86%8d%e3%80%8c%e5%bf%98%e8%a8%98%e5%af%86%e7%a2%bc%e3%80%8d%e4%ba%86%ef%bc%81%e3%80%80google-%e6%8c%89%e6%8c%87%e7%b4%8b%e3%80%81%e6%8e%83%e8%87%89%e5%b0%b1%e5%8f%af%e7%99%bb/
+跨國科技公司Google於 10 月 10 日在官方部落格宣布「Passkeys」（密碼金鑰）的啟用，使用者無需再記誦任何密碼，即可快速登入 Google 帳號。此功能在今年 5 月就已推出，現在終於連一般帳戶使用者也可以使用囉！
+
+￭Google於 10 月 10 日在官方部落格宣布「Passkeys」（密碼金鑰）的啟用。（圖片來源 / Photo bySolen FeyissaonUnsplash）
+
+一般登入帳號方式分為兩種，一種為常見的舊式密碼「Password」，須自行輸入設定密碼才能登入帳號；另一種方式為「Passkeys」，透過內建指紋、臉部辨識或 PIN 碼來解鎖帳號。Google 表示「Passkeys」更好記、更快速、更方便使用，也更具安全性。
+
+10 月 11 日起，「Passkeys」將成為 Google 的預設登入方式。不過，使用者可能需要花點時間適應新的技術。Google 讓使用者登入帳號時，仍可以選擇「Skip password when possible」（如果可能，跳過密碼）的選項，退出「Passkeys」模式，使用傳統輸入「Password」登入。
+
+「Passkeys」的登入方式是未來趨勢，不僅提升 40% 速度，更可以抵禦網路釣魚詐騙。許多網路平台也開始採用，包含Microsoft、Apple、Uber、eBay、WhatsApp等，Google 也表示會再慢慢拓展至其他平台，譬如YouTube和Google Maps等。
+

@@ -1,0 +1,12 @@
+標題: VMware護航　Chromebook欲與微軟搶攤企業市場
+原文: https://www.ectimes.org.tw/2014/02/vmware%e8%ad%b7%e8%88%aa%e3%80%80chromebook%e6%ac%b2%e8%88%87%e5%be%ae%e8%bb%9f%e6%90%b6%e6%94%a4%e4%bc%81%e6%a5%ad%e5%b8%82%e5%a0%b4/
+記者／錢 蔚
+
+Google先前推出搭載Chrome OS系統的Chromebook進軍筆電市場，此番欲與微軟搶攤企業市場，又出新動作！日前，Google與著名虛擬機軟體公司VMware已達成合作意願，欲攜手為Chrome OS系統引入Windows體驗，屆時，使用者藉助VMware提供的軟體，便可於Chromebook中訪問Windows界面和應用程式。
+
+據悉，Windows XP即將停止服務，而Windows 8的表現亦差強人意，致使企業開始考慮Windows之外的操作平臺。Google推出此舉可謂正是時候，可能說服更多企業客戶成為Chrome OS的使用者，助其搶攤市場，因即便Chromebook搭載的是Chrome OS系統，但企業仍然能夠通過某種形式運行Windows。
+
+此次雙方聯手主要得益於VMware公司去年收購了DaaS（Desktop As A　Service）公司Desktone。屆時，VMware公司將負責提供VMware Horizon　DaaS平臺，以雲端服務的形式及更為低廉的成本，來實現Chromebook中訪問Windows界面、數據和應用程式的需求。
+
+此外，Google也於近期推出一款Chromebox，可提供便捷的視頻會議服務，為其拓展企業市場的版圖更添助力。Chromebook推出至今銷售成績顯然超過預期，統計數據顯示，Samsung旗下的Chromebook目前正是亞馬遜最賣座的筆電，雖然Chromebook還有待進一步開發和完善，但其今後的市場表現仍令人期待。
+

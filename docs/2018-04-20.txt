@@ -1,0 +1,14 @@
+標題: 智慧設備自己做　Google升級AIY套件
+原文: https://www.ectimes.org.tw/2018/04/%e6%99%ba%e6%85%a7%e8%a8%ad%e5%82%99%e8%87%aa%e5%b7%b1%e5%81%9a%e3%80%80google%e5%8d%87%e7%b4%9aaiy%e5%a5%97%e4%bb%b6/
+記者／高銘檀
+
+去年Google推出AIY Project（Do-it-yourselfartificial intelligence Project），通過硬紙板與相關配件，製作您自己的Google智能設備。16日Google推出兩款新的AIY套件 ，分別為AIYVision與AIY Voice，AIY Vision可以讓你建立一個識別人和物體的攝像機，AIY Voice可以讓使用者建立一個語音控制揚聲器。
+
+此外，升級版的套件還增加了Raspberry PiZero WH底板、預裝Micro SD卡，AIYVision包含一台Raspberry Pi Camera v2相機模塊，讓製作者購買回來即可進行組裝。透過此組套件開發出來的智慧設備，能夠支援Google的語音助理Assistant，智慧相機也將支援影像辨識能力，且仍然同時支援熒幕、鍵盤和滑鼠等桌電設備。為協助使用者，Google優先推出AIY專屬Android應用程式（App）AIY版本，官網上也提供了更清晰版的組裝指南，而IOS與Chrome版本不久也將一併更新。
+
+￭使用者可通過AIY輕鬆組裝出屬於自己的智慧設備。（截圖自／AIY Project）
+
+AIY Project的初衷是為想要試驗與了解給人們認識不同AI方案，讓人人都可以輕鬆組裝出一台智慧設備，進而認識深度學習與神經網路。套件可以支援各地區的STEM教育課程，讓使用者能夠以更輕鬆的方式學習人工智慧涉及到的科學（Science）、科技（Technology）、工程學（Engineering）與數學（Mathematics）應用。
+
+AIY Vision與AIY Voive已於4月上架Target網店與實體店，售價分別為89.99美元與49.99美元。同時也會在全球其他通路上出售。
+

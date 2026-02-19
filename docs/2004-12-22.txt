@@ -1,0 +1,10 @@
+標題: CRM軟體商Siebel併購Edocs
+原文: https://www.ectimes.org.tw/2004/12/crm%e8%bb%9f%e9%ab%94%e5%95%86siebel%e4%bd%b5%e8%b3%bcedocs/
+記者／郭瑞林
+
+為了扭轉CRM（客戶關係管理）需求疲軟的局面，專門幫助公司企業建立管理客戶關係系統的軟體商SiebelSystems本週五宣佈該公司以1.15億美元的現金買下專注於電子帳單及客戶自助系統的公司Edocs。Siebel執行長Michael Lawrie表示，他相信客戶將會在前端辦公室，或者是客戶服務技術上做重大的投資，因為這塊領域大多數都還未被整合。Michael Lawrie預估在買下Edocs之後，將可擴大前端辦公室（front-office）的產品以及跨入了電子帳單（e-billing）及自助服務應用（self-service applications）市場。
+
+曾擔任IBM高階主管的Lawrie在五月間走馬上任，此次的併購是Lawrie擔任Siebel執行長以來的第一宗收購案。這宗交易預計在第一季初完成，Siebel預計這筆收購案將讓第一季的獲利每股減少約1美分。Lawrie指出，為了擴大市場Siebel可能會在這方面有更多的收購。除此之外，Lawrie並表示「我們一直都在尋求可能的收購，讓我們的產品線更完整…我們會以收購來替代自己建立新技術。」
+
+除了支付1.15億美元現金買下私人持有的Edocs之外，Siebel還將在2006年Edocs達到特定營收及進入其他哩程碑之後另有一筆付款。 買下Edocs之後將讓Siebel在電信、信用卡，及健保卡市場也佔有一席之地。目前Edocs的客戶有英國電信（British Telecom）、Harvard Pilgrim Healthcare以及豐田融資服務（Toyota Financial Services）。
+

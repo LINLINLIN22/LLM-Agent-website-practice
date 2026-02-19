@@ -1,0 +1,12 @@
+標題: 微軟雲端Office上線　衝擊現有文書軟體
+原文: https://www.ectimes.org.tw/2011/06/%e5%be%ae%e8%bb%9f%e9%9b%b2%e7%ab%afoffice%e4%b8%8a%e7%b7%9a%e3%80%80%e8%a1%9d%e6%93%8a%e7%8f%be%e6%9c%89%e6%96%87%e6%9b%b8%e8%bb%9f%e9%ab%94/
+記者／邱晟傑微軟雲端文書軟體服務Office 365日前已於全球40個國家正式上線，使用者可依需求選擇不同的雲端文書功能，並支付相對的租賃售價，目前Office 365分別可對應PC與Mac平台，智慧型手機方面也支援WP7、Android、iOS、Symbian與RIM系統。Office 365是以微軟的Office辦公室軟體為中心，將PowerPoint、Word、Excel、等，整合至微軟的Exchange、SharePoint及Lync，以雲端分享的方式，提供協作能力，即同時在雲端上之使用者可以一起編輯同一個檔案或文件、共同規畫或分享行事曆；此軟體自去年4月開始測試，有超過20萬的組織參與測試，估計最多可減少50%的IT成本。而Office 365在訂價方面則保持高度彈性，使用者可挑選不同組合之服務，並支付2至27美元不等的價格即可，每人/每月6美元的線上服務標榜「適合員工人數少於 25 人且沒有 IT 員工或專業人員的中小企業」，可使用的功能包括Office Web Apps、Exchange Online、SharePoint Online及Lync，中大型企業則可選擇最低每人/每月2美元的服務。Office 365預估將成為GoogleApps的強勁對手，不過此雲端文書服務卻可能對自家包裝版的傳統office軟體事業造成極大威脅，據統計，商務電腦幾乎每 10 台就有 9 台使用微軟套裝的office軟體，因此微軟必須先行說服這些使用者轉換至office 365。
+
+記者／邱晟傑
+
+微軟雲端文書軟體服務Office 365日前已於全球40個國家正式上線，使用者可依需求選擇不同的雲端文書功能，並支付相對的租賃售價，目前Office 365分別可對應PC與Mac平台，智慧型手機方面也支援WP7、Android、iOS、Symbian與RIM系統。
+
+Office 365是以微軟的Office辦公室軟體為中心，將PowerPoint、Word、Excel、等，整合至微軟的Exchange、SharePoint及Lync，以雲端分享的方式，提供協作能力，即同時在雲端上之使用者可以一起編輯同一個檔案或文件、共同規畫或分享行事曆；此軟體自去年4月開始測試，有超過20萬的組織參與測試，估計最多可減少50%的IT成本。
+
+而Office 365在訂價方面則保持高度彈性，使用者可挑選不同組合之服務，並支付2至27美元不等的價格即可，每人/每月6美元的線上服務標榜「適合員工人數少於 25 人且沒有 IT 員工或專業人員的中小企業」，可使用的功能包括Office Web Apps、Exchange Online、SharePoint Online及Lync，中大型企業則可選擇最低每人/每月2美元的服務。
+

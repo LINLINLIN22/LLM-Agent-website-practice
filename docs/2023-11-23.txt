@@ -1,0 +1,12 @@
+標題: YouTube 抓寄生帳號！　家庭方案嚴格要求「同住」才可用
+原文: https://www.ectimes.org.tw/2023/11/youtube-%e6%8a%93%e5%af%84%e7%94%9f%e5%b8%b3%e8%99%9f%ef%bc%81%e3%80%80%e5%ae%b6%e5%ba%ad%e6%96%b9%e6%a1%88%e5%9a%b4%e6%a0%bc%e8%a6%81%e6%b1%82%e3%80%8c%e5%90%8c%e4%bd%8f%e3%80%8d%e6%89%8d%e5%8f%af/
+全球最大影片搜尋和分享平台YouTube擁有多種 Premium方案，包含個人方案（新台幣 199 元／月）、學生方案（新台幣 119 元／月）及家庭方案（新台幣 399 元／月）。其中家庭方案，訂閱者可與最多 5 位家庭成員共用YouTube Premium和YouTube Music Premium，且家庭成員必須為「同住」家人。近期，YouTube 開始警告或停權那些「寄生帳號」！
+
+￭YouTube家庭方案，訂閱者可與最多 5 位家庭成員共用YouTube Premium和YouTube Music Premium，且家庭成員必須為「同住」家人。（圖片來源 /YouTube Premium）
+
+前陣子，YouTube 已針對「廣告攔截器」進一步動作，要求使用者卸載「廣告攔截器」或購買 YouTube Premium，否則將會停權該帳戶。然而，見招拆招，有許多使用者為了省資費，會與親朋好友共享 YouTube Premium 帳戶。此舉影響了 YouTube 的訂閱數，所以近日已針對「寄生帳號」發出警告信。
+
+不同於Netflix綁定家中智慧電視，YouTube 採取每 30 天以「電子方式」查核「居住位置」，確認「家庭成員帳號」皆同住一起。若查核有問題，使用者將會收到 YouTube 的通知信並確認地址，倘若拒絕確認要求，就會於 14 日後停止 Premium 權限。
+
+YouTube 此舉是否有違法的疑慮？根據外媒《The Register》報導，隱私顧問 Alexander Hanff 向愛爾蘭資料保護協會 (Data Protection Commission, DPC)提出訴訟，指控 YouTube 違反愛爾蘭電腦濫用法，該法禁止企業在未經明確同意的行為廣告，或是有意存取資訊系統及攔截資料傳輸，而使用者採用任何反追蹤程式，就是明確表達了 Do Not Track (DNT) 的意圖。
+

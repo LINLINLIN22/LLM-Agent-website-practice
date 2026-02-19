@@ -1,0 +1,20 @@
+標題: 加入智慧手錶戰場的 Pixel Watch，來看看它的綜合評比
+原文: https://www.ectimes.org.tw/2022/10/https-www-theverge-com-2022-10-6-23391189-pixel-apple-samsung-galaxy-watch-comparison-specs-fitness/
+無懼於其他更成熟的競爭對手，Google 公開了他們自己的穿戴式產品 –Pixel Watch，作為這個領域的新成員，和 Apple、Galaxy 手錶一齊進行評比自然是免不了的挑戰，讓我們來看看它的表現。
+
+設計：Pixel Watch vs. Apply Watch & Galaxy Watch
+
+美醜與否是主觀的評價，不過我們還是能客觀地就設計方向進行比較，與 Galaxy Watch 5 相同，Pixel Watch 採用圓形錶面設計，Apple Watch 則是圓弧的矩形；和 Apple 的手錶相同，Google 的 Pixel Watch 採用旋牙式錶冠、一個按鈕和一個觸控顯示螢幕，而 Samsung 則使用兩個按鍵和一個觸控螢幕。
+
+Pixel Watch 只有一個尺寸：錶徑 41mm，這與 Apple Watch Series 8、SE、Galaxy Watch 5 的小尺寸很相似；而在材質方面，Pixel Watch 使用金色、消光黑和銀色的不鏽鋼外框可供選擇，Apple Watch Series 8 有鋁和不鏽鋼兩種選擇，SE 只有鋁材質，Samsung 則依功能分別有鋁和鈦金屬兩種材質。
+
+Pixel Watch 的健身追蹤功能有多好？
+
+Pixel Watch 具備一個監控心率的光學感應元件，可以呈現心電圖，並且能記錄使用者的血氧率，當然也提供睡眠監測功能；然而在這些功能之外，Samsung 還具備估計體脂、水份等指標，Apple 的 Series 8 則可以基於體溫偵測來預估排卵期。
+
+可以在哪些手機上使用 Pixel Watch？
+
+Pixel Watch 可以與任何能運行 Android 8.0 或更高版本的手機兼容，與 Galaxy 5 相同 ( 兩款手錶使用相同的作業系統 Wear OS )，不過這也代表它與 iPhone 不兼容，就像 Apple Watch 與 Android 手機無法兼容一樣。
+
+參考資料：How the Pixel, Apple, and Galaxy watches compare on paper
+

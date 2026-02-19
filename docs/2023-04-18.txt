@@ -1,0 +1,10 @@
+標題: AWS宣布推出Amazon Bedrock和多種生成式AI服務
+原文: https://www.ectimes.org.tw/2023/04/aws%e5%ae%a3%e5%b8%83%e6%8e%a8%e5%87%baamazon-bedrock%e5%92%8c%e5%a4%9a%e7%a8%ae%e7%94%9f%e6%88%90%e5%bc%8fai%e6%9c%8d%e5%8b%99/
+整個科技業界都投身於生成式人工智慧（AI）發展的同時，Amazon 自然必需跟上趨勢不能缺席，Amazon最新宣佈推出雲端生成式AI服務 「Bedrock」，是能透過Amazon Web Services存取不同基礎模型，包括AI21 Labs的Jurassic-2（專精西班牙、法語、德語、葡萄牙語、義大利語和荷蘭語）；由 Google支持OpenAI前員工成立的Anthropic；Stability AI的 Stable Diffusion和Amazon今天同步新推的基礎模型Titan，生成對話文本、翻譯、圖像等內容。
+
+AWS強調他們服務的優點是讓客戶毋須自建伺服器，同時又能在保護個資安全的情況下，按實際需要客製化不同AI模型，並能在熟悉的操作環境中接入自己的產品。Amazon的執行長Andy Jassy在CNBC的專訪時強調使用者所輸入的資料不會用於訓練AI，並透露 C3.ai、Pegasystems、Accenture和Deloitte等企業已經率先試用過 Bedrock，讓他們不需要花費數十億元來自行組建硬體和訓練AI模型，有助控制成本。
+
+（圖片截自：Amazon官網）
+
+個人開發者也有好消息，AWS的程式生成AI CodeWhisperer正式開放免費使用，這AI能快速生成被視為淺顯和無差別的程式碼，減少到網上查找的時間，而且能夠透過自然語言描述操作，讓開發者可以專注於真正創新的功能和服務的編程。
+

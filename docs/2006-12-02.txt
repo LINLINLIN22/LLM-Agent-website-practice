@@ -1,0 +1,24 @@
+標題: 2006微軟IT管理日–捲起袖子做ITIL! 12/08
+原文: https://www.ectimes.org.tw/2006/12/2006%e5%be%ae%e8%bb%9fit%e7%ae%a1%e7%90%86%e6%97%a5-%e6%8d%b2%e8%b5%b7%e8%a2%96%e5%ad%90%e5%81%9aitil-12-08/
+記者／林姿吟
+
+今年最不能錯過的研討會 2006 微軟 IT 管理日，讓您一次掌握最新 System Center 管理技術、探索當代務實管理思維，助您跨越技術的障礙、預算的鴻溝，捲起袖子做 ITIL !
+
+Incident 難料 ? Performance 難查 ? Service Level 只能在夢中追尋 ? 邁入第三個千禧年，不能再用肉眼盯著系統，不能再用靈感做 Troubleshooting，不能再用感覺評估績效，跨平台集中監控、直覺式維運中心、串人串流程的 Help Desk，層層助您打造 99.9999% 的服務 !Change ?有把握 ? Configuration 不清不楚 ? Release 得求神拜佛 ? 二十一世紀的今天 不用整天擔心駭客病毒，不用浪費人力來盤查資產，不要讓 User 抱怨系統更新影響辦公，全方位用戶端安全管理、全自動清查、零接觸部署、虛擬化技術讓 “軟體即服務”，天天幫您掌握商務風險 !主辦單位：Microsoft活動對象：不限活動時間：2006.12.08 09:00~16:30活動地點：台中金典飯店 金典一廳活動費用：免費活動網址：http://www.microsoft.com/taiwan/events/06mngday/default.htm分享此新聞：
+
+Incident 難料 ? Performance 難查 ? Service Level 只能在夢中追尋 ? 邁入第三個千禧年，不能再用肉眼盯著系統，不能再用靈感做 Troubleshooting，不能再用感覺評估績效，跨平台集中監控、直覺式維運中心、串人串流程的 Help Desk，層層助您打造 99.9999% 的服務 !Change ?有把握 ? Configuration 不清不楚 ? Release 得求神拜佛 ? 二十一世紀的今天 不用整天擔心駭客病毒，不用浪費人力來盤查資產，不要讓 User 抱怨系統更新影響辦公，全方位用戶端安全管理、全自動清查、零接觸部署、虛擬化技術讓 “軟體即服務”，天天幫您掌握商務風險 !
+
+主辦單位：Microsoft活動對象：不限活動時間：2006.12.08 09:00~16:30活動地點：台中金典飯店 金典一廳活動費用：免費活動網址：http://www.microsoft.com/taiwan/events/06mngday/default.htm分享此新聞：
+
+主辦單位：Microsoft
+
+活動對象：不限
+
+活動時間：2006.12.08 09:00~16:30
+
+活動地點：台中金典飯店 金典一廳
+
+活動費用：免費
+
+活動網址：http://www.microsoft.com/taiwan/events/06mngday/default.htm
+
