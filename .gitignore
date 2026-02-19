@@ -13,3 +13,7 @@ my_enterprise_db
 # csv
 links.csv
 links_new.csv
+
+# python
+__pycache__/
+*.pyc
